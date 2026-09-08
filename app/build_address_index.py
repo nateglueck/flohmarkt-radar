@@ -20,6 +20,7 @@ import sys
 import zipfile
 from collections import defaultdict
 from datetime import date
+from itertools import chain
 from pathlib import Path
 from typing import Iterator
 
@@ -142,7 +143,9 @@ def build(archive_path: Path, out_dir: Path, stichtag: str) -> None:
         names: dict[tuple[str, str], str] = {}
         total = skipped = 0
 
-        for row in ([first] + list(rows)):
+        # chain, not list: ADRESSE.csv has ~2.5M rows and materialising them
+        # would cost several GB.
+        for row in chain([first], rows):
             total += 1
             skz, plz = row[col["skz"]], (row[col["plz"]] or "").strip()
             street = streets.get(skz)

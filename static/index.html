@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flohmarkt Radar</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header>
+  <h1>Flohmarkt Radar</h1>
+  <span class="src">Quelle: flohmarkt.at</span>
+</header>
+
+<div class="controls">
+  <button id="locate" type="button">📍 Mein Standort</button>
+  <div class="autocomplete">
+    <input id="place" type="text" placeholder="oder Adresse / Ort / PLZ eingeben"
+           autocomplete="off" role="combobox" aria-expanded="false" aria-controls="suggestions">
+    <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
+  </div>
+  <button id="findPlace" type="button">Suchen</button>
+
+  <label>Umkreis
+    <input id="radius" type="range" min="1" max="100" value="7">
+    <output id="radiusOut">7 km</output>
+  </label>
+
+  <label>Zeitraum
+    <select id="days">
+      <option value="7" selected>7 Tage</option>
+      <option value="30">30 Tage</option>
+      <option value="90">90 Tage</option>
+      <option value="180">180 Tage</option>
+    </select>
+  </label>
+
+  <label>Kategorie
+    <select id="category"><option value="">alle</option></select>
+  </label>
+
+  <input id="q" type="text" placeholder="Stichwort (optional)">
+  <button id="refresh" type="button" title="Cache umgehen">↻ Neu laden</button>
+</div>
+
+<div id="status" class="status"></div>
+
+<main>
+  <div id="map"></div>
+  <section id="list"></section>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

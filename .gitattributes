@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+data/AT.txt text eol=lf
+*.sqlite binary

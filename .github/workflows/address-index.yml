@@ -39,3 +39,11 @@ jobs:
           git add site/data/streets site/data/address_meta.json
           git diff --quiet --staged || git commit -m "Refresh address index"
           git push
+
+  publish:
+    needs: rebuild
+    uses: ./.github/workflows/publish.yml
+    permissions:
+      contents: write
+      pages: write
+      id-token: write

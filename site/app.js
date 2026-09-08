@@ -224,9 +224,29 @@ function normalizeStreet(text) {
     .replace(/[^a-z0-9]/g, "");
 }
 
-function splitHouseNumber(text) {
-  const match = text.trim().match(/^(.*?)[\s,]+(\d+\s*[a-zA-Z]?)\s*$/);
-  return match ? { street: match[1], number: match[2].replace(/\s+/g, "") } : { street: text, number: "" };
+function parseQuery(text) {
+  let rest = text.trim();
+  let plz = "";
+  let number = "";
+
+  // Trailing postcode, as in "Herrengasse 12, 8010".
+  const trailingPlz = rest.match(/^(.*?)[\s,]+(\d{4})\s*$/);
+  if (trailingPlz) {
+    rest = trailingPlz[1];
+    plz = trailingPlz[2];
+  }
+  const houseNumber = rest.trim().match(/^(.*?)[\s,]+(\d+\s*[a-zA-Z]?)\s*$/);
+  if (houseNumber) {
+    rest = houseNumber[1];
+    number = houseNumber[2].replace(/\s+/g, "");
+  }
+  // Leading postcode, as in "1090 Nussdorfer Strasse".
+  const leadingPlz = rest.trim().match(/^(\d{4})[\s,]+(.*)$/);
+  if (leadingPlz && !plz) {
+    plz = leadingPlz[1];
+    rest = leadingPlz[2];
+  }
+  return { street: rest.trim(), number, plz };
 }
 
 async function loadStreetShard(letter) {
@@ -245,7 +265,7 @@ async function loadStreetShard(letter) {
 }
 
 async function localSuggest(text, limit) {
-  const { street, number } = splitHouseNumber(text);
+  const { street, number, plz } = parseQuery(text);
   const key = normalizeStreet(street);
   if (key.length < 3) return [];
 
@@ -255,9 +275,9 @@ async function localSuggest(text, limit) {
   const prefix = [];
   const contains = [];
   for (const row of rows) {
+    if (plz && !row.plz.startsWith(plz)) continue;
     if (row.key.startsWith(key)) prefix.push(row);
     else if (row.key.includes(key)) contains.push(row);
-    if (prefix.length > 400) break;
   }
   const ranked = [...prefix, ...contains].sort(
     (a, b) => a.key.length - b.key.length || a.plz.localeCompare(b.plz)

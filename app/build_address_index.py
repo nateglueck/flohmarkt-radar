@@ -40,6 +40,17 @@ ATTRIBUTION = "© Österreichisches Adressregister, Stichtagsdaten vom {stichtag
 _UMLAUTS = str.maketrans({"ä": "a", "ö": "o", "ü": "u", "ß": "s"})
 
 
+_CITY_SUFFIX_RE = re.compile(r"\s*,.*$")
+
+
+def clean_city(name: str) -> str:
+    """BEV stores districts inline, e.g. "Wien,Alsergrund" or "Graz,06.Bez.:Jakomini".
+
+    The postal code already disambiguates, so keep only the municipality.
+    """
+    return _CITY_SUFFIX_RE.sub("", name).strip()
+
+
 def normalize(text: str) -> str:
     """Must mirror normalizeStreet() in site/app.js."""
     lowered = text.lower().replace("ß", "ss")
@@ -165,7 +176,7 @@ def build(archive_path: Path, out_dir: Path, stichtag: str) -> None:
             bucket[2] += 1
             if key not in names:
                 city = places.get(row[col["okz"]]) if col["okz"] else None
-                names[key] = city or municipalities.get(row[col["gkz"]], "")
+                names[key] = clean_city(city or municipalities.get(row[col["gkz"]], ""))
 
         print(f"  {total} address rows, {skipped} skipped, {len(sums)} street/PLZ pairs")
 

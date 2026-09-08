@@ -5,6 +5,9 @@ on:
     # 03:17 UTC daily; off the hour to avoid GitHub's peak-minute queue.
     - cron: "17 3 * * *"
   workflow_dispatch:
+  # Callable from address-index.yml: a push made with GITHUB_TOKEN cannot
+  # trigger another workflow, so the index refresh must invoke this directly.
+  workflow_call:
   push:
     branches: [main]
     paths-ignore:

@@ -20,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -37,8 +40,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add site/data/streets site/data/address_meta.json
-          git diff --quiet --staged || git commit -m "Refresh address index"
-          git push
+          if git diff --quiet --staged; then
+            echo "Index unchanged."
+            exit 0
+          fi
+          git commit -m "Refresh address index"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying …"
+            sleep $((attempt * 5))
+          done
+          exit 1
 
   publish:
     needs: rebuild

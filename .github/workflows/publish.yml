@@ -28,7 +28,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          # Always the current tip: when this workflow is called from
+          # address-index.yml it would otherwise check out the caller's SHA,
+          # which predates the freshly committed index.
+          ref: main
+          # Full history so the rebase before pushing works on a clone that is
+          # otherwise shallow.
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -60,8 +67,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/geocache.json
-          git diff --quiet --staged || git commit -m "Update geocode cache [skip ci]"
-          git push
+          if git diff --quiet --staged; then
+            echo "No new geocodes."
+            exit 0
+          fi
+          git commit -m "Update geocode cache [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying …"
+            sleep $((attempt * 5))
+          done
+          exit 1
 
       - uses: actions/configure-pages@v5
 

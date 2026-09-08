@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import asyncio
 import hashlib
 import re
+from collections.abc import Callable
 from datetime import date
 
 import httpx
@@ -180,7 +182,13 @@ async def fetch_page(
     category: int | None = None,
     query: str = "",
     start: int = 0,
+    attempts: int = 4,
 ) -> str:
+    """Fetch one result page, retrying transient network and 5xx failures.
+
+    A full build makes roughly a thousand sequential requests, so a single
+    dropped connection must not abort the run.
+    """
     url, params = build_url(
         plz=plz,
         date_from=date_from,
@@ -189,10 +197,26 @@ async def fetch_page(
         query=query,
         start=start,
     )
-    response = await client.get(url, params=params, headers={"User-Agent": USER_AGENT})
-    response.raise_for_status()
-    response.encoding = "utf-8"
-    return response.text
+    last_error: Exception | None = None
+    for attempt in range(attempts):
+        try:
+            response = await client.get(url, params=params, headers={"User-Agent": USER_AGENT})
+            if response.status_code >= 500:
+                raise httpx.HTTPStatusError(
+                    f"server error {response.status_code}",
+                    request=response.request,
+                    response=response,
+                )
+            response.raise_for_status()
+            response.encoding = "utf-8"
+            return response.text
+        except (httpx.TransportError, httpx.HTTPStatusError) as error:
+            last_error = error
+            if attempt == attempts - 1:
+                break
+            await asyncio.sleep(2.0 * 2**attempt)
+
+    raise RuntimeError(f"giving up on {url} start={start} after {attempts} attempts") from last_error
 
 
 async def scrape(
@@ -204,12 +228,16 @@ async def scrape(
     category: int | None = None,
     query: str = "",
     max_pages: int = 80,
+    page_delay_s: float = 0.0,
+    on_page: Callable[[int, int], None] | None = None,
 ) -> list[Market]:
     """Fetch every result page for one PLZ filter, sequentially and politely."""
     collected: list[Market] = []
     seen: set[str] = set()
 
     for page in range(max_pages):
+        if page and page_delay_s:
+            await asyncio.sleep(page_delay_s)
         html = await fetch_page(
             client,
             plz=plz,
@@ -223,6 +251,8 @@ async def scrape(
         new = [m for m in batch if m.id not in seen]
         seen.update(m.id for m in new)
         collected.extend(new)
+        if on_page:
+            on_page(page, len(collected))
         if len(batch) < PAGE_SIZE:
             break
 

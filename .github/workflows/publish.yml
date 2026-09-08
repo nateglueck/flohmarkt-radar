@@ -34,10 +34,23 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-build.txt
 
+      - name: Restore scrape cache
+        # Lets a rerun of a failed job resume instead of replaying ~1000 requests.
+        uses: actions/cache@v4
+        with:
+          path: data/cache.sqlite
+          key: scrape-${{ github.run_id }}
+          restore-keys: scrape-
+
       - name: Build dataset
         # Nominatim is only a fallback; 15s spacing keeps the unattended run
         # inside its bulk-geocoding policy.
-        run: python -m app.build --days 180 --nominatim-interval 15
+        run: >-
+          python -m app.build --days 180
+          --nominatim-interval 15
+          --scrape-max-age 43200
+          --page-delay 0.4
+          --timeout 60
 
       - name: Commit new geocodes
         run: |

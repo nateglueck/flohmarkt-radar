@@ -38,7 +38,12 @@ CELL_LON_DEG = 0.5
 
 
 async def scrape_everything(
-    client: httpx.AsyncClient, *, days: int, cache: Cache, max_age_s: float
+    client: httpx.AsyncClient,
+    *,
+    days: int,
+    cache: Cache,
+    max_age_s: float,
+    page_delay_s: float,
 ) -> tuple[list[Market], dict[str, int]]:
     """All upcoming events plus a per-event category, one pass per category.
 
@@ -49,25 +54,40 @@ async def scrape_everything(
     until = today + timedelta(days=days)
 
     async def pass_for(category: int | None) -> list[Market]:
+        label = f"category {category}" if category else "all categories"
         key = f"build|{today}|{until}|{category or 'all'}"
         hit = cache.get_scrape(key, max_age_s)
         if hit:
-            return [Market.model_validate(item) for item in hit[0]]
+            markets = [Market.model_validate(item) for item in hit[0]]
+            print(f"  {label}: {len(markets)} events (cached)", flush=True)
+            return markets
+
+        started = time.monotonic()
+
+        def progress(page: int, count: int) -> None:
+            if page and page % 20 == 0:
+                print(f"    {label}: page {page}, {count} events …", flush=True)
+
         batch = await scrape(
-            client, plz="", date_from=today, date_to=until, category=category, max_pages=400
+            client,
+            plz="",
+            date_from=today,
+            date_to=until,
+            category=category,
+            max_pages=400,
+            page_delay_s=page_delay_s,
+            on_page=progress,
         )
         cache.put_scrape(key, [m.model_dump(mode="json") for m in batch])
+        print(f"  {label}: {len(batch)} events ({time.monotonic() - started:.0f}s)", flush=True)
         return batch
 
     markets = await pass_for(None)
-    print(f"  all categories: {len(markets)} events")
 
     categories: dict[str, int] = {}
-    for cat_id, name in CATEGORIES.items():
-        batch = await pass_for(cat_id)
-        for market in batch:
+    for cat_id in CATEGORIES:
+        for market in await pass_for(cat_id):
             categories.setdefault(market.id, cat_id)
-        print(f"  [{cat_id}] {name}: {len(batch)}")
 
     return markets, categories
 
@@ -150,7 +170,13 @@ def write_shards(records: list[dict[str, object]], out_dir: Path) -> list[dict[s
 
 
 async def build(
-    days: int, out_dir: Path, *, nominatim_interval_s: float, scrape_max_age_s: float
+    days: int,
+    out_dir: Path,
+    *,
+    nominatim_interval_s: float,
+    scrape_max_age_s: float,
+    page_delay_s: float,
+    timeout_s: float,
 ) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     cache = Cache()
@@ -162,11 +188,15 @@ async def build(
     )
 
     async with httpx.AsyncClient(
-        timeout=30.0, headers={"User-Agent": USER_AGENT}, follow_redirects=True
+        timeout=timeout_s, headers={"User-Agent": USER_AGENT}, follow_redirects=True
     ) as client:
-        print("Scraping flohmarkt.at …")
+        print("Scraping flohmarkt.at …", flush=True)
         markets, categories = await scrape_everything(
-            client, days=days, cache=cache, max_age_s=scrape_max_age_s
+            client,
+            days=days,
+            cache=cache,
+            max_age_s=scrape_max_age_s,
+            page_delay_s=page_delay_s,
         )
 
         print("Geocoding …")
@@ -228,6 +258,13 @@ def main() -> None:
         default=0.0,
         help="reuse cached scrape passes younger than this many seconds",
     )
+    parser.add_argument(
+        "--page-delay",
+        type=float,
+        default=0.0,
+        help="pause between result pages; use 0.5 for unattended runs",
+    )
+    parser.add_argument("--timeout", type=float, default=30.0, help="per-request timeout")
     args = parser.parse_args()
     asyncio.run(
         build(
@@ -235,6 +272,8 @@ def main() -> None:
             args.out,
             nominatim_interval_s=args.nominatim_interval,
             scrape_max_age_s=args.scrape_max_age,
+            page_delay_s=args.page_delay,
+            timeout_s=args.timeout,
         )
     )
 

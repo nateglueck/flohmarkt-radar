@@ -63,7 +63,10 @@ is a private Azure Artifacts feed that prompts for credentials.
 `app/build.py`:
 
 1. **Scrape** - one pass over all of Austria, then one pass per category to tag each
-   event. Roughly 1000 requests, ~7 minutes, sequential.
+   event. Roughly 1000 requests, ~7 minutes, sequential. Each request retries up to four
+   times with exponential backoff, and every pass is cached, so a failed CI job resumes
+   rather than starting over. flohmarkt.at can get slow (14 s per page has been observed),
+   hence `--timeout 60` in CI.
 2. **Geocode** - resolves each distinct street address via Photon (OSM), with Nominatim
    as fallback. Only *new* addresses cost a request: 2574 events currently collapse to
    621 distinct addresses.

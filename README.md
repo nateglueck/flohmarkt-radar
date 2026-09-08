@@ -1,12 +1,28 @@
 # Flohmarkt Radar
 
-Local single-page app that finds flea markets within a radius around you, using
+Finds flea markets within a radius around you, using
 [flohmarkt.at](https://www.flohmarkt.at/termine/) as the data source.
 
-## Run
+**Live: <https://nateglueck.github.io/flohmarkt-radar/>**
 
-There is **one process**. The FastAPI backend also serves the frontend as static files,
-so there is no separate frontend build or dev server.
+## How it is put together
+
+flohmarkt.at has no radius search and sends no CORS headers, so a browser cannot query
+it directly. Instead a scheduled GitHub Actions job does all the expensive work once a
+day and commits nothing but a small cache; the published site is pure static files.
+
+```
+GitHub Actions (daily)                     GitHub Pages (static)
+---------------------                      ---------------------
+scrape flohmarkt.at      --+
+geocode new addresses      +-> site/data/  --> browser: haversine filter,
+shard events by grid cell --+                  map, list, autocomplete
+```
+
+Because the browser does the radius maths itself, changing the radius or the date range
+is instant and costs no requests.
+
+## Run locally
 
 ```powershell
 cd C:\Users\ngl\IdeaProjects\flohmarkt-radar
@@ -14,101 +30,119 @@ cd C:\Users\ngl\IdeaProjects\flohmarkt-radar
 .\run.ps1 -Port 9000      # different port
 ```
 
-Open <http://127.0.0.1:8077/>. Stop with `Ctrl+C`.
+That serves `site/` at <http://127.0.0.1:8077/>, exactly as GitHub Pages will. Stop with
+`Ctrl+C`. Frontend changes need only a hard refresh (`Ctrl+F5`).
 
-### Manual start
+`site/data/` is generated, not committed, so on a fresh clone build it first:
 
 ```powershell
-cd C:\Users\ngl\IdeaProjects\flohmarkt-radar
+.\.venv\Scripts\python.exe -m app.build --days 180
+```
+
+### Manual setup
+
+```powershell
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --index-url https://pypi.org/simple -r requirements.txt
 .\.venv\Scripts\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8077
 ```
 
-`--index-url https://pypi.org/simple` is needed because the machine's default pip index
+`--index-url https://pypi.org/simple` is needed because this machine's default pip index
 is a private Azure Artifacts feed that prompts for credentials.
 
-Add `--reload` while developing the backend. Frontend changes in `static/` need only a
-browser hard-refresh (`Ctrl+F5`), no restart.
+## Building the dataset
 
-Then hit **📍 Mein Standort**, type an address, or right-click the map to set the origin.
-Defaults: 7 km radius, next 7 days, category "Flohmarkt".
+```powershell
+# Full run: scrape + geocode + write site/data/
+.\.venv\Scripts\python.exe -m app.build --days 180
 
-## Why a backend is needed
+# Reuse scrape passes from the last 24 h (fast iteration, no load on the source)
+.\.venv\Scripts\python.exe -m app.build --days 180 --scrape-max-age 86400
+```
 
-flohmarkt.at sends no CORS headers, so the browser cannot fetch it directly. The
-FastAPI backend scrapes, geocodes and does the radius maths; the frontend is plain
-HTML/JS with Leaflet.
+`app/build.py`:
 
-## How it works
+1. **Scrape** - one pass over all of Austria, then one pass per category to tag each
+   event. Roughly 1000 requests, ~7 minutes, sequential.
+2. **Geocode** - resolves each distinct street address via Photon (OSM), with Nominatim
+   as fallback. Only *new* addresses cost a request: 2574 events currently collapse to
+   621 distinct addresses.
+3. **Shard** - events are written into a 0.25 deg x 0.5 deg grid under
+   `site/data/markets/`, each cell tagged with its bounding box in `meta.json`. The
+   browser fetches only the cells intersecting the search circle: a 7 km Vienna search
+   pulls ~130 KB gzip instead of the full 650 KB.
 
-1. **PLZ prefilter** — flohmarkt.at has no radius search, only a PLZ-prefix filter.
-   `app/geo.py` uses the offline GeoNames dataset (`data/AT.txt`, 19k rows) to find all
-   Austrian postal codes within `radius + 15 km` and collapses them into a handful of
-   2–3 digit prefixes.
-2. **Scrape** — `app/scraper.py` calls
-   `GET /termine/suche.php?kat=&bundesland=&plz=<prefixes>&zeitraum=<from>_bis_<to>&start=<n>`,
-   25 rows per page. Plain server-rendered HTML, no JS, no auth, no cookies. Each row
-   yields date, time, title, PLZ, city and street; organizer, description, phone, email,
-   homepage and photo are inlined in the same page, so no detail requests are needed.
-3. **Geocode** — `app/geocoder.py` resolves the street address via Photon (OSM), with
-   Nominatim as fallback (throttled to 1 req/s per its policy). Results are cached
-   permanently in SQLite, so only new events cost a request. Hits outside Austria or in a
-   clearly different postal region are rejected; the PLZ centroid is the fallback.
-4. **Radius** — haversine filter against the origin. Events still on a PLZ centroid
-   (`geo_precision = "plz"`) get a 12 km buffer and are marked `~` in the UI, because
-   GeoNames maps all Vienna districts to the city centre. Background refinement corrects
-   them and the frontend reloads automatically.
+### The geocode cache is the whole trick
 
-## Caching
+Geocoding is the only slow, rate-limited part, and addresses never move. The results are
+committed to git as **`data/geocache.json`** (sorted JSON, git-friendly), restored at the
+start of every build and written back at the end. `data/cache.sqlite` is a local working
+file and stays untracked - it holds scraped HTML and would bloat the repo.
 
-- Scrape results: SQLite, 6 h TTL. **↻ Neu laden** bypasses it.
-- Geocoding: SQLite, permanent (addresses don't move).
-- First search for a region takes ~15 s; repeats are ~20 ms.
-
-## API
-
-| Endpoint | Purpose |
-| --- | --- |
-| `GET /api/search?lat&lon&radius_km&days&category&q&refresh` | markets within radius, sorted by date then distance |
-| `GET /api/suggest?q&limit` | address autocomplete (Austria only) |
-| `GET /api/geocode?q=` | free-text place lookup for the search box |
-| `GET /api/categories` | category id → label |
-| `GET /api/stats` | cache sizes and pending background geocodes |
+The daily CI run therefore geocodes only the handful of genuinely new addresses.
 
 ## Address autocomplete
 
-The address box suggests completions after 3 characters (250 ms debounce, arrow keys +
-Enter to pick). German street spellings are the hard part: Photon indexes
-"Nußdorfer Straße" as two words, so `Nussdorferstrasse 73` matches nothing verbatim.
-`query_variants()` therefore fires several rewrites in parallel — `ss` → `ß` and
-compound splitting (`Nussdorferstrasse` → `Nussdorfer Straße`) — merges the hits, drops
-non-Austrian and duplicate results, and only falls back to Nominatim if everything is
-empty. Typical response: 45–400 ms. The same rewrites are applied when geocoding scraped
-event addresses.
+Two tiers, in order:
 
-## Measured behaviour
+1. **Offline street index** - `site/data/streets/<letter>.json`, built from the Austrian
+   address register (BEV, CC BY 4.0) by `app/build_address_index.py`. Sharded by the
+   first letter of the normalised street name, so typing "Nussdorfer" downloads only the
+   `n` shard. Normalisation strips case, umlauts, `ss`/`sz` and spaces, which is what
+   makes `Nussdorferstrasse` match `Nussdorfer Strasse` without any query rewriting.
+2. **Photon** - queried only when the index yields fewer than three hits, or before the
+   index exists at all. Photon sends `Access-Control-Allow-Origin: *`, so the browser
+   calls it directly; no backend and no API key.
 
-- Vienna, 10 km, 21 days: 235 events scraped, 158 within radius, 132 street-level,
-  16 place-level, 10 PLZ-only.
-- Graz, 30 km, 45 days: 148 scraped, 91 within radius.
+The index is rebuilt twice a year by the `Refresh address index` workflow, because BEV
+republishes on 1 April and 1 October. Until it has run once, tier 2 handles everything.
 
-## Notes on being a good citizen
+> `data.bev.gv.at` is unreachable from the current corporate network, so that workflow
+> can only be run on GitHub, not locally.
 
-- `robots.txt` allows the search pages (only individual detail pages are disallowed).
-- Requests are sequential per search, identified by a descriptive `User-Agent`, and
-  caching keeps repeat load close to zero.
-- Data belongs to flohmarkt.at and the event organizers — this is a personal local tool,
-  not a republishing service.
+## Deployment
+
+| Workflow | Trigger | Does |
+| --- | --- | --- |
+| `.github/workflows/publish.yml` | daily 03:17 UTC, push to `main`, manual | build dataset, commit `data/geocache.json`, deploy `site/` to Pages |
+| `.github/workflows/address-index.yml` | 5 April / 5 October, manual | rebuild the BEV street index and commit it |
+
+One-time setup in the repository: **Settings -> Pages -> Source: GitHub Actions**.
+Actions minutes are free only on public repositories.
+
+Scheduled workflows are disabled after 60 days without repository activity, but the daily
+geocode-cache commit counts as activity, so the schedule sustains itself.
 
 ## Layout
 
 ```
-app/geo.py        offline PLZ index, haversine, prefix selection
-app/scraper.py    flohmarkt.at fetching + HTML parsing
-app/geocoder.py   Photon/Nominatim geocoding, address normalization
-app/cache.py      SQLite cache
-app/main.py       FastAPI endpoints
-static/           SPA (Leaflet map + result list)
-data/AT.txt       GeoNames AT postal codes (CC BY 4.0)
+app/build.py               builds site/data/ (scrape + geocode + shard)
+app/build_address_index.py builds site/data/streets/ from the BEV address register
+app/scraper.py             flohmarkt.at fetching + HTML parsing
+app/geocoder.py            Photon/Nominatim geocoding, address normalisation
+app/geo.py                 offline PLZ index, haversine
+app/cache.py               SQLite cache + geocache.json import/export
+app/main.py                local dev server (serves site/, plus legacy /api routes)
+site/                      everything that gets published
+data/AT.txt                GeoNames AT postal codes (CC BY 4.0)
+data/geocache.json         committed geocode results
 ```
+
+## Data sources and attribution
+
+- Event data: [flohmarkt.at](https://www.flohmarkt.at/termine/). `robots.txt` allows the
+  search pages; requests are sequential and carry a descriptive `User-Agent`. Every event
+  links back to the source.
+- Geocoding and map tiles: OpenStreetMap contributors, ODbL.
+- Addresses: (c) Oesterreichisches Adressregister, CC BY 4.0 - the attribution line in
+  the page footer is a licence condition, not decoration.
+
+## Measured behaviour
+
+- 2574 events Austria-wide over 180 days, 621 distinct addresses.
+- Geocoding precision: 2225 street-level, 248 place-level, 96 PLZ-only. Events still on a
+  PLZ centroid get a 12 km buffer and are marked `~`, because GeoNames maps every Vienna
+  district to the city centre.
+- Vienna, 7 km, 7 days, category Flohmarkt: 4 grid cells (131 KB gzip), 756 candidates,
+  28 hits.
+- Cold bootstrap of the geocode cache: 408 addresses in 7.5 minutes.

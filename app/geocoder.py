@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import os
 import re
 from dataclasses import dataclass
 
@@ -8,9 +9,14 @@ import httpx
 
 from .cache import Cache
 
-PHOTON_URL = "https://photon.komoot.io/api/"
-NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
-USER_AGENT = "flohmarkt-radar/0.1 (local hobby app)"
+# Overridable so the geocoding endpoint can be swapped without a code change,
+# as required by the Nominatim usage policy.
+PHOTON_URL = os.environ.get("PHOTON_URL", "https://photon.komoot.io/api/")
+NOMINATIM_URL = os.environ.get("NOMINATIM_URL", "https://nominatim.openstreetmap.org/search")
+USER_AGENT = os.environ.get(
+    "GEOCODER_USER_AGENT",
+    "flohmarkt-radar/1.0 (+https://github.com/nateglueck/flohmarkt-radar)",
+)
 
 # Austria bounding box, used to reject nonsense geocoder hits.
 AT_BOUNDS = (46.3, 9.4, 49.1, 17.2)
@@ -105,9 +111,16 @@ class Geocoder:
     and is throttled to one request per second per its usage policy.
     """
 
-    def __init__(self, cache: Cache, *, requests_per_second: float = 5.0) -> None:
+    def __init__(
+        self,
+        cache: Cache,
+        *,
+        requests_per_second: float = 5.0,
+        nominatim_interval_s: float = 1.0,
+    ) -> None:
         self.cache = cache
         self._interval = 1.0 / requests_per_second
+        self._nominatim_interval = nominatim_interval_s
         self._last_call = 0.0
         self._throttle = asyncio.Lock()
         self._nominatim_last = 0.0
@@ -146,7 +159,7 @@ class Geocoder:
     async def _nominatim(self, client: httpx.AsyncClient, query: str) -> GeoResult | None:
         async with self._nominatim_lock:
             loop = asyncio.get_running_loop()
-            delay = 1.0 - (loop.time() - self._nominatim_last)
+            delay = self._nominatim_interval - (loop.time() - self._nominatim_last)
             if delay > 0:
                 await asyncio.sleep(delay)
             r = await client.get(

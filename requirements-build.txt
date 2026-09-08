@@ -1,0 +1,5 @@
+# Dependencies for the scheduled GitHub Actions build.
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.2
+pydantic>=2.7

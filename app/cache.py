@@ -109,3 +109,36 @@ class Cache:
         with self._lock:
             self._conn.execute("DELETE FROM scrape_cache")
             self._conn.commit()
+
+    def export_geocodes(self, path: Path) -> int:
+        """Dump the geocode cache to sorted JSON so git can version it cheaply.
+
+        The SQLite file itself is a poor fit for version control: it is mostly
+        scraped HTML payloads and binary deltas do not compress across commits.
+        """
+        with self._lock:
+            rows = self._conn.execute(
+                "SELECT address, lat, lon, precision, source FROM geocode_cache ORDER BY address"
+            ).fetchall()
+        payload = {
+            r["address"]: [r["lat"], r["lon"], r["precision"], r["source"]] for r in rows
+        }
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(
+            json.dumps(payload, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8"
+        )
+        return len(payload)
+
+    def import_geocodes(self, path: Path) -> int:
+        if not path.exists():
+            return 0
+        payload: dict[str, list[Any]] = json.loads(path.read_text(encoding="utf-8"))
+        now = time.time()
+        with self._lock:
+            self._conn.executemany(
+                "INSERT OR IGNORE INTO geocode_cache "
+                "(address, lat, lon, precision, source, cached_at) VALUES (?, ?, ?, ?, ?, ?)",
+                [(addr, *values, now) for addr, values in payload.items()],
+            )
+            self._conn.commit()
+        return len(payload)

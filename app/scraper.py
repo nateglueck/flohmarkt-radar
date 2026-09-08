@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup, Tag
 from .models import Market
 
 BASE_URL = "https://www.flohmarkt.at/termine/suche.php"
-USER_AGENT = "flohmarkt-radar/0.1 (local hobby app; contact: local user)"
+USER_AGENT = "flohmarkt-radar/1.0 (+https://github.com/nateglueck/flohmarkt-radar)"
 PAGE_SIZE = 25
 
 CATEGORIES: dict[int, str] = {

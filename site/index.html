@@ -4,13 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Flohmarkt Radar</title>
+<meta name="description" content="Flohmärkte in Österreich im Umkreis deiner Adresse finden.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="/static/styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header>
   <h1>Flohmarkt Radar</h1>
-  <span class="src">Quelle: flohmarkt.at</span>
+  <span class="src">Quelle: <a href="https://www.flohmarkt.at/termine/" target="_blank" rel="noopener">flohmarkt.at</a></span>
 </header>
 
 <div class="controls">
@@ -41,7 +42,6 @@
   </label>
 
   <input id="q" type="text" placeholder="Stichwort (optional)">
-  <button id="refresh" type="button" title="Cache umgehen">↻ Neu laden</button>
 </div>
 
 <div id="status" class="status"></div>
@@ -51,7 +51,13 @@
   <section id="list"></section>
 </main>
 
+<footer class="attribution">
+  <span>Termindaten: <a href="https://www.flohmarkt.at/termine/" target="_blank" rel="noopener">flohmarkt.at</a> &middot; <span id="generated"></span></span>
+  <span>Karte: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>-Mitwirkende (ODbL)</span>
+  <span id="addressCredit"></span>
+</footer>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="/static/app.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

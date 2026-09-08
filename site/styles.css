@@ -129,3 +129,14 @@ main { flex: 1; display: grid; grid-template-columns: 1fr 460px; min-height: 0; 
   main { grid-template-columns: 1fr; grid-template-rows: 45vh 1fr; }
   #list { border-left: none; border-top: 1px solid var(--line); }
 }
+
+.attribution {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  padding: 10px 16px;
+  font-size: 11px;
+  color: #7a7a7a;
+  border-top: 1px solid #e2e2e2;
+}
+.attribution a { color: inherit; }

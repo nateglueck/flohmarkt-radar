@@ -18,7 +18,7 @@ from .geocoder import Geocoder, geocode_free_text, normalize_address, suggest
 from .models import Market, SearchResult
 from .scraper import CATEGORIES, USER_AGENT, scrape
 
-STATIC_DIR = Path(__file__).resolve().parent.parent / "static"
+STATIC_DIR = Path(__file__).resolve().parent.parent / "site"
 SCRAPE_TTL_S = 6 * 3600
 INLINE_GEOCODE_BUDGET_S = 12.0
 # PLZ centroids (especially in Vienna) can sit several km off the real venue,
@@ -226,4 +226,5 @@ async def index() -> FileResponse:
     return FileResponse(STATIC_DIR / "index.html")
 
 
-app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+# Mounted last so the /api routes above win; html=True serves index.html at /.
+app.mount("/", StaticFiles(directory=STATIC_DIR, html=True), name="site")

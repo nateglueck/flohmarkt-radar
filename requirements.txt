@@ -1,5 +1,7 @@
+# Local development: everything in requirements-build.txt plus the dev server
+# and the address-index builder.
+-r requirements-build.txt
+
 fastapi>=0.115
 uvicorn[standard]>=0.30
-httpx>=0.27
-beautifulsoup4>=4.12
-lxml>=5.2
+pyproj>=3.6

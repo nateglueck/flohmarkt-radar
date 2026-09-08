@@ -1,0 +1,64 @@
+name: Scrape and publish
+
+on:
+  schedule:
+    # 03:17 UTC daily; off the hour to avoid GitHub's peak-minute queue.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+      - "data/geocache.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements-build.txt
+
+      - name: Build dataset
+        # Nominatim is only a fallback; 15s spacing keeps the unattended run
+        # inside its bulk-geocoding policy.
+        run: python -m app.build --days 180 --nominatim-interval 15
+
+      - name: Commit new geocodes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/geocache.json
+          git diff --quiet --staged || git commit -m "Update geocode cache [skip ci]"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -119,6 +119,12 @@
   "street",
   "photon"
  ],
+ "Alexander Poch - Platz 6, 1020, Wien": [
+  48.2190916,
+  16.3792876,
+  "street",
+  "photon"
+ ],
  "Alfred Fröhlich - Straße 3, 2201, Seyring": [
   48.3386105,
   16.4635233,
@@ -353,6 +359,12 @@
   "street",
   "photon"
  ],
+ "BLAUER SALON, Ramperstorffergasse 63, 1050, Wien": [
+  48.1904005,
+  16.3548482,
+  "street",
+  "photon"
+ ],
  "Badener Str. 18, 2700, Wiener Neustadt": [
   47.835183,
   16.2412214,
@@ -581,6 +593,12 @@
   "street",
   "photon"
  ],
+ "Buchfeldgasse 9 / Ecke Schmidgasse / Ludwig Sackmauer Platz, 1080, Wien": [
+  48.2104079,
+  16.3532564,
+  "street",
+  "photon"
+ ],
  "Bujattigasse 5, Baptistengemeinde, 1140, Wien": [
   48.2042783,
   16.2554612,
@@ -657,6 +675,12 @@
   47.7161132,
   13.4419052,
   "street",
+  "photon"
+ ],
+ "Dorfstadl Mittergrabern, 2020, Mittergrabern": [
+  48.6175093,
+  16.0163309,
+  "place",
   "photon"
  ],
  "Dorfstraße 14, Gemeindeamt 1. Stock, 4600, Schleißheim": [
@@ -941,6 +965,12 @@
   "street",
   "photon"
  ],
+ "Franz - Jonas - Platz 1, Bahnhof Floridsdorf, 1210, Wien": [
+  48.2577051,
+  16.3992891,
+  "street",
+  "photon"
+ ],
  "Franz Josef Straße 74 / Turnsaal, 2346, Maria Enzersdorf": [
   48.0979339,
   16.279386,
@@ -1204,6 +1234,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Hadres 117, 2061, Hadres": [
+  48.7104287,
+  16.1278244,
+  "street",
+  "photon"
  ],
  "Hafenstraße 57, 3500, Krems an der Donau": [
   48.4126256,
@@ -2657,6 +2693,12 @@
   "street",
   "photon"
  ],
+ "Nitscha, 8200, Gleisdorf": [
+  47.1280256,
+  15.7492181,
+  "place",
+  "photon"
+ ],
  "Oberer Marktplatz 50, 3920, Groß Gerungs": [
   48.573696,
   14.9568465,
@@ -2696,6 +2738,12 @@
  "Oelweingasse 2, 1150, Wien": [
   48.1894357,
   16.329983,
+  "street",
+  "photon"
+ ],
+ "Oeverseestraße 2C, 1150, Wien": [
+  48.2022967,
+  16.3162944,
   "street",
   "photon"
  ],
@@ -3944,6 +3992,12 @@
  "Unterer Markt 24, 8551, Wies": [
   46.7200687,
   15.2736768,
+  "street",
+  "photon"
+ ],
+ "Urchen 17, 5761, Maria Alm": [
+  47.404646,
+  12.9036948,
   "street",
   "photon"
  ],

@@ -1205,6 +1205,12 @@
   "street",
   "photon"
  ],
+ "Gunoldstraße 12+14, 1090, 1090 Wien": [
+  48.2023756,
+  16.3941064,
+  "street",
+  "photon"
+ ],
  "Gunskirchener Str. 7, MAX CENTER, 4600, Wels": [
   48.1458253,
   13.9719523,
@@ -2015,6 +2021,12 @@
   "street",
   "photon"
  ],
+ "Kolpinghaus, 4020, Linz": [
+  48.2985668,
+  14.2894697,
+  "street",
+  "photon"
+ ],
  "Kolpinghaus, Jahngasse 20, 6850, Dornbirn": [
   47.4091196,
   9.7364135,
@@ -2445,6 +2457,12 @@
   48.5729103,
   16.7006887,
   "place",
+  "photon"
+ ],
+ "Mayerling 1, 2534, Mayerling": [
+  48.0468887,
+  16.0985901,
+  "street",
   "photon"
  ],
  "Meidlinger Platzl, 1120, Wien": [

@@ -197,6 +197,12 @@
   "street",
   "photon"
  ],
+ "Am Steinbühel 31, 4030, Linz": [
+  48.2539225,
+  14.2892965,
+  "street",
+  "photon"
+ ],
  "Am Tabor 5, 1020, Wien": [
   48.2250841,
   16.3852106,
@@ -1277,6 +1283,12 @@
   "street",
   "photon"
  ],
+ "Halleiner Landesstraße 7, 5411, Oberalm": [
+  47.6920586,
+  13.1000226,
+  "street",
+  "photon"
+ ],
  "Hamerlingpark, 1080, Wien": [
   48.2109425,
   16.3460007,
@@ -1286,6 +1298,12 @@
  "Hanakgasse 2, 1140, Wien": [
   48.1985887,
   16.2698317,
+  "street",
+  "photon"
+ ],
+ "Hanggasse 48a, 6850, Dornbirn": [
+  47.4029192,
+  9.7333016,
   "street",
   "photon"
  ],
@@ -1706,6 +1724,12 @@
  "Innenstadt, 8580, Köflach": [
   47.0634907,
   15.0916861,
+  "place",
+  "photon"
+ ],
+ "Irene Harand Platz, 1040, Wien": [
+  48.1965105,
+  16.3673791,
   "place",
   "photon"
  ],

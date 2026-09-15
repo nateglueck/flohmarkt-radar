@@ -197,6 +197,12 @@
   "street",
   "photon"
  ],
+ "Am Sportplatz 2, 2111, Obergänserndorf": [
+  48.4309063,
+  16.3657402,
+  "street",
+  "photon"
+ ],
  "Am Steinbühel 31, 4030, Linz": [
   48.2539225,
   14.2892965,
@@ -419,6 +425,12 @@
   "street",
   "photon"
  ],
+ "Bahnstraße 24, 2824, Seebenstein": [
+  47.7022348,
+  16.1426209,
+  "street",
+  "photon"
+ ],
  "Bahnzeile 2, 2143, Großkrut": [
   48.641395,
   16.7231021,
@@ -472,6 +484,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Bei der Kapelle 21, 3580, Horn": [
+  48.674872,
+  15.6536516,
+  "street",
+  "photon"
  ],
  "Bergmann - Platz 2, 3252, Petzenkirchen": [
   48.1437727,
@@ -668,6 +686,12 @@
  "Diendorfer Weg 16, 3493, Hadersdorf am Kamp": [
   48.4484631,
   15.726187,
+  "street",
+  "photon"
+ ],
+ "Dinghoferstraße 42 / 3 / 13, 4020, Linz": [
+  48.3074409,
+  14.3107318,
   "street",
   "photon"
  ],
@@ -1085,6 +1109,18 @@
   "street",
   "photon"
  ],
+ "Gemeindeamt, Feuerwehrgasse 2, 3388 Markersdorf, 3388, Markersdorf": [
+  48.1922479,
+  15.5009813,
+  "street",
+  "photon"
+ ],
+ "Gemeindesaal, Waldmannsgasse 1, 2542, Kottingbrunn": [
+  47.9438284,
+  16.2228309,
+  "street",
+  "photon"
+ ],
  "Gentzgasse 10, 1180, Wien": [
   48.227891,
   16.3475308,
@@ -1217,6 +1253,12 @@
   "street",
   "photon"
  ],
+ "Gunoldstraße 12+14, 1190, Wien": [
+  48.2448685,
+  16.3654387,
+  "street",
+  "photon"
+ ],
  "Gunskirchener Str. 7, MAX CENTER, 4600, Wels": [
   48.1458253,
   13.9719523,
@@ -1325,6 +1367,12 @@
   "street",
   "photon"
  ],
+ "Harrersdorf 48, 2143, Großkrut": [
+  48.6490129,
+  16.7337039,
+  "street",
+  "photon"
+ ],
  "Hartholzstraße 37, 2640, Gloggnitz": [
   47.6708831,
   15.936724,
@@ -1352,6 +1400,12 @@
  "Hauptplatz 19, 4190, Bad Leonfelden": [
   48.5218106,
   14.2950572,
+  "street",
+  "photon"
+ ],
+ "Hauptplatz 20, 7122, Gols": [
+  47.8976485,
+  16.907031,
   "street",
   "photon"
  ],
@@ -1409,6 +1463,12 @@
   "place",
   "photon"
  ],
+ "Hauptstraße 1, 5071, Wals": [
+  47.791368,
+  12.965069,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 33, 2332, Hennersdorf": [
   48.1114616,
   16.3642612,
@@ -1460,6 +1520,12 @@
  "Heiligenstädterstraße 152, 1190, Wien": [
   48.1446302,
   16.451341,
+  "street",
+  "photon"
+ ],
+ "Heinrich Tröbergasse 15, 2331, Vösendorf": [
+  48.1350325,
+  16.3274265,
   "street",
   "photon"
  ],
@@ -1580,6 +1646,12 @@
  "Hofrat- Erbenstr. 1, Volkshaus Lerchenfeld, 3500, Krems - Lerchenfeld": [
   48.4129339,
   15.635609,
+  "street",
+  "photon"
+ ],
+ "Hohenwartherstraße 143, 3471, Großriedenthal": [
+  48.4868363,
+  15.8640349,
   "street",
   "photon"
  ],
@@ -1763,6 +1835,12 @@
   "street",
   "photon"
  ],
+ "Johann - Strauss - Straße 20, 4600 Wels, 4600, Wels": [
+  48.1627299,
+  14.0072817,
+  "street",
+  "photon"
+ ],
  "Johann Nepomuk Berger Platz 6, 1160, Wien": [
   48.2122122,
   16.3260936,
@@ -1817,9 +1895,21 @@
   "street",
   "photon"
  ],
+ "KArdinal König Platz 2, 1130, Wien": [
+  48.177318,
+  16.2826917,
+  "street",
+  "photon"
+ ],
  "KLEINGMAINERHOF, Morzgerstr. 27, 5020, Salzburg": [
   47.7802186,
   13.056649,
+  "street",
+  "photon"
+ ],
+ "KUNSTTANKSTELLE OTTAKRING / Grundsteingasse 45 - 47, 1160, Wien": [
+  48.210291,
+  16.3336057,
   "street",
   "photon"
  ],
@@ -1967,6 +2057,12 @@
   "street",
   "photon"
  ],
+ "Kirchenplatz 4, 3251, Purgstall": [
+  48.057138,
+  15.1354578,
+  "street",
+  "photon"
+ ],
  "Kirchenstraße 1, 4692, Niederthalheim": [
   48.0988062,
   13.7684895,
@@ -2066,6 +2162,12 @@
  "Koppelweg 2, 4060, Leonding": [
   48.2893436,
   14.2640916,
+  "street",
+  "photon"
+ ],
+ "Korbin 28, 8542, St. Peter im Sulmtal": [
+  46.7723665,
+  15.2708999,
   "street",
   "photon"
  ],
@@ -2231,6 +2333,12 @@
   "street",
   "photon"
  ],
+ "Leonhardstraße 45, 8010, Graz": [
+  47.0731526,
+  15.4533331,
+  "street",
+  "photon"
+ ],
  "Lerchenfelderstraße 81, 1070, Wien": [
   48.1878123,
   16.3647278,
@@ -2258,6 +2366,12 @@
  "Liesinger Platz 1, 1230 Wien, 1230, Wien": [
   48.1350328,
   16.2839399,
+  "street",
+  "photon"
+ ],
+ "Liftstraße 10 4251 Sandl, 4251, Sandl": [
+  48.5619344,
+  14.6360855,
   "street",
   "photon"
  ],
@@ -2627,6 +2741,12 @@
   "street",
   "photon"
  ],
+ "Murmanngasse 6, 1220, Wien": [
+  48.221404,
+  16.4788563,
+  "street",
+  "photon"
+ ],
  "Musikschulsaal, Greifensteinerstraße 22, 3423, St. Andrä Wördern": [
   48.3224798,
   16.2103406,
@@ -2666,6 +2786,12 @@
  "Naarnerstraße 79, 4320, Perg": [
   48.2445735,
   14.6767904,
+  "street",
+  "photon"
+ ],
+ "Nellingstraße 18, 3333, Böhlerwerk": [
+  47.9838786,
+  14.7489809,
   "street",
   "photon"
  ],
@@ -2915,6 +3041,12 @@
   "street",
   "photon"
  ],
+ "Petersberg, 2630, Ternitz": [
+  47.7158155,
+  16.0493187,
+  "place",
+  "photon"
+ ],
  "Petersdorf 343, PII Halle, 8323, St. Marein bei Graz": [
   46.9938392,
   15.6916768,
@@ -2943,6 +3075,12 @@
   48.1072127,
   16.285897,
   "street",
+  "photon"
+ ],
+ "Pfarrheim Markersdof an der Pielach, 3388, Markersdorf an der Pielach": [
+  48.1912928,
+  15.5014835,
+  "place",
   "photon"
  ],
  "Pfarrheim Walserfeld, Schulstraße 10, 5071, Wals - Siezenheim": [
@@ -3317,6 +3455,12 @@
   "street",
   "photon"
  ],
+ "Salcherstraße 106 A - F, 3104, St. Pölten - Harland": [
+  48.1574109,
+  15.6388106,
+  "street",
+  "photon"
+ ],
  "Salvatorianerplatz 1, 1100, Wien": [
   48.1657605,
   16.3705839,
@@ -3677,6 +3821,12 @@
   "street",
   "photon"
  ],
+ "Sportgasse 1, 2263, Dürnkrut": [
+  48.4704167,
+  16.8572548,
+  "street",
+  "photon"
+ ],
  "Sportplatz Grafenschlag, 3912, Grafenschlag": [
   48.5001034,
   15.1494604,
@@ -3953,6 +4103,12 @@
   "street",
   "photon"
  ],
+ "Thenneberg. 89, 2571, Altenmarkt an der Triesting": [
+  48.0237537,
+  15.9527699,
+  "street",
+  "photon"
+ ],
  "Theodor Körner Straße 2, 2525, Guenselsdorf": [
   47.9437923,
   16.2546662,
@@ -4043,7 +4199,19 @@
   "street",
   "photon"
  ],
+ "Urfahrmarkt - Gelände, 4020, Linz": [
+  48.3015418,
+  14.2879054,
+  "street",
+  "photon"
+ ],
  "VHS Floridsdorf, Angerer Str. 14, 1210, Wien": [
+  48.2586277,
+  16.4018496,
+  "street",
+  "photon"
+ ],
+ "VHS Floridsdorf, Angerer Straße 14, 1210, Wien": [
   48.2586277,
   16.4018496,
   "street",
@@ -4151,6 +4319,12 @@
   "street",
   "photon"
  ],
+ "Vorgartenstraße 56, 1200, Wien": [
+  48.2368937,
+  16.3861562,
+  "street",
+  "photon"
+ ],
  "Vorklostergasse 39a, 6900, Bregenz": [
   47.499835,
   9.7316783,
@@ -4168,6 +4342,12 @@
   15.508865,
   "street",
   "photon"
+ ],
+ "Wagramerstraße 150, 1220, Wien": [
+  48.230843,
+  16.4145535,
+  "street",
+  "nominatim"
  ],
  "Wagramerstraße 246, 1220, Wien": [
   48.2256716,
@@ -4289,6 +4469,12 @@
   "street",
   "photon"
  ],
+ "Wiener Straße 21, 2203, Großebersdorf": [
+  48.3602247,
+  16.4649226,
+  "street",
+  "photon"
+ ],
  "Wiener Straße 35a, 8605, Kapfenberg": [
   47.4442976,
   15.2910807,
@@ -4298,6 +4484,12 @@
  "Wiener Straße 46, 3550, Langenlois": [
   48.4747567,
   15.6955565,
+  "street",
+  "photon"
+ ],
+ "Wiener Straße 8, 2601, Sollenau": [
+  47.8988907,
+  16.2491476,
   "street",
   "photon"
  ],

@@ -155,6 +155,12 @@
   "street",
   "photon"
  ],
+ "Alte Rheinfähre 6, 6845, Hohenems": [
+  47.3645384,
+  9.6661262,
+  "street",
+  "photon"
+ ],
  "Am Brunnenfeld 11 / 2, 3250, Wieselburg": [
   48.1298331,
   15.1504377,
@@ -695,6 +701,12 @@
   "street",
   "photon"
  ],
+ "Dominik Wölfel Gasse 17, 1210, Wien": [
+  48.271229,
+  16.4426178,
+  "street",
+  "photon"
+ ],
  "Dorfplatz, 2222, Kollnbrunn": [
   48.4625283,
   16.5902576,
@@ -914,6 +926,12 @@
  "Eurospar Vogau, 8472, Vogau - Strass": [
   46.7396743,
   15.6040899,
+  "street",
+  "photon"
+ ],
+ "Eßlinger Hauptstraße 79, 1220, Wien": [
+  48.2147973,
+  16.5221726,
   "street",
   "photon"
  ],
@@ -1288,6 +1306,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Hadikgasse 156, 1140, Wien": [
+  48.1909724,
+  16.2907464,
+  "street",
+  "photon"
  ],
  "Hadres 117, 2061, Hadres": [
   48.7104287,
@@ -1745,6 +1769,12 @@
   "unresolved",
   "none"
  ],
+ "Im Hof des Schlosses Ehrenhausen Klagenfurt, 9020, Klagenfurt": [
+  null,
+  null,
+  "unresolved",
+  "none"
+ ],
  "In Allen Grazer Bezirken, 8020, Graz": [
   null,
   null,
@@ -2063,6 +2093,18 @@
   "street",
   "photon"
  ],
+ "Kirchenplatz 8, 4442, Kleinraming": [
+  48.0109432,
+  14.4903243,
+  "street",
+  "photon"
+ ],
+ "Kirchenplatz, 3363, Ulmerfeld Hausmening Neufurth": [
+  48.0756876,
+  14.8142828,
+  "street",
+  "photon"
+ ],
  "Kirchenstraße 1, 4692, Niederthalheim": [
   48.0988062,
   13.7684895,
@@ -2207,6 +2249,12 @@
   "street",
   "photon"
  ],
+ "Kulturhaus Reith bei Kitzbühel, Kitzbühlerstr. 2, 6370, Reith bei Kitzbühel": [
+  47.4774363,
+  12.3450343,
+  "street",
+  "photon"
+ ],
  "Kulturstadel Großschönau, Großschönau 1, 3922 Großschönau, 3922, Großschönau": [
   48.6520844,
   14.9409595,
@@ -2303,6 +2351,12 @@
   "street",
   "photon"
  ],
+ "Lauriacumstraße, 4470, Enns": [
+  48.2160197,
+  14.4687007,
+  "place",
+  "photon"
+ ],
  "Lederergasse 14, 4132, Lembach": [
   48.4978065,
   13.8990322,
@@ -2318,6 +2372,12 @@
  "Leitersdorf i. R. 6 beim Gasthaus Papst, 8330, Feldbach": [
   46.944278,
   15.9421435,
+  "street",
+  "photon"
+ ],
+ "Lemböckgasse 68, 1230, Wien": [
+  48.1344916,
+  16.3111123,
   "street",
   "photon"
  ],
@@ -2696,6 +2756,12 @@
  "Mittersteig 10, 1050, Wien": [
   48.1920659,
   16.362176,
+  "street",
+  "photon"
+ ],
+ "Mitterweg 2, 4550, Kremsmünster Österreich": [
+  48.0504104,
+  14.1336732,
   "street",
   "photon"
  ],
@@ -3128,6 +3194,12 @@
  "Pfarrplatz 1, 2372, Gießhübl": [
   48.0970038,
   16.2369886,
+  "street",
+  "photon"
+ ],
+ "Pfarrplatz 2, 4616, Weißkirchen": [
+  48.1636739,
+  14.1279401,
   "street",
   "photon"
  ],
@@ -4109,6 +4181,12 @@
   "street",
   "photon"
  ],
+ "Theodor - Grill - Straße 7, 4030, Linz": [
+  48.255467,
+  14.3678502,
+  "street",
+  "photon"
+ ],
  "Theodor Körner Straße 2, 2525, Guenselsdorf": [
   47.9437923,
   16.2546662,
@@ -4424,6 +4502,12 @@
  "Weisses Kreuz 1, 2851 Krumbach, 2851, Krumbach": [
   47.5415761,
   16.1558175,
+  "street",
+  "photon"
+ ],
+ "Weißenthurngasse 16, 1120, Wien": [
+  48.1742969,
+  16.3155317,
   "street",
   "photon"
  ],

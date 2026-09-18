@@ -503,6 +503,12 @@
   "street",
   "photon"
  ],
+ "Bergsteiggasse, 1170, Wien": [
+  48.2176656,
+  16.3351387,
+  "place",
+  "photon"
+ ],
  "Bergstraße 31C, 8890, Flums / Schweiz": [
   null,
   null,
@@ -833,6 +839,12 @@
   "street",
   "photon"
  ],
+ "Eisenbachgasse 41, 1130, Wien": [
+  48.1624207,
+  16.2780394,
+  "street",
+  "photon"
+ ],
  "Eisenhammerstraße 9, 6850, Dornbirn": [
   47.4104514,
   9.7354275,
@@ -909,6 +921,12 @@
   47.7099762,
   13.6198181,
   "place",
+  "photon"
+ ],
+ "Esterhazygasse 3, 1060, Wien": [
+  48.1941255,
+  16.3534948,
+  "street",
   "photon"
  ],
  "Europastraße 11, Ehem. Leiner, 3442, Asparn / Langenrohr": [
@@ -1139,6 +1157,12 @@
   "street",
   "photon"
  ],
+ "Gemeindezentrum Ludesch, 6713, Ludesch": [
+  47.180298,
+  9.7712351,
+  "street",
+  "photon"
+ ],
  "Gentzgasse 10, 1180, Wien": [
   48.227891,
   16.3475308,
@@ -1348,6 +1372,12 @@
   16.0833217,
   "street",
   "photon"
+ ],
+ "Hainfelderstraße 92, 2564, Weissenbach": [
+  47.9881853,
+  16.0328206,
+  "street",
+  "nominatim"
  ],
  "Halleiner Landesstraße 7, 5411, Oberalm": [
   47.6920586,
@@ -1841,6 +1871,18 @@
   "place",
   "photon"
  ],
+ "Itzlinger Hauotstraße 16, 5020, Salzburg": [
+  47.8202564,
+  13.0444353,
+  "street",
+  "photon"
+ ],
+ "Itzlinger Hauptstraße 16, 5020, Salzburg": [
+  47.8202564,
+  13.0444353,
+  "street",
+  "photon"
+ ],
  "Jagdschlossgasse 2, 1130, Wien": [
   48.1772284,
   16.2817701,
@@ -1874,6 +1916,12 @@
  "Johann Nepomuk Berger Platz 6, 1160, Wien": [
   48.2122122,
   16.3260936,
+  "street",
+  "photon"
+ ],
+ "Johann Wöckinger Straße 9, 4209, Engerwitzdorf": [
+  48.3377779,
+  14.3694679,
   "street",
   "photon"
  ],
@@ -1925,6 +1973,12 @@
   "street",
   "photon"
  ],
+ "Julius - Meinl - Gasse 3 - 7, 1160, Wien": [
+  48.2201007,
+  16.310137,
+  "street",
+  "photon"
+ ],
  "KArdinal König Platz 2, 1130, Wien": [
   48.177318,
   16.2826917,
@@ -1953,6 +2007,12 @@
   47.0689957,
   15.4456981,
   "street",
+  "photon"
+ ],
+ "Kaiserin Elisabeth - Straße 28, 2340, Mödling": [
+  48.0949494,
+  16.2850343,
+  "place",
   "photon"
  ],
  "Kajetan - Sweth - Str. 1, Phil. O - Dorf Innsbruck, 6020, Innsbruck": [
@@ -2000,6 +2060,12 @@
  "Kempelengasse 16 / 1, 1100, Wien": [
   48.1736512,
   16.3930538,
+  "street",
+  "photon"
+ ],
+ "Kernhof 7, 3195, Kernhof": [
+  47.8156341,
+  15.5425526,
   "street",
   "photon"
  ],
@@ -2129,6 +2195,12 @@
   "street",
   "photon"
  ],
+ "Kirchenstraße 6 Rehhofsiedlung, 5400, Hallein": [
+  47.7102987,
+  13.0732587,
+  "street",
+  "photon"
+ ],
  "Kirchenweg 2, 3241, Kirnberg an der Mank": [
   48.0707058,
   15.3244592,
@@ -2138,6 +2210,12 @@
  "Kirchenweg 4, 4551, Ried im Traunkreis": [
   48.024643,
   14.0745094,
+  "street",
+  "photon"
+ ],
+ "Kirchstraße 6, 6811, Göfis": [
+  47.2359736,
+  9.6320171,
   "street",
   "photon"
  ],
@@ -2211,6 +2289,12 @@
   46.7723665,
   15.2708999,
   "street",
+  "photon"
+ ],
+ "Kremser Straße 3, 3484, Grafenwörth": [
+  48.4093113,
+  15.7721688,
+  "place",
   "photon"
  ],
  "Kremserstraße 49, 3910, Zwettl": [
@@ -2615,10 +2699,22 @@
   "street",
   "photon"
  ],
+ "Marktplatz, 5541, Altenmarkt in Pongau": [
+  47.3779,
+  13.4238978,
+  "street",
+  "photon"
+ ],
  "Marktstraße 28, 4813, Altmünster": [
   47.9009692,
   13.7620181,
   "street",
+  "photon"
+ ],
+ "Marktstraße und Harrachgasse, 6845, Hohenems": [
+  47.3662111,
+  9.6888906,
+  "place",
   "photon"
  ],
  "Marktzentrum 1A, 2752, Wöllersdorf": [
@@ -2720,6 +2816,12 @@
  "Methodistenkirche EMK, Blumenstraße 5, 6900, Bregenz": [
   47.4993764,
   9.7418171,
+  "street",
+  "photon"
+ ],
+ "Mettensdorf 39, 4342, Baumgartenberg": [
+  48.2020284,
+  14.7453185,
   "street",
   "photon"
  ],
@@ -3026,6 +3128,12 @@
  "Pachern-Hauptstraße 97, Foyer der Kulturhalle, 8075, Hart bei Graz": [
   47.0456315,
   15.5203619,
+  "street",
+  "photon"
+ ],
+ "Palffygasse 8, 1170, Wien": [
+  48.2156966,
+  16.3373705,
   "street",
   "photon"
  ],
@@ -3380,6 +3488,18 @@
  "Raiffeisenplatz 2 - Veranstaltungszentrum Gunskirchen, 4623, Gunskirchen": [
   48.1324674,
   13.9426511,
+  "street",
+  "photon"
+ ],
+ "Ramperstorffergasse 5, 1050, Wien": [
+  48.1844777,
+  16.3605572,
+  "street",
+  "photon"
+ ],
+ "Ramperstorffergasse 63, 1050, Wien": [
+  48.1903216,
+  16.3549207,
   "street",
   "photon"
  ],
@@ -3839,6 +3959,12 @@
   "street",
   "photon"
  ],
+ "Sigmund - Haffner - Gasse 5, 5020, Salzburg": [
+  47.7996404,
+  13.0444863,
+  "place",
+  "photon"
+ ],
  "Sikorastraße 20a, Pfarrzentrum St. Josef Neualm, 5400, Hallein - Neualm": [
   47.6942262,
   13.0896187,
@@ -3983,6 +4109,12 @@
   "place",
   "photon"
  ],
+ "St. Pöltner Straße 1A, 3150, Wilhelmsburg": [
+  48.1152599,
+  15.6079843,
+  "street",
+  "photon"
+ ],
  "St. Veiterstraße 18, 5621, St. Veit im Pongau": [
   47.3282413,
   13.1551085,
@@ -4023,6 +4155,12 @@
   47.0480306,
   16.0739218,
   "street",
+  "photon"
+ ],
+ "Stadtpark, 3150, Wilhelmsburg": [
+  48.0984986,
+  15.6015261,
+  "place",
   "photon"
  ],
  "Stadtplatz 13, Museum Pregarten, 4230, Pregarten": [
@@ -4083,6 +4221,18 @@
   48.2143223,
   16.3593145,
   "place",
+  "photon"
+ ],
+ "Straßenhäuser 65 Koblach Firma Brändle, 6842, Koblach": [
+  47.311678,
+  9.620416,
+  "street",
+  "photon"
+ ],
+ "Streifingerstraße 10, 2125, Streifing": [
+  48.4855838,
+  16.5037169,
+  "street",
   "photon"
  ],
  "Stubenbergsee, 8223, Stubenberg am See": [
@@ -4253,6 +4403,12 @@
   "street",
   "photon"
  ],
+ "Ungargasse, 29 HOF Bücherlager, 1030, Wien, 03. Bezirk, Landstraße": [
+  48.2012763,
+  16.3879449,
+  "street",
+  "photon"
+ ],
  "Ungargasse, 29, 1030, Wien, 03. Bezirk, Landstraße": [
   48.2016469,
   16.3874772,
@@ -4265,9 +4421,21 @@
   "street",
   "photon"
  ],
+ "Untere Gänsbachgasse 9, 6370, Kitzbühel": [
+  47.4484214,
+  12.3905007,
+  "street",
+  "photon"
+ ],
  "Unterer Markt 24, 8551, Wies": [
   46.7200687,
   15.2736768,
+  "street",
+  "photon"
+ ],
+ "Unterort 2, 3714, Roseldorf": [
+  48.6441263,
+  15.9297666,
   "street",
   "photon"
  ],
@@ -4640,6 +4808,12 @@
  "Wimm 5, 4972, Utzenaich": [
   48.2635632,
   13.4853534,
+  "street",
+  "photon"
+ ],
+ "Winzerstraße 23, 2070, Obernalb bei Retz": [
+  48.7485651,
+  15.9413445,
   "street",
   "photon"
  ],

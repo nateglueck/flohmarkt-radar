@@ -125,6 +125,12 @@
   "street",
   "photon"
  ],
+ "Alfons - Walde - Weg 30, 6372, Oberndorf in Tirol": [
+  47.5001489,
+  12.3814434,
+  "street",
+  "photon"
+ ],
  "Alfred Fröhlich - Straße 3, 2201, Seyring": [
   48.3386105,
   16.4635233,
@@ -266,6 +272,12 @@
  "Anzengrubergasse 13, 1050, Wien": [
   48.1851927,
   16.3645646,
+  "street",
+  "photon"
+ ],
+ "Anzengrubergasse 22, 1050, Wien": [
+  48.1857134,
+  16.364429,
   "street",
   "photon"
  ],
@@ -1523,6 +1535,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 19, 4432, Ernsthofen": [
+  48.1266565,
+  14.4827619,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 33, 2332, Hennersdorf": [
   48.1114616,
   16.3642612,
@@ -2483,6 +2501,12 @@
   "street",
   "photon"
  ],
+ "Lerchenfelder Str 158, 1080, Wien, Josefstadt": [
+  48.2114707,
+  16.3391659,
+  "street",
+  "photon"
+ ],
  "Lerchenfelderstraße 81, 1070, Wien": [
   48.1878123,
   16.3647278,
@@ -2783,6 +2807,12 @@
   "street",
   "photon"
  ],
+ "Messe Innsbruck, Ing. Etzel Straße, 6020, Innsbruck": [
+  47.2728123,
+  11.4069585,
+  "street",
+  "photon"
+ ],
  "Messefoyer der Kärnter Messen, St. Ruprechterstraße, 9020, Klagenfurt am Wörthersee": [
   46.6125311,
   14.3084803,
@@ -2868,6 +2898,12 @@
   "photon"
  ],
  "Mommsengasse 19 Eckhaus Top 2, 1040, WIEN": [
+  48.1898286,
+  16.3782137,
+  "street",
+  "photon"
+ ],
+ "Mommsengasse 19 Eckhaus Top 2, 1040, Wien": [
   48.1898286,
   16.3782137,
   "street",
@@ -3620,6 +3656,12 @@
  "Rudlberg 17, 4890, Frankenmarkt": [
   47.9819,
   13.3893757,
+  "street",
+  "photon"
+ ],
+ "Ruster Straße 82 - 104, 7000, Eisenstadt": [
+  47.8352114,
+  16.5277505,
   "street",
   "photon"
  ],

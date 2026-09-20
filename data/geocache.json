@@ -755,6 +755,12 @@
   "place",
   "photon"
  ],
+ "Dornbirn Forach, 6850, Dornbirn": [
+  47.427752,
+  9.7350611,
+  "street",
+  "photon"
+ ],
  "Dr. - Josef - Resch - Platz 12, 1170, Wien": [
   48.2254907,
   16.3146997,
@@ -1019,6 +1025,12 @@
   "street",
   "photon"
  ],
+ "Florianigasse 1, 3131, Inzersdorf - Getzersdorf": [
+  48.3147134,
+  15.6805151,
+  "street",
+  "photon"
+ ],
  "Florianigasse 24, 1080, Wien": [
   48.2119247,
   16.3502894,
@@ -1040,6 +1052,12 @@
  "Flurweg 6, 4482, Ennsdorf": [
   48.2175776,
   14.4953456,
+  "street",
+  "photon"
+ ],
+ "Forellenweg 3, 2483, Ebreichsdorf": [
+  47.9733471,
+  16.4098078,
   "street",
   "photon"
  ],
@@ -1160,6 +1178,12 @@
  "Gemeindeamt, Feuerwehrgasse 2, 3388 Markersdorf, 3388, Markersdorf": [
   48.1922479,
   15.5009813,
+  "street",
+  "photon"
+ ],
+ "Gemeindeaugasse 5, 1220, Wien": [
+  48.2230914,
+  16.4520744,
   "street",
   "photon"
  ],
@@ -2231,6 +2255,12 @@
   "street",
   "photon"
  ],
+ "Kirchschlag 29, 4202, Kirchschlag bei Linz": [
+  48.4126711,
+  14.2773739,
+  "street",
+  "photon"
+ ],
  "Kirchstraße 6, 6811, Göfis": [
   47.2359736,
   9.6320171,
@@ -2766,6 +2796,12 @@
   "photon"
  ],
  "Maurer Lange Gasse 72, 1230, 1230": [
+  48.148039,
+  16.2665806,
+  "street",
+  "photon"
+ ],
+ "Maurer Lange Gasse 72, 1230, Wien": [
   48.148039,
   16.2665806,
   "street",
@@ -3365,6 +3401,12 @@
   "street",
   "photon"
  ],
+ "Pfarrzentrum St. Severin, Ernst - Mach - Straße 39, 5023 Salzburg, 5023, Salzburg": [
+  47.8229358,
+  13.0687935,
+  "street",
+  "photon"
+ ],
  "Philippsberg 29, 4690, Schwanenstadt": [
   48.0636037,
   13.7686395,
@@ -3380,6 +3422,12 @@
  "Pichelmayergasse 2, 1100, Wien": [
   48.1554071,
   16.3773597,
+  "street",
+  "photon"
+ ],
+ "Pischelsdorf 530, 8212, Pischelsdorf": [
+  47.1718961,
+  15.7989431,
   "street",
   "photon"
  ],
@@ -3929,6 +3977,12 @@
   "street",
   "photon"
  ],
+ "Schönbrunnerstraße Ecke Ramperstorffergasse, 1050, Wien": [
+  null,
+  null,
+  "unresolved",
+  "none"
+ ],
  "Schöngrabern 8, Hintaus, 2020, Schöngrabern": [
   48.5998096,
   16.0676921,
@@ -4253,6 +4307,12 @@
   "street",
   "photon"
  ],
+ "Stockschützenplatz, Auparkweg, 3500, Krems Lerchenfeld": [
+  48.41525,
+  15.6413498,
+  "street",
+  "photon"
+ ],
  "Stop Shop, 1220, Wien": [
   48.2447689,
   16.460967,
@@ -4419,6 +4479,12 @@
   46.5896223,
   13.8353237,
   "street",
+  "photon"
+ ],
+ "Turnerweg 4, 4222, Sankt Georgen an der Gusen": [
+  48.2718132,
+  14.4485413,
+  "place",
   "photon"
  ],
  "Töllergasse 11, 1210, Wien": [

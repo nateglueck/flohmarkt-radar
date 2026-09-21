@@ -1073,6 +1073,12 @@
   "street",
   "photon"
  ],
+ "Freibad, 2154, Unterstinkenbrunn": [
+  48.6658006,
+  16.3500567,
+  "street",
+  "photon"
+ ],
  "Freibadparkplatz Aurolzmünster, 4971, Aurolzmünster": [
   48.2480649,
   13.4556185,
@@ -2135,6 +2141,12 @@
   "street",
   "photon"
  ],
+ "Kirchdorf 72, 6874, Bizau": [
+  47.3686906,
+  9.9282369,
+  "street",
+  "photon"
+ ],
  "Kirchengasse 26, 8990, Bad Aussee": [
   47.6115443,
   13.7884468,
@@ -2422,6 +2434,12 @@
   14.8119958,
   "street",
   "nominatim"
+ ],
+ "Königstetterstraße 76, 3430, Tulln an der Donau": [
+  48.3314947,
+  16.0704113,
+  "street",
+  "photon"
  ],
  "Köppling 15, 8561, Söding - St. Johann": [
   47.0105263,
@@ -3161,6 +3179,12 @@
   "place",
   "photon"
  ],
+ "Ortsplatz1 Gemeindezentrum, 4062, Kirchberg - Thening": [
+  48.2647628,
+  14.1590478,
+  "street",
+  "photon"
+ ],
  "Ortweingasse 2 - 8, 3107 St. Pölten - Viehofen, 3107, St. Pölten": [
   48.2270877,
   15.639646,
@@ -3818,6 +3842,12 @@
  "Schloss Halbturn, 7131, Halbturn": [
   47.8738892,
   16.9731703,
+  "street",
+  "photon"
+ ],
+ "Schlosshof 5, 5310, Mondsee": [
+  47.8564953,
+  13.3513569,
   "street",
   "photon"
  ],
@@ -4917,6 +4947,12 @@
   48.2635632,
   13.4853534,
   "street",
+  "photon"
+ ],
+ "Winden 85, 4311, Schwertberg": [
+  48.283225,
+  14.5932428,
+  "place",
   "photon"
  ],
  "Winzerstraße 23, 2070, Obernalb bei Retz": [

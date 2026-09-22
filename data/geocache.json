@@ -23,6 +23,12 @@
   "street",
   "photon"
  ],
+ "25 Sternstraße, 4100, Ottensheim": [
+  48.3365289,
+  14.171338,
+  "street",
+  "photon"
+ ],
  "30 Burgerwiesen, 3591, Altenburg": [
   48.6492405,
   15.6213975,
@@ -38,6 +44,12 @@
  "42 Wagram an der Donau, 2304, Wagram an der Donau": [
   48.1635081,
   16.7576974,
+  "street",
+  "photon"
+ ],
+ "5 D. A. Kowatschitsch - Gasse, 2340, Mödling": [
+  48.0862645,
+  16.2802343,
   "street",
   "photon"
  ],
@@ -285,6 +297,12 @@
   48.3103657,
   16.5684168,
   "place",
+  "photon"
+ ],
+ "Arkenstraße 5, 6835, Zwischenwasser": [
+  47.2823569,
+  9.6584998,
+  "street",
   "photon"
  ],
  "Arlberg Well. Com, 6580, St. Anton am Arlberg": [
@@ -707,6 +725,12 @@
   "place",
   "photon"
  ],
+ "Diakoniestraße 2, 4312, Ried in der Riedmark": [
+  48.2708983,
+  14.5262233,
+  "street",
+  "photon"
+ ],
  "Diendorfer Weg 16, 3493, Hadersdorf am Kamp": [
   48.4484631,
   15.726187,
@@ -863,6 +887,12 @@
   "street",
   "photon"
  ],
+ "Eisenbahnerstraße 5, 3100, St. Pölten, Spratzern": [
+  48.1698871,
+  15.6207498,
+  "street",
+  "photon"
+ ],
  "Eisenhammerstraße 9, 6850, Dornbirn": [
   47.4104514,
   9.7354275,
@@ -884,6 +914,12 @@
  "Ekz Traisenpark, Dr. Adolf - Schärf - Str. 5, 3100, St. Pölten": [
   48.2225479,
   15.6388851,
+  "street",
+  "photon"
+ ],
+ "Elisabethstraße 39, 5020, Salzburg": [
+  47.8155904,
+  13.0416307,
   "street",
   "photon"
  ],
@@ -1169,6 +1205,12 @@
   "street",
   "photon"
  ],
+ "Geblergasse 44, 1170, Wien": [
+  48.2165463,
+  16.3351593,
+  "street",
+  "photon"
+ ],
  "Gebrüder Pichlergasse 15, 2143, Grosskrut": [
   48.6419249,
   16.7181929,
@@ -1179,6 +1221,12 @@
   47.7994748,
   13.0687219,
   "street",
+  "photon"
+ ],
+ "Gemeinde Mistelbach, 2130, Mistelbach": [
+  48.5269532,
+  16.5941463,
+  "place",
   "photon"
  ],
  "Gemeindeamt, Feuerwehrgasse 2, 3388 Markersdorf, 3388, Markersdorf": [
@@ -1306,6 +1354,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Grimminghalle 8983 Bad Mitterndorf, 8983, Bad Mitterndorf": [
+  47.5528498,
+  13.9344042,
+  "street",
+  "photon"
  ],
  "Grinzinger Allee 26, 1190, Wien": [
   48.2491701,
@@ -1769,6 +1823,12 @@
   "street",
   "photon"
  ],
+ "Hormayrgasse 32 Innenhof, 1170, Wien": [
+  48.2218342,
+  16.3321162,
+  "street",
+  "photon"
+ ],
  "Hormayrgasse 32, 1170, Wien": [
   48.2218342,
   16.3321162,
@@ -1826,6 +1886,12 @@
  "IKEA Vösendorf Südring 1, 2334, Vösendorf": [
   48.1059459,
   16.318355,
+  "street",
+  "photon"
+ ],
+ "Ignaz - Glaser - Straße 59, 5111, Bürmoos": [
+  47.983581,
+  12.919364,
   "street",
   "photon"
  ],
@@ -2243,6 +2309,12 @@
   "street",
   "photon"
  ],
+ "Kirchenstraße 34, 5020, Salzburg": [
+  47.8246245,
+  13.0492082,
+  "street",
+  "photon"
+ ],
  "Kirchenstraße 43a, 5020, Salzburg": [
   47.825264,
   13.0493731,
@@ -2597,6 +2669,12 @@
   "street",
   "photon"
  ],
+ "Linzerstr. 2, 3003, Gablitz": [
+  48.2265669,
+  16.1518539,
+  "street",
+  "photon"
+ ],
  "Linzerstraße 2, 4800, Attnang - Puchheim": [
   48.0097402,
   13.7222584,
@@ -2630,6 +2708,12 @@
  "Lofererstraße 33, 6322, Kirchbichl": [
   47.4949572,
   12.0927963,
+  "street",
+  "photon"
+ ],
+ "Lorcher Straße 2a, 4470, Enns": [
+  48.2173949,
+  14.4802992,
   "street",
   "photon"
  ],
@@ -2728,6 +2812,12 @@
   14.8342313,
   "street",
   "photon"
+ ],
+ "Marktgemeinde Großebersdorf, 2203, Marktgemeinde Großebersdorf": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Marktplatz 1, 4180, Zwettl an der Rodl": [
   48.4664808,
@@ -3089,6 +3179,12 @@
   "street",
   "photon"
  ],
+ "Neukeller 40, 3511, Furth / Göttweig": [
+  48.3713009,
+  15.6076007,
+  "street",
+  "photon"
+ ],
  "Neukloster, 2700, Wiener Neustadt": [
   47.8122816,
   16.2468769,
@@ -3376,6 +3472,12 @@
   14.9323555,
   "place",
   "photon"
+ ],
+ "Pfarrhof Nr. 14, 2051, Zellerndorf": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Pfarrhofgasse 1, 3002, Purkersdorf": [
   48.2084074,
@@ -4109,6 +4211,12 @@
   "street",
   "photon"
  ],
+ "Sonnenstraße 22, 3660, Klein - Pöchlarn": [
+  48.22065,
+  15.218187,
+  "place",
+  "photon"
+ ],
  "Spengergasse 24, 1050, Wien": [
   48.1864526,
   16.3558256,
@@ -4130,6 +4238,12 @@
  "Spitalgasse 63, 2013, Göllersdorf": [
   48.4947838,
   16.1151646,
+  "street",
+  "photon"
+ ],
+ "Spitzenfabrikstraße 2, 3100, ST. Pölten / Viehofen": [
+  48.2319662,
+  15.6477856,
   "street",
   "photon"
  ],
@@ -4235,6 +4349,12 @@
   "place",
   "photon"
  ],
+ "St. Pöltner Straße 11, 3512, Mautern / Donau": [
+  48.3935203,
+  15.5786003,
+  "street",
+  "photon"
+ ],
  "St. Pöltner Straße 1A, 3150, Wilhelmsburg": [
   48.1152599,
   15.6079843,
@@ -4322,6 +4442,18 @@
  "Steg 20, 4817, St. Konrad": [
   47.9199339,
   13.8716436,
+  "street",
+  "photon"
+ ],
+ "Steinfeldzentrum, 2624, Breitenau": [
+  47.7326471,
+  16.139148,
+  "street",
+  "photon"
+ ],
+ "Stephansplatz 3, 1010, Wien": [
+  48.2084923,
+  16.3731269,
   "street",
   "photon"
  ],
@@ -4814,6 +4946,12 @@
  "Weißenthurngasse 16, 1120, Wien": [
   48.1742969,
   16.3155317,
+  "street",
+  "photon"
+ ],
+ "Welserstr. 1, 4643, Pettenbach": [
+  47.9601195,
+  14.0186352,
   "street",
   "photon"
  ],

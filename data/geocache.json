@@ -389,6 +389,12 @@
   "street",
   "photon"
  ],
+ "Autokaderstraße 35, 1210, Wien": [
+  48.2844063,
+  16.3787206,
+  "street",
+  "photon"
+ ],
  "Autokinostraße 2, 1220, Wien / Groß Enzersdorf": [
   null,
   null,
@@ -544,6 +550,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Bildgasse. 18 Tor1, 6850, Dornbirn": [
+  47.4130145,
+  9.7320194,
+  "street",
+  "photon"
  ],
  "Bleichgarten Gutenstein, 2770, Gutenstein": [
   47.8909549,
@@ -701,6 +713,12 @@
   "street",
   "photon"
  ],
+ "Casino Säle, Leopold - Werndl - Straße 10, 4400, Steyr": [
+  48.0358028,
+  14.4136401,
+  "street",
+  "photon"
+ ],
  "Ceija - Stojka - Platz Lerchenfelder Straße 103 / 109, 1070 Wien, 1070, Wien": [
   48.2075753,
   16.3424659,
@@ -740,6 +758,12 @@
  "Dinghoferstraße 42 / 3 / 13, 4020, Linz": [
   48.3074409,
   14.3107318,
+  "street",
+  "photon"
+ ],
+ "Doktor - Ernst - Koref - Promenade 1, 4020, Linz": [
+  48.3085988,
+  14.2888948,
   "street",
   "photon"
  ],
@@ -1313,6 +1337,12 @@
   "street",
   "photon"
  ],
+ "Glockerfeld 5, 5541, Altenmarkt": [
+  47.3877942,
+  13.4119312,
+  "street",
+  "photon"
+ ],
  "Gmündner Straße 2, 3931, Schweiggers": [
   48.6679364,
   15.0614832,
@@ -1354,6 +1384,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Grenzweg 39, 2630, Buchbach": [
+  47.6928606,
+  15.9907306,
+  "street",
+  "photon"
  ],
  "Grimminghalle 8983 Bad Mitterndorf, 8983, Bad Mitterndorf": [
   47.5528498,
@@ -2345,6 +2381,18 @@
   "street",
   "photon"
  ],
+ "Kirchstetterngasse 60, 1160, Wien": [
+  48.2122201,
+  16.3338773,
+  "street",
+  "photon"
+ ],
+ "Kirchstetterngasse 60, 1160, Wien,Ottakring": [
+  48.2122201,
+  16.3338773,
+  "street",
+  "photon"
+ ],
  "Kirchstraße 6, 6811, Göfis": [
   47.2359736,
   9.6320171,
@@ -2637,6 +2685,12 @@
   48.6481442,
   15.8182022,
   "street",
+  "photon"
+ ],
+ "Lichtentalerpark, 1090, Wien": [
+  48.2266259,
+  16.3583256,
+  "place",
   "photon"
  ],
  "Liechtensteinstraße 32 - 34 in Home Store Shop, 1090, Wien": [
@@ -3080,6 +3134,12 @@
  "Moritschstraße 2, 9500, Villach": [
   46.6120248,
   13.8470399,
+  "street",
+  "photon"
+ ],
+ "Moritz - Schadekgasse 34, 3830, Waidhofen / Thaya": [
+  48.8110035,
+  15.2852332,
   "street",
   "photon"
  ],
@@ -3923,6 +3983,12 @@
   "street",
   "photon"
  ],
+ "Schemerlhöhe 84, 8076, Vasoldsberg": [
+  47.0563467,
+  15.6033802,
+  "street",
+  "photon"
+ ],
  "Schemser Straße 5, Meridian Passage, 3950, Gmünd": [
   48.7720538,
   14.9860581,
@@ -4222,6 +4288,12 @@
   16.3558256,
   "street",
   "photon"
+ ],
+ "Spielplatz Höhe Feldgasse 72, 3422, Hadersfeld": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Spießengraben 2, 4562, Steinbach am Ziehberg": [
   47.8898614,
@@ -4697,6 +4769,12 @@
   "street",
   "photon"
  ],
+ "Untere Weißgerberstraße 10, 1030, Wien": [
+  48.2109367,
+  16.3929999,
+  "street",
+  "photon"
+ ],
  "Unterer Markt 24, 8551, Wies": [
   46.7200687,
   15.2736768,
@@ -4760,6 +4838,12 @@
  "Veranstaltungszentrum Pinggau, Hauptplatz 1, 8243 Pinggau, 8243, Pinggau": [
   47.4444744,
   16.0653568,
+  "street",
+  "photon"
+ ],
+ "Verein Pitanga, Fischerhäuslweg 2, 6020, Innsbruck": [
+  47.263956,
+  11.3603783,
   "street",
   "photon"
  ],

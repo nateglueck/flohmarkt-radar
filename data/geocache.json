@@ -23,6 +23,12 @@
   "street",
   "photon"
  ],
+ "18 Halbgasse, 1070, Wien": [
+  48.2046001,
+  16.3416645,
+  "street",
+  "photon"
+ ],
  "25 Sternstraße, 4100, Ottensheim": [
   48.3365289,
   14.171338,
@@ -221,6 +227,12 @@
   "street",
   "photon"
  ],
+ "Am Sportplatz 1, 2485, Wimpassing an der Leitha": [
+  47.9219532,
+  16.4354991,
+  "place",
+  "photon"
+ ],
  "Am Sportplatz 2, 2111, Obergänserndorf": [
   48.4309063,
   16.3657402,
@@ -383,6 +395,12 @@
   "street",
   "photon"
  ],
+ "Auring 13, Sportplatz Herzogenburg, 3130, Herzogenburg": [
+  48.2874239,
+  15.7009406,
+  "street",
+  "photon"
+ ],
  "Auring 29, 3130, Herzogenburg": [
   48.2888114,
   15.7001331,
@@ -464,6 +482,12 @@
  "Bahnhofstraße 29, 8301, Lassnitzhöhe": [
   47.0787619,
   15.5884044,
+  "street",
+  "photon"
+ ],
+ "Bahnhofstraße 62, 3363, Hausmening": [
+  48.0711902,
+  14.8146727,
   "street",
   "photon"
  ],
@@ -550,6 +574,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Berufsschule Hallein, Weisslhofweg 7, 5400, Hallein": [
+  47.6889614,
+  13.0933549,
+  "street",
+  "photon"
  ],
  "Bildgasse. 18 Tor1, 6850, Dornbirn": [
   47.4130145,
@@ -743,6 +773,12 @@
   "place",
   "photon"
  ],
+ "Darnautgasse 1, Pfarrsaal Namen Jesu, 1120, Wien": [
+  48.1728568,
+  16.3306029,
+  "street",
+  "photon"
+ ],
  "Diakoniestraße 2, 4312, Ried in der Riedmark": [
   48.2708983,
   14.5262233,
@@ -794,6 +830,12 @@
  "Dorfstraße 14, Gemeindeamt 1. Stock, 4600, Schleißheim": [
   48.1610575,
   14.0740862,
+  "street",
+  "photon"
+ ],
+ "Dorfstraße 26b, 5101, Bergheim": [
+  47.8418843,
+  13.0282464,
   "street",
   "photon"
  ],
@@ -1175,6 +1217,12 @@
   "street",
   "photon"
  ],
+ "Fritschgasse 5, 5020, Salzburg": [
+  47.8087629,
+  13.0616032,
+  "street",
+  "photon"
+ ],
  "Fritz Hatschek Str. 30, 4844, Regau": [
   47.9989456,
   13.6681038,
@@ -1346,6 +1394,12 @@
  "Gmündner Straße 2, 3931, Schweiggers": [
   48.6679364,
   15.0614832,
+  "street",
+  "photon"
+ ],
+ "Goethestr. 7 FULL HAUS, 4614, Marchtrenk": [
+  48.1948004,
+  14.1111552,
   "street",
   "photon"
  ],
@@ -1655,6 +1709,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 13, 7321, Lackendorf": [
+  47.5907761,
+  16.5051671,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 19, 4432, Ernsthofen": [
   48.1266565,
   14.4827619,
@@ -1691,6 +1751,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße, Stadtpark, Bis A Bis Hofermarkt, 2490, Ebenfurth": [
+  47.877385,
+  16.3695631,
+  "place",
+  "photon"
+ ],
  "Hauptstraße, Stadtpark, vis a vis Hofermarkt, 2490, Ebenfurth": [
   47.877385,
   16.3695631,
@@ -1703,11 +1769,23 @@
   "place",
   "photon"
  ],
+ "Haydngasse 11, 8010, Graz": [
+  47.0694407,
+  15.4483516,
+  "street",
+  "photon"
+ ],
  "Hechtgasse 5, 2095, Drosendorf an der Thaya": [
   null,
   null,
   "unresolved",
   "none"
+ ],
+ "Heiligenstädter Straße 155, 1190, Wien": [
+  48.2542913,
+  16.3644954,
+  "street",
+  "photon"
  ],
  "Heiligenstädterstraße 152, 1190, Wien": [
   48.1446302,
@@ -1796,6 +1874,12 @@
  "Hirschengasse 5, 1060, Wien": [
   48.1933816,
   16.3482589,
+  "street",
+  "photon"
+ ],
+ "Hirschmühle 12, 2486, Pottendorf": [
+  47.9106979,
+  16.3789355,
   "street",
   "photon"
  ],
@@ -2315,6 +2399,12 @@
   "street",
   "photon"
  ],
+ "Kirchenplatz 8, 4081, Hartkirchen": [
+  48.3617908,
+  14.0047956,
+  "street",
+  "photon"
+ ],
  "Kirchenplatz 8, 4442, Kleinraming": [
   48.0109432,
   14.4903243,
@@ -2639,6 +2729,12 @@
   "street",
   "photon"
  ],
+ "Leingasse 6, 3730, Eggenburg": [
+  48.6479107,
+  15.8191852,
+  "street",
+  "photon"
+ ],
  "Leitersdorf i. R. 6 beim Gasthaus Papst, 8330, Feldbach": [
   46.944278,
   15.9421435,
@@ -2699,6 +2795,12 @@
   "street",
   "photon"
  ],
+ "Liechtensteinstraße 37A, 1090, Wien": [
+  48.2207273,
+  16.3591856,
+  "street",
+  "photon"
+ ],
  "Liesinger Pl. 3, 1230 Wien, 1230, Wien, Liesing": [
   48.1347294,
   16.2824729,
@@ -2721,6 +2823,18 @@
   48.0012813,
   13.8503679,
   "street",
+  "photon"
+ ],
+ "Lindheimweg 1, 3702, Niederrußbach": [
+  48.4504699,
+  16.0352517,
+  "street",
+  "photon"
+ ],
+ "Lintnerplatz, 3003, Gablitz": [
+  48.2181607,
+  16.1658722,
+  "place",
   "photon"
  ],
  "Linzerstr. 2, 3003, Gablitz": [
@@ -3035,6 +3149,12 @@
   "street",
   "photon"
  ],
+ "Messeplatz 1 Messehalle 19 Rotaxhalle, 4600, Wels": [
+  48.1518071,
+  14.0187612,
+  "street",
+  "photon"
+ ],
  "Messezentrum Salzburg, am Messezentrum 1, 5020 Salzburg, 5020, Salzburg": [
   47.8253461,
   13.0279382,
@@ -3173,6 +3293,12 @@
   "street",
   "photon"
  ],
+ "Mühlgasse 7, 3150, Wilhelmsburg": [
+  48.1039651,
+  15.6064025,
+  "street",
+  "photon"
+ ],
  "Mühlgasse 74, 2500, Baden": [
   48.007514,
   16.254417,
@@ -3281,6 +3407,12 @@
   "place",
   "photon"
  ],
+ "Obere Hauptstraße 19, 3495, Rohrendorf bei Krems": [
+  48.4185419,
+  15.6545459,
+  "street",
+  "photon"
+ ],
  "Oberer Marktplatz 50, 3920, Groß Gerungs": [
   48.573696,
   14.9568465,
@@ -3375,6 +3507,12 @@
   48.1480271,
   16.2535893,
   "place",
+  "photon"
+ ],
+ "Otto Glöckel Str. 10, 5020, Grödig, Salzburg": [
+  47.7389223,
+  13.0450743,
+  "street",
   "photon"
  ],
  "Pachern-Hauptstraße 97, Foyer der Kulturhalle, 8075, Hart bei Graz": [
@@ -3501,6 +3639,12 @@
   48.1072127,
   16.285897,
   "street",
+  "photon"
+ ],
+ "Pfarrheim Eberstalzell, 4653, Eberstalzell": [
+  48.0360301,
+  13.9701373,
+  "place",
   "photon"
  ],
  "Pfarrheim Markersdof an der Pielach, 3388, Markersdorf an der Pielach": [
@@ -3827,6 +3971,12 @@
   "street",
   "photon"
  ],
+ "Rennbahnweg 44, 1220 Wien, 1220, Wien": [
+  48.2564861,
+  16.4506878,
+  "street",
+  "photon"
+ ],
  "Rheinstraße 7a, 6845, Hohenems": [
   47.3638424,
   9.6742884,
@@ -3975,6 +4125,12 @@
   47.7793234,
   13.0426651,
   "street",
+  "photon"
+ ],
+ "Schachau 3, 3281, Oberndorf an der Melk": [
+  48.0842668,
+  15.2291552,
+  "place",
   "photon"
  ],
  "Schareckstraße . Hinter Hotel Münchner Hof, 5640, Bad Gastein": [
@@ -4166,6 +4322,12 @@
  "Schönbornerstraße 158, 2013, Göllersdorf": [
   48.4908258,
   16.1262133,
+  "street",
+  "photon"
+ ],
+ "Schönbrunner Straße 100 / Ecke Nevillegasse, 1050, Wien": [
+  48.1887251,
+  16.3481831,
   "street",
   "photon"
  ],
@@ -4739,6 +4901,12 @@
   "street",
   "photon"
  ],
+ "Ulrichstraße 18, 4400, Sankt Ulrich bei Steyr": [
+  48.0247414,
+  14.4210538,
+  "street",
+  "photon"
+ ],
  "Umfahrung, 8950, Stainach": [
   47.5292171,
   14.1071317,
@@ -4778,6 +4946,12 @@
  "Unterer Markt 24, 8551, Wies": [
   46.7200687,
   15.2736768,
+  "street",
+  "photon"
+ ],
+ "Untermeisling 36, 3521, Gföhl, Unter - Meisling": [
+  48.4741976,
+  15.4706646,
   "street",
   "photon"
  ],
@@ -5162,6 +5336,12 @@
  "Wildbergstraße 30, 4040, Linz": [
   48.3172809,
   14.2844053,
+  "street",
+  "photon"
+ ],
+ "Wilhelm - Kress - Promenade 10, 3013, Tullnerbach": [
+  48.1836804,
+  16.1129117,
   "street",
   "photon"
  ],

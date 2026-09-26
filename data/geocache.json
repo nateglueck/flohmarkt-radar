@@ -113,6 +113,12 @@
   "street",
   "photon"
  ],
+ "Adalbert Welte Saal, Schmittengasse 4, 6820, Frastanz": [
+  47.2184063,
+  9.6308958,
+  "street",
+  "photon"
+ ],
  "Ahornstraße 21, 5081, Neu Anif": [
   47.7368431,
   13.0544829,
@@ -123,6 +129,12 @@
   48.8108934,
   15.4898089,
   "place",
+  "photon"
+ ],
+ "Albertgasse 39, 1080, Wien": [
+  48.2122441,
+  16.3438849,
+  "street",
   "photon"
  ],
  "Alexander - Poch - Platz 6, 1020, Wien": [
@@ -374,6 +386,12 @@
  "Aufeldstraße 1, 5274, Burgkirchen": [
   48.1958082,
   13.101628,
+  "street",
+  "photon"
+ ],
+ "Augartenstraße 62a, 6890, Lustenau": [
+  47.4439026,
+  9.6571193,
   "street",
   "photon"
  ],
@@ -662,6 +680,12 @@
  "Brennerweg 1, 2601, Sollenau": [
   47.9015243,
   16.2438607,
+  "street",
+  "photon"
+ ],
+ "Bruckerstraße 13, 7111, Parndorf": [
+  47.9934946,
+  16.8570276,
   "street",
   "photon"
  ],
@@ -1925,6 +1949,12 @@
   "street",
   "photon"
  ],
+ "Hohe Wandgasse 17, 2624, Breitenau am Steinfelde": [
+  47.7337403,
+  16.1332347,
+  "street",
+  "photon"
+ ],
  "Hohenwartherstraße 143, 3471, Großriedenthal": [
   48.4868363,
   15.8640349,
@@ -2078,6 +2108,12 @@
  "Industriezeile 76, 4020 Linz, 4020, Linz": [
   48.3001042,
   14.3189787,
+  "street",
+  "photon"
+ ],
+ "Innbachtalstraße 45, 4633, Kematen am Innbach": [
+  48.1765164,
+  13.8632678,
   "street",
   "photon"
  ],
@@ -3065,6 +3101,12 @@
   "street",
   "photon"
  ],
+ "Matthias Corvinus - Straße 5, 3100, Sankt Pölten": [
+  48.2129938,
+  15.6343549,
+  "street",
+  "photon"
+ ],
  "Mauer 3, 3371, Neumarkt / Ybbs": [
   48.1358794,
   15.047966,
@@ -3284,6 +3326,12 @@
  "Möllersdorferstraße 1, 2353, Guntramsdorf": [
   48.0464365,
   16.3134559,
+  "street",
+  "photon"
+ ],
+ "Mühlbach 44, 3972, Bad Großpertholz": [
+  48.6340788,
+  14.8689907,
   "street",
   "photon"
  ],
@@ -3530,6 +3578,12 @@
  "Pannaschgasse 6, 1050, Wien": [
   48.1885457,
   16.3548168,
+  "street",
+  "photon"
+ ],
+ "Panoramastraße 14, 5201, Seekirchen am Wallersee": [
+  47.8952742,
+  13.1395121,
   "street",
   "photon"
  ],
@@ -3921,6 +3975,12 @@
   48.0480081,
   16.3122054,
   "place",
+  "photon"
+ ],
+ "Rathauspark, 2351, Wiener Neudorf": [
+  48.0878429,
+  16.3199298,
+  "street",
   "photon"
  ],
  "Rathausplatz 1, 4810, Gmunden": [
@@ -4460,6 +4520,12 @@
  "Spießengraben 2, 4562, Steinbach am Ziehberg": [
   47.8898614,
   14.0309707,
+  "street",
+  "photon"
+ ],
+ "Spingeser Straße 14, 6020, Innsbruck / NeuArzl": [
+  47.2745024,
+  11.438824,
   "street",
   "photon"
  ],
@@ -5108,6 +5174,12 @@
  "Völkermarkterstraße 274 / St. Jakober - Straße 2, 9020, Klagenfurt": [
   46.6289052,
   14.3565753,
+  "street",
+  "photon"
+ ],
+ "Vöslauerstraße 27, 2500, Baden bei Wien": [
+  47.9989745,
+  16.2237114,
   "street",
   "photon"
  ],

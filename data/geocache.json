@@ -539,6 +539,12 @@
   "place",
   "photon"
  ],
+ "Bauergasse 8, 2172, Schrattenberg": [
+  48.7282279,
+  16.7183471,
+  "street",
+  "photon"
+ ],
  "Bauernmarkthalle, Volksfestplatz, 4910, Ried im Innkreis": [
   48.2097407,
   13.4776113,
@@ -1736,6 +1742,12 @@
  "Hauptstraße 13, 7321, Lackendorf": [
   47.5907761,
   16.5051671,
+  "street",
+  "photon"
+ ],
+ "Hauptstraße 136, 2213, Bockfließ,": [
+  48.3604845,
+  16.6151438,
   "street",
   "photon"
  ],
@@ -3215,6 +3227,12 @@
   "street",
   "photon"
  ],
+ "Metzgerstraße 54, 5101, Bergheim": [
+  47.8425478,
+  13.0198856,
+  "place",
+  "photon"
+ ],
  "Michael - Seeber - Str. 3, 6410, Telfs": [
   47.304469,
   11.0788573,
@@ -4055,6 +4073,12 @@
   "place",
   "photon"
  ],
+ "Rosenackerstraße 9,Stiege 35 Tür 10, 1160, Wien": [
+  48.2242035,
+  16.3028309,
+  "place",
+  "photon"
+ ],
  "Rosenau Trabrennblatz, 4600, Wels": [
   48.1486348,
   14.0075182,
@@ -4781,6 +4805,12 @@
   "street",
   "photon"
  ],
+ "Straße 1, 3331, Kematen / Ybbs": [
+  48.0541589,
+  14.7830592,
+  "street",
+  "photon"
+ ],
  "Straße Zum 8. Mai, 1090, Wien": [
   48.2143223,
   16.3593145,
@@ -5096,6 +5126,12 @@
  "Vivenotgasse 29, 1120, Wien": [
   48.1785408,
   16.33139,
+  "street",
+  "photon"
+ ],
+ "Vogelfängerplatz 4, 4030, Linz": [
+  48.2511705,
+  14.2931678,
   "street",
   "photon"
  ],

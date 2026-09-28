@@ -1367,6 +1367,12 @@
   "street",
   "photon"
  ],
+ "Gertrudplatz 5, Pfarrkirche St. Gertrud, 1180, Wien": [
+  48.2259067,
+  16.3444768,
+  "street",
+  "photon"
+ ],
  "Gesamtes Gemeindegebiet Hochleithen, 2123, Hochleithen": [
   null,
   null,
@@ -2139,6 +2145,12 @@
   47.0634907,
   15.0916861,
   "place",
+  "photon"
+ ],
+ "Innerhoferstr. 30, 8045, Graz": [
+  47.1136201,
+  15.4297656,
+  "street",
   "photon"
  ],
  "Irene Harand Platz, 1040, Wien": [
@@ -4064,6 +4076,12 @@
  "Riegersburg 204, 8333, Riegersburg": [
   46.9977583,
   15.9301536,
+  "street",
+  "photon"
+ ],
+ "Rif, 5400, Hallein - Rif": [
+  47.7199291,
+  13.068916,
   "street",
   "photon"
  ],

@@ -191,6 +191,12 @@
   "street",
   "photon"
  ],
+ "Alte Poststraße 76 Top 1, 8020, Graz": [
+  47.0777876,
+  15.4063339,
+  "street",
+  "photon"
+ ],
  "Alte Rheinfähre 6, 6845, Hohenems": [
   47.3645384,
   9.6661262,
@@ -605,6 +611,12 @@
   "street",
   "photon"
  ],
+ "Berufsschule Längenfeldgasse 13 - 15, 1120, Wien": [
+  48.1829348,
+  16.3383892,
+  "street",
+  "photon"
+ ],
  "Bildgasse. 18 Tor1, 6850, Dornbirn": [
   47.4130145,
   9.7320194,
@@ -755,6 +767,12 @@
   "street",
   "photon"
  ],
+ "Bundesstraße 28, 2632, Wimpassing": [
+  47.7011113,
+  16.0293825,
+  "street",
+  "photon"
+ ],
  "Burg Sommeregg, Schloßau 7, 9871, Seeboden": [
   46.834281,
   13.5229887,
@@ -836,6 +854,12 @@
  "Dominik Wölfel Gasse 17, 1210, Wien": [
   48.271229,
   16.4426178,
+  "street",
+  "photon"
+ ],
+ "Donauwörther Straße 21, 2380, Perchtoldsdorf": [
+  48.1197341,
+  16.2694362,
   "street",
   "photon"
  ],
@@ -1535,6 +1559,12 @@
   "street",
   "photon"
  ],
+ "Gölsentalstraße 35, 3161, St. Veit / Gölsen - Gasthaus Hasler": [
+  48.0449524,
+  15.682708,
+  "street",
+  "photon"
+ ],
  "Gölsentalstraße 76, 3161, St. Veit / Gölsen": [
   48.047505,
   15.650129,
@@ -1637,6 +1667,12 @@
   "street",
   "photon"
  ],
+ "Hans - Lenz - Straße 13, 3950, Gmünd": [
+  48.7680959,
+  14.9877367,
+  "street",
+  "photon"
+ ],
  "Hans Czettel Platz 2, 2630, Ternitz": [
   47.7063742,
   16.0197013,
@@ -1670,6 +1706,12 @@
  "Hauptplatz 12 - 14 Tiefgarage, 3430, Tulln": [
   48.3303846,
   16.0508323,
+  "street",
+  "photon"
+ ],
+ "Hauptplatz 18, 2514, Traiskirchen": [
+  48.013565,
+  16.294244,
   "street",
   "photon"
  ],
@@ -1769,6 +1811,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 400, 2231, Strasshof an der Nordbahn": [
+  48.3213408,
+  16.6720411,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 81, 4890, Frankenmarkt": [
   47.9852365,
   13.4185821,
@@ -1791,6 +1839,12 @@
   47.5255509,
   14.3581629,
   "street",
+  "photon"
+ ],
+ "Hauptstraße, 8793, Trofaiach": [
+  47.4282681,
+  15.0085497,
+  "place",
   "photon"
  ],
  "Hauptstraße, Stadtpark, Bis A Bis Hofermarkt, 2490, Ebenfurth": [
@@ -2018,6 +2072,12 @@
  "Hotel Kolping, Gesellenhausstraße 5, 4020, Linz": [
   48.297828,
   14.2894057,
+  "street",
+  "photon"
+ ],
+ "Humboldtplatz 10 / 2, 1100, Wien": [
+  48.1794976,
+  16.3788667,
   "street",
   "photon"
  ],
@@ -2285,6 +2345,12 @@
   "street",
   "photon"
  ],
+ "KLG Simmeringer Haide 7 / 739, 1110, Wien": [
+  48.1732981,
+  16.4314283,
+  "place",
+  "photon"
+ ],
  "KUNSTTANKSTELLE OTTAKRING / Grundsteingasse 45 - 47, 1160, Wien": [
   48.210291,
   16.3336057,
@@ -2375,6 +2441,12 @@
   "street",
   "photon"
  ],
+ "Kimpling 22, 4720, Neumarkt / Kallham": [
+  48.2672352,
+  13.7051963,
+  "street",
+  "photon"
+ ],
  "Kinoplatz 1, Diesel KINO, 8501, Lieboch": [
   46.9568516,
   15.3475336,
@@ -2421,6 +2493,12 @@
   47.9968358,
   16.3417478,
   "place",
+  "photon"
+ ],
+ "Kirchenplatz 1 - Pfarrsaal, 2544, Leobersdorf": [
+  47.9279616,
+  16.2172606,
+  "street",
   "photon"
  ],
  "Kirchenplatz 11, 2512, Tribuswinkel": [
@@ -2777,6 +2855,12 @@
   "place",
   "photon"
  ],
+ "Laxenburgerstraße 25 / 9, 2351, Wiener Neudorf": [
+  48.0815484,
+  16.3226564,
+  "street",
+  "photon"
+ ],
  "Lederergasse 14, 4132, Lembach": [
   48.4978065,
   13.8990322,
@@ -2843,6 +2927,12 @@
   "street",
   "photon"
  ],
+ "Leuthnersiedlung 14, 3493, Hadersdorf": [
+  48.4607553,
+  15.7205239,
+  "street",
+  "photon"
+ ],
  "Lichtentalerpark, 1090, Wien": [
   48.2266259,
   16.3583256,
@@ -2882,6 +2972,12 @@
  "Lindach 4, 4663, Laakirchen - Lindach": [
   48.0012813,
   13.8503679,
+  "street",
+  "photon"
+ ],
+ "Lindengasse 44 A, 1070, Wien": [
+  48.1998047,
+  16.3477237,
   "street",
   "photon"
  ],
@@ -3080,6 +3176,12 @@
  "Marktplatz 4, 2193, Wilfersdorf": [
   48.5871193,
   16.6441181,
+  "street",
+  "photon"
+ ],
+ "Marktplatz 8, 3261, Steinakirchen am Forst": [
+  48.0685438,
+  15.0495177,
   "street",
   "photon"
  ],
@@ -3311,6 +3413,12 @@
   "street",
   "photon"
  ],
+ "Moorgasse 4, 3434, Tulbing": [
+  48.288508,
+  16.1216217,
+  "street",
+  "photon"
+ ],
  "Morasutti - Platz, 8720, Knittelfeld": [
   47.2111472,
   14.8291287,
@@ -3332,6 +3440,12 @@
  "Moritz - Schadekgasse 34, 3830, Waidhofen / Thaya": [
   48.8110035,
   15.2852332,
+  "street",
+  "photon"
+ ],
+ "Morzgerstraße 27, 5020, Salzburg": [
+  47.8115207,
+  13.0434146,
   "street",
   "photon"
  ],
@@ -3362,6 +3476,12 @@
  "Mühlbach 44, 3972, Bad Großpertholz": [
   48.6340788,
   14.8689907,
+  "street",
+  "photon"
+ ],
+ "Mühlgasse 1, 2514, Möllersdorf": [
+  48.0256804,
+  16.3052487,
   "street",
   "photon"
  ],
@@ -3417,6 +3537,12 @@
   48.0866413,
   16.3030034,
   "street",
+  "photon"
+ ],
+ "Neue Heimat bei den Garagen, 3751, Sigmundsherberg": [
+  48.6849912,
+  15.7548228,
+  "place",
   "photon"
  ],
  "Neues Rathaus Linz / Urfahr, Hauptstr. 1 - 5, 4020, Linz": [
@@ -3574,6 +3700,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Ottakringerstraße 217 Ggü. 10er - Marie, 1160, Wien": [
+  48.2142674,
+  16.3086817,
+  "street",
+  "photon"
  ],
  "Ottersbachhalle Siedlung 34a, 8093 St. Peter am Ottersbach, 8093, St. Peter am Ottersbach": [
   46.7990399,
@@ -3797,6 +3929,18 @@
   "street",
   "photon"
  ],
+ "Pfarrsaal Breitenfeld, Uhlplatz 6, 1080, Wien": [
+  48.2122666,
+  16.3409923,
+  "street",
+  "photon"
+ ],
+ "Pfarrsaal Herrnau, Erentrudisstraße 5, 5020, Salzburg": [
+  47.785024,
+  13.0640694,
+  "street",
+  "photon"
+ ],
  "Pfarrsaal, Münsterstraße, 4813, Altmünster": [
   47.9011956,
   13.7649001,
@@ -3836,6 +3980,12 @@
  "Pichelmayergasse 2, 1100, Wien": [
   48.1554071,
   16.3773597,
+  "street",
+  "photon"
+ ],
+ "Pilgramgasse 3, 1050, Wien": [
+  48.1917578,
+  16.3570052,
   "street",
   "photon"
  ],
@@ -4031,6 +4181,12 @@
   "place",
   "photon"
  ],
+ "Ratzersdorf, Frauenschuhgasse, Parkanlage, 3100, St. Pölten": [
+  48.2272786,
+  15.665041,
+  "street",
+  "photon"
+ ],
  "Ravelinstraße 5A, 1110, Wien": [
   48.1728777,
   16.424174,
@@ -4089,6 +4245,12 @@
   47.2726612,
   15.3272734,
   "place",
+  "photon"
+ ],
+ "Rochusgasse 17, 5020, Salzburg": [
+  47.7959925,
+  13.0193352,
+  "street",
   "photon"
  ],
  "Rosenackerstraße 9,Stiege 35 Tür 10, 1160, Wien": [
@@ -4329,6 +4491,12 @@
   47.7753233,
   16.3269871,
   "place",
+  "photon"
+ ],
+ "Schubertgasse 10, 1090, Wien": [
+  48.2274802,
+  16.3539262,
+  "street",
   "photon"
  ],
  "Schulgasse 1, 2104, Spillern": [
@@ -4793,6 +4961,12 @@
   "street",
   "photon"
  ],
+ "Steinheilgasse 3, 1210, Wien": [
+  48.2646637,
+  16.4123188,
+  "street",
+  "photon"
+ ],
  "Stephansplatz 3, 1010, Wien": [
   48.2084923,
   16.3731269,
@@ -4931,6 +5105,12 @@
   "street",
   "photon"
  ],
+ "Thaliastraße 125, 1160, Wien Ottakring": [
+  48.2118134,
+  16.3135721,
+  "street",
+  "photon"
+ ],
  "Thayapark 37, 2136, Laa / Thaya": [
   48.7113544,
   16.3720486,
@@ -4965,6 +5145,12 @@
   47.9190895,
   13.8010143,
   "place",
+  "photon"
+ ],
+ "Trautenfelserstraße 2, ATV - Sportplatz, 8952, Irdning - Donnersbachtal": [
+  47.5053908,
+  14.1024951,
+  "street",
   "photon"
  ],
  "Triester Straße 200, 8073, Feldkirchen bei Graz": [
@@ -5363,6 +5549,12 @@
   "street",
   "photon"
  ],
+ "Wiedner Hauptstraße 30, 1040, Wien": [
+  48.1955203,
+  16.3662461,
+  "street",
+  "photon"
+ ],
  "Wiedner Hauptstraße 69 … @Hubsi, 1040, Wien / Vienna": [
   48.1894329,
   16.3659227,
@@ -5471,6 +5663,12 @@
   "street",
   "photon"
  ],
+ "Wilhelminenstraße 130, 1160, Wien": [
+  48.218531,
+  16.3016131,
+  "street",
+  "photon"
+ ],
  "Wimm 5, 4972, Utzenaich": [
   48.2635632,
   13.4853534,
@@ -5522,6 +5720,12 @@
  "Wurstelprater, 1020, Wien": [
   48.2156085,
   16.3995769,
+  "street",
+  "photon"
+ ],
+ "Währinger Straße 138, 1180, Wien": [
+  48.2271913,
+  16.3399905,
   "street",
   "photon"
  ],

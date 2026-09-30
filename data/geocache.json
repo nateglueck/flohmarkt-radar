@@ -353,6 +353,12 @@
   "street",
   "photon"
  ],
+ "Arndtstraße 56/Gassenlokal, 1120, Wien": [
+  48.1834703,
+  16.3363562,
+  "street",
+  "photon"
+ ],
  "Arthur - Krupp - Straße 7, 3300, Amstetten": [
   48.116213,
   14.8947125,
@@ -713,6 +719,12 @@
   "place",
   "photon"
  ],
+ "Brunner Gasse 15, 2380, Perchtoldsdorf": [
+  48.1167428,
+  16.2684798,
+  "street",
+  "photon"
+ ],
  "Brunntalstr. 12, 4662, Steyrermuehl": [
   47.9919529,
   13.8077761,
@@ -809,6 +821,12 @@
   "street",
   "photon"
  ],
+ "Center West, Weblinger Gürtel 25, 8054, Graz": [
+  47.0341026,
+  15.4161486,
+  "street",
+  "photon"
+ ],
  "Conrad - von - Hötzendorfstraße 25a, 8570, Voitsberg": [
   47.0513153,
   15.142934,
@@ -824,6 +842,12 @@
  "Darnautgasse 1, Pfarrsaal Namen Jesu, 1120, Wien": [
   48.1728568,
   16.3306029,
+  "street",
+  "photon"
+ ],
+ "Designhalle, Lazarettgürtel 62, 8020, Graz": [
+  47.0722122,
+  15.4171886,
   "street",
   "photon"
  ],
@@ -998,6 +1022,12 @@
  "Einkaufszentrum Alter Bahnhof Bahnhofstraße 12, 4540, Bad Hall": [
   48.0373788,
   14.2095406,
+  "street",
+  "photon"
+ ],
+ "Einsiedlerplatz 17, 1050, Wien": [
+  48.1857521,
+  16.3490136,
   "street",
   "photon"
  ],
@@ -1181,6 +1211,12 @@
   "street",
   "photon"
  ],
+ "Fleischgasse, 2340, Mödling": [
+  48.0850098,
+  16.2837319,
+  "place",
+  "photon"
+ ],
  "Florianigasse 1, 3131, Inzersdorf - Getzersdorf": [
   48.3147134,
   15.6805151,
@@ -1227,6 +1263,12 @@
   48.0979339,
   16.279386,
   "street",
+  "photon"
+ ],
+ "Franz Weiss Platz 7, beim BRUNO, 2345, Brunn am Gebirge": [
+  48.1069232,
+  16.283561,
+  "place",
   "photon"
  ],
  "Freibad, 2154, Unterstinkenbrunn": [
@@ -1781,6 +1823,12 @@
   "place",
   "photon"
  ],
+ "Hauptstraße 1, 2301, Wittau, Groß - Enzersdorf": [
+  48.181799,
+  16.5934442,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 1, 5071, Wals": [
   47.791368,
   12.965069,
@@ -1985,6 +2033,12 @@
   "street",
   "photon"
  ],
+ "Hof 1, 4690, Schwanenstadt": [
+  48.0628076,
+  13.7717264,
+  "street",
+  "photon"
+ ],
  "Hof bei Straden 79, 8345, Straden": [
   46.7885203,
   15.8945241,
@@ -2072,6 +2126,12 @@
  "Hotel Kolping, Gesellenhausstraße 5, 4020, Linz": [
   48.297828,
   14.2894057,
+  "street",
+  "photon"
+ ],
+ "Hubertusgasse 40, 2136, Laa / Thaya": [
+  48.7203947,
+  16.3958316,
   "street",
   "photon"
  ],
@@ -2396,6 +2456,12 @@
  "Kaprunerstraße 50, Maximarkt Bruck, 5671, Bruck an der Glocknerstrasse": [
   47.2875765,
   12.8114383,
+  "street",
+  "photon"
+ ],
+ "Karl - Popper - Straße 16, 1100, Wien": [
+  48.1830245,
+  16.3805669,
   "street",
   "photon"
  ],
@@ -2837,6 +2903,12 @@
   "street",
   "photon"
  ],
+ "Langenzersdorferstraße 89, 1210, Wien": [
+  48.2596243,
+  16.3880527,
+  "street",
+  "photon"
+ ],
  "Langobardenstraße 122, Parkplatz4 der Klinik Donaustadt, 1220, Wien": [
   48.2179903,
   16.4639595,
@@ -2978,6 +3050,12 @@
  "Lindengasse 44 A, 1070, Wien": [
   48.1998047,
   16.3477237,
+  "street",
+  "photon"
+ ],
+ "Lindengasse 7, 1070 Wien, 1070, Wien": [
+  48.2011565,
+  16.3542942,
   "street",
   "photon"
  ],
@@ -3755,6 +3833,12 @@
   "street",
   "photon"
  ],
+ "Paracelsusgasse 8, 1030, Wien": [
+  48.207123,
+  16.3945856,
+  "street",
+  "photon"
+ ],
  "Park&Ride Anlage des Bahnhofs Deutsch - Wagram, 2232, Deutsch - Wagram": [
   null,
   null,
@@ -3839,6 +3923,12 @@
   "street",
   "photon"
  ],
+ "Pfarre Aspersdorf, 2020, Aspersdorf, Hollabrunn": [
+  48.5876738,
+  16.0967529,
+  "place",
+  "photon"
+ ],
  "Pfarrgasse 1, 4082, Aschach an der Donau": [
   48.3663309,
   14.0247576,
@@ -3920,6 +4010,12 @@
  "Pfarrplatz 1, 2372, Gießhübl": [
   48.0970038,
   16.2369886,
+  "street",
+  "photon"
+ ],
+ "Pfarrplatz 1, 7361, Kroatisch Geresdorf": [
+  47.4939208,
+  16.6086334,
   "street",
   "photon"
  ],
@@ -4016,6 +4112,12 @@
  "Pollheimerstraße 11, 4850, Timelkam": [
   48.00189,
   13.613443,
+  "street",
+  "photon"
+ ],
+ "Pottendorfer Str. 15–23, 2700, Wiener Neustadt": [
+  47.8241028,
+  16.2488461,
   "street",
   "photon"
  ],
@@ -4170,6 +4272,12 @@
   "photon"
  ],
  "Rathausplatz 25, 3400 Klosterneuburg, 3400, Klosterneuburg": [
+  48.3049398,
+  16.3263699,
+  "street",
+  "photon"
+ ],
+ "Rathausplatz 25, 3400, Klosterneuburg": [
   48.3049398,
   16.3263699,
   "street",
@@ -4514,6 +4622,12 @@
  "Schulgasse 1, Mehrzweckhalle, 2384, Breitenfurt bei Wien": [
   48.1320995,
   16.1950004,
+  "street",
+  "photon"
+ ],
+ "Schulgasse 12, 6714, Nüziders": [
+  47.1703561,
+  9.7999407,
   "street",
   "photon"
  ],
@@ -5213,6 +5327,12 @@
   "street",
   "photon"
  ],
+ "Ungargasse, 29 / Bücherlager, 1030, Wien, 03. Bezirk, Landstraße": [
+  48.2012763,
+  16.3879449,
+  "street",
+  "photon"
+ ],
  "Ungargasse, 29 HOF Bücherlager, 1030, Wien, 03. Bezirk, Landstraße": [
   48.2012763,
   16.3879449,
@@ -5234,6 +5354,12 @@
  "Untere Gänsbachgasse 9, 6370, Kitzbühel": [
   47.4484214,
   12.3905007,
+  "street",
+  "photon"
+ ],
+ "Untere Hauptstraße 39, 7061, TRAUSDORF": [
+  47.8143108,
+  16.5608854,
   "street",
   "photon"
  ],
@@ -5348,6 +5474,12 @@
  "Volkschule Turnsaal, 8082, Kirchbach": [
   46.9333117,
   15.6594688,
+  "street",
+  "photon"
+ ],
+ "Volksfestplatz 3, 3250, Wieselburg": [
+  48.1282564,
+  15.1346708,
   "street",
   "photon"
  ],

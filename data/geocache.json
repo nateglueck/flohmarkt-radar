@@ -47,6 +47,12 @@
   "street",
   "photon"
  ],
+ "4 Feldstr, 2231, Strasshof / Nordbahn": [
+  48.3201954,
+  16.6547313,
+  "street",
+  "photon"
+ ],
  "42 Wagram an der Donau, 2304, Wagram an der Donau": [
   48.1635081,
   16.7576974,
@@ -219,6 +225,12 @@
   48.2111053,
   16.3676626,
   "place",
+  "photon"
+ ],
+ "Am Neufeldersee 299, 2490, Ebenfurth": [
+  47.8785685,
+  16.3847673,
+  "street",
   "photon"
  ],
  "Am Ortsplatz 5, 4040, Lichtenberg": [
@@ -533,6 +545,12 @@
   "street",
   "photon"
  ],
+ "Balthasar Waltlweg 5, 6382, Kirchdorf in Tirol": [
+  47.5545098,
+  12.4510654,
+  "street",
+  "photon"
+ ],
  "Bambergstraße 11, 4560, Kirchdorf an der Krems": [
   47.9072915,
   14.1196538,
@@ -844,6 +862,12 @@
   16.3306029,
   "street",
   "photon"
+ ],
+ "Der Ganze Ortskern, 5120, St. Pantaleon": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Designhalle, Lazarettgürtel 62, 8020, Graz": [
   47.0722122,
@@ -1433,6 +1457,12 @@
   "street",
   "photon"
  ],
+ "Gerichtsweg 10, 2540, Bad - Vöslau": [
+  47.9606939,
+  16.2148668,
+  "street",
+  "photon"
+ ],
  "Gertrudplatz 5, Pfarrkirche St. Gertrud, 1180, Wien": [
   48.2259067,
   16.3444768,
@@ -1532,6 +1562,12 @@
  "Grazerstraße 2, 8403, Lebring": [
   46.8584872,
   15.5355251,
+  "street",
+  "photon"
+ ],
+ "Green Box, Eggenbergerallee 31, 8020, 8020, Graz, Eggenberg": [
+  47.0697682,
+  15.4047129,
   "street",
   "photon"
  ],
@@ -2033,6 +2069,12 @@
   "street",
   "photon"
  ],
+ "Hochstraße, 2680, Semmering": [
+  47.6460814,
+  15.8258677,
+  "place",
+  "photon"
+ ],
  "Hof 1, 4690, Schwanenstadt": [
   48.0628076,
   13.7717264,
@@ -2435,6 +2477,12 @@
   "place",
   "photon"
  ],
+ "Kaisersaal, Bahnhofstraße 5, 6380 St. Johann in Tirol, 6380, St. Johann in Tirol": [
+  47.5217809,
+  12.4298419,
+  "street",
+  "photon"
+ ],
  "Kajetan - Sweth - Str. 1, Phil. O - Dorf Innsbruck, 6020, Innsbruck": [
   47.2714804,
   11.4441672,
@@ -2570,6 +2618,12 @@
  "Kirchenplatz 11, 2512, Tribuswinkel": [
   48.0069019,
   16.2710385,
+  "street",
+  "photon"
+ ],
+ "Kirchenplatz 18, Pfarrhof, 2225, Zistersdorf": [
+  48.5445352,
+  16.7619848,
   "street",
   "photon"
  ],
@@ -2963,6 +3017,12 @@
   "street",
   "photon"
  ],
+ "Lengfelden 4, 5101, Bergheim": [
+  47.843862,
+  13.0432997,
+  "street",
+  "photon"
+ ],
  "Leo - Mathauser - Gasse 60, 1230, Wien": [
   48.1306873,
   16.3189951,
@@ -3128,6 +3188,12 @@
  "Lugner City Gablenzgasse 11, 1150, Wien": [
   48.2035697,
   16.3348545,
+  "street",
+  "photon"
+ ],
+ "Ländle - Dienstleistungen , Bürgergasse 3, 6800, Feldkirch": [
+  47.2673644,
+  9.6031521,
   "street",
   "photon"
  ],
@@ -3800,6 +3866,12 @@
  "Otto Glöckel Str. 10, 5020, Grödig, Salzburg": [
   47.7389223,
   13.0450743,
+  "street",
+  "photon"
+ ],
+ "P. Engelbertstraße 1, Pfarrsaal, Sattledt, 4642, Sattledt": [
+  48.072736,
+  14.0565038,
   "street",
   "photon"
  ],
@@ -5066,6 +5138,12 @@
  "Steg 20, 4817, St. Konrad": [
   47.9199339,
   13.8716436,
+  "street",
+  "photon"
+ ],
+ "Steinfeldstraße 3B, 3300, Winklarn": [
+  48.1002094,
+  14.852478,
   "street",
   "photon"
  ],

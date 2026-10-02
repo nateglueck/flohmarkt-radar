@@ -299,6 +299,12 @@
   "place",
   "photon"
  ],
+ "Angerweg 2, 4812, Pinsdorf": [
+  47.9267231,
+  13.7715543,
+  "street",
+  "photon"
+ ],
  "Aniferstraße 10, 5081, Anif": [
   47.750142,
   13.0635442,
@@ -374,6 +380,12 @@
  "Arthur - Krupp - Straße 7, 3300, Amstetten": [
   48.116213,
   14.8947125,
+  "street",
+  "photon"
+ ],
+ "Asperner Heldenplatz 9, 1220, Wien": [
+  48.2180372,
+  16.4829863,
   "street",
   "photon"
  ],
@@ -611,6 +623,12 @@
   "street",
   "photon"
  ],
+ "Belruptstraße 21, Austriahaus, 6900, Bregenz": [
+  47.5038237,
+  9.7505059,
+  "street",
+  "photon"
+ ],
  "Bergmann - Platz 2, 3252, Petzenkirchen": [
   48.1437727,
   15.152922,
@@ -638,6 +656,12 @@
  "Berufsschule Längenfeldgasse 13 - 15, 1120, Wien": [
   48.1829348,
   16.3383892,
+  "street",
+  "photon"
+ ],
+ "Bildgasse 10, 6850, Dornbirn": [
+  47.4151713,
+  9.7330917,
   "street",
   "photon"
  ],
@@ -806,6 +830,12 @@
  "Burg Sommeregg, Schloßau 7, 9871, Seeboden": [
   46.834281,
   13.5229887,
+  "street",
+  "photon"
+ ],
+ "Bücherei Neues Landgut - Laxenburgerstraße 4 / 1A, 1100, Wien": [
+  48.1819692,
+  16.3731529,
   "street",
   "photon"
  ],
@@ -1097,6 +1127,12 @@
   "street",
   "photon"
  ],
+ "Elizabeth - T. - Spira - Promenade 2 / 8, 1030, Wien": [
+  48.1895634,
+  16.3934647,
+  "street",
+  "photon"
+ ],
  "Emling Rübenplatz, 4072, Emling / Alkoven": [
   48.2885182,
   14.0608642,
@@ -1346,6 +1382,12 @@
  "Fritz Hatschek Str. 30, 4844, Regau": [
   47.9989456,
   13.6681038,
+  "street",
+  "photon"
+ ],
+ "Fuchsthallergasse 12 / Ecke Altmüttergasse, 1090, Wien": [
+  48.2249411,
+  16.3514014,
   "street",
   "photon"
  ],
@@ -2657,6 +2699,12 @@
   "street",
   "photon"
  ],
+ "Kirchenplatz 5, 2020, Hollabrunn": [
+  48.5617183,
+  16.0804408,
+  "street",
+  "photon"
+ ],
  "Kirchenplatz 8, 4081, Hartkirchen": [
   48.3617908,
   14.0047956,
@@ -2673,6 +2721,12 @@
   48.0756876,
   14.8142828,
   "street",
+  "photon"
+ ],
+ "Kirchenplatz3, 4724, Neukirchen am Walde": [
+  48.4061207,
+  13.7810827,
+  "place",
   "photon"
  ],
  "Kirchenstraße 1, 4692, Niederthalheim": [
@@ -2979,6 +3033,12 @@
   48.2160197,
   14.4687007,
   "place",
+  "photon"
+ ],
+ "Laxenburgerstraße 25 / 12, 2351, Wiener Neudorf": [
+  48.0815429,
+  16.3230432,
+  "street",
   "photon"
  ],
  "Laxenburgerstraße 25 / 9, 2351, Wiener Neudorf": [
@@ -3383,6 +3443,12 @@
   "street",
   "photon"
  ],
+ "Maurer Hauptplatz, 1230, Wien": [
+  48.1507406,
+  16.2682836,
+  "place",
+  "photon"
+ ],
  "Maurer Lange Gasse 72, 1230, 1230": [
   48.148039,
   16.2665806,
@@ -3668,6 +3734,12 @@
  "Nellingstraße 18, 3333, Böhlerwerk": [
   47.9838786,
   14.7489809,
+  "street",
+  "photon"
+ ],
+ "Neubaugasse 78, 1070, Wien": [
+  48.2050048,
+  16.3492356,
   "street",
   "photon"
  ],
@@ -4448,6 +4520,12 @@
  "Rosenburg am Kamp 43, 3573, Rosenburg - Mold": [
   48.6289298,
   15.6386224,
+  "street",
+  "photon"
+ ],
+ "Rotenlöwengasse 11, 1090, Wien": [
+  48.2244995,
+  16.3639006,
   "street",
   "photon"
  ],

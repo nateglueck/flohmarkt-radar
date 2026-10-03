@@ -119,6 +119,12 @@
   "street",
   "photon"
  ],
+ "Adalbert Stifter Straße 16, 2232, Deutsch Wagram": [
+  48.3149228,
+  16.5941798,
+  "street",
+  "photon"
+ ],
  "Adalbert Welte Saal, Schmittengasse 4, 6820, Frastanz": [
   47.2184063,
   9.6308958,
@@ -1931,9 +1937,21 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 27, 2603, Felixorf": [
+  47.882355,
+  16.2431061,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 33, 2332, Hennersdorf": [
   48.1114616,
   16.3642612,
+  "street",
+  "photon"
+ ],
+ "Hauptstraße 35, 2482, Münchendorf": [
+  48.0305162,
+  16.3792898,
   "street",
   "photon"
  ],
@@ -2153,6 +2171,18 @@
   "street",
   "photon"
  ],
+ "Hofmark, 4924, Waldzell": [
+  48.1348934,
+  13.4276963,
+  "place",
+  "photon"
+ ],
+ "Hofmark2 4981Reichersberg, 4981, Reichersberg": [
+  48.3372909,
+  13.361244,
+  "street",
+  "photon"
+ ],
  "Hofrat- Erbenstr. 1, Volkshaus Lerchenfeld, 3500, Krems - Lerchenfeld": [
   48.4129339,
   15.635609,
@@ -2213,6 +2243,12 @@
   "street",
   "photon"
  ],
+ "Http: / / Www. Nachbarschaftszentren. At / Standorte / Nbz8, 1080, Wien": [
+  null,
+  null,
+  "unresolved",
+  "none"
+ ],
  "Hubertusgasse 40, 2136, Laa / Thaya": [
   48.7203947,
   16.3958316,
@@ -2258,6 +2294,12 @@
  "IKEA Vösendorf Südring 1, 2334, Vösendorf": [
   48.1059459,
   16.318355,
+  "street",
+  "photon"
+ ],
+ "IZ NÖ - Süd, Straße 7, Obj. 58 / Gebäude D / Top 5, 2355, Wiener Neudorf": [
+  48.0671397,
+  16.3350632,
   "street",
   "photon"
  ],
@@ -2907,6 +2949,12 @@
   48.2013121,
   16.3109064,
   "place",
+  "photon"
+ ],
+ "Kulturhalle Hart bei Graz, 8075, Hart bei Graz": [
+  47.0456315,
+  15.5203619,
+  "street",
   "photon"
  ],
  "Kulturhaus Gratkorn, Bahnhofstraße 2, 8101, Gratkorn": [
@@ -5345,6 +5393,12 @@
   "street",
   "photon"
  ],
+ "Südtirolerstraße 10, 5310 Mondsee, 5310, Mondsee": [
+  47.8582649,
+  13.3612928,
+  "street",
+  "photon"
+ ],
  "TABORSTRASSE UND KARMELITERPLATZ, 1020, Wien, Wien": [
   48.2160009,
   16.3804793,
@@ -5651,6 +5705,12 @@
   "street",
   "photon"
  ],
+ "Volkshaus Innsbruck, Radetzkystraße 47, 6020, Innsbruck": [
+  47.2705773,
+  11.424247,
+  "street",
+  "photon"
+ ],
  "Volkshaus Keferfeld - öd, Landwiedstr. 65, 4020, Linz": [
   48.2708893,
   14.2829172,
@@ -5787,6 +5847,12 @@
   47.4886667,
   9.7430129,
   "place",
+  "photon"
+ ],
+ "Weiglgasse 19 / 4 - 6, 1150, Wien": [
+  48.1869687,
+  16.3213775,
+  "street",
   "photon"
  ],
  "Weiglstraße 9, 3140, Pottenbrunn": [

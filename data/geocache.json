@@ -839,6 +839,12 @@
   "street",
   "photon"
  ],
+ "Börseplatz 6, 1010, Wien": [
+  48.2140248,
+  16.3677684,
+  "street",
+  "photon"
+ ],
  "Bücherei Neues Landgut - Laxenburgerstraße 4 / 1A, 1100, Wien": [
   48.1819692,
   16.3731529,
@@ -2033,6 +2039,12 @@
   "street",
   "photon"
  ],
+ "Heinrich - Öschl - Gasse 3, 3430, Tulln an der Donau": [
+  48.3250772,
+  16.067967,
+  "place",
+  "photon"
+ ],
  "Heinrich Tröbergasse 15, 2331, Vösendorf": [
   48.1350325,
   16.3274265,
@@ -2657,6 +2669,12 @@
   "street",
   "photon"
  ],
+ "Kirchberger Straße 75, 3942, Hirschbach": [
+  48.7371537,
+  15.1116332,
+  "street",
+  "photon"
+ ],
  "Kirchdorf 72, 6874, Bizau": [
   47.3686906,
   9.9282369,
@@ -3230,6 +3248,12 @@
  "Lindheimweg 1, 3702, Niederrußbach": [
   48.4504699,
   16.0352517,
+  "street",
+  "photon"
+ ],
+ "Linke Glanzeile 29, 5020, Salzburg": [
+  47.8178069,
+  13.0266912,
   "street",
   "photon"
  ],
@@ -3947,6 +3971,12 @@
   "street",
   "photon"
  ],
+ "Ossarner Hauptstraße 31, 3130, Ossarn": [
+  48.2761253,
+  15.7172205,
+  "street",
+  "photon"
+ ],
  "Oswald Redlich Straße 11A, 1210, Wien": [
   48.2735055,
   16.4416663,
@@ -4511,6 +4541,12 @@
   "street",
   "photon"
  ],
+ "Reinholdgasse 16, 5026, Salzburg, Aigen": [
+  47.7883053,
+  13.0875152,
+  "street",
+  "photon"
+ ],
  "Reitmoos 21, 6914, Hohenweiler": [
   47.5737011,
   9.7674358,
@@ -4964,6 +5000,12 @@
  "Semmeringstraße 87, 2640, Gloggnitz": [
   47.6629743,
   15.922246,
+  "street",
+  "photon"
+ ],
+ "Servitengasse 9, 1090, Wien": [
+  48.2206823,
+  16.363638,
   "street",
   "photon"
  ],

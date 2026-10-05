@@ -1,8 +1,8 @@
 {
-  "stichtag": "2026-04-01",
+  "stichtag": "2026-10-05",
   "source": "https://data.bev.gv.at/download/Adressregister/Adresse_Relationale_Tabellen_Stichtagsdaten.zip",
   "licence": "CC BY 4.0",
-  "attribution": "© Österreichisches Adressregister, Stichtagsdaten vom 2026-04-01",
+  "attribution": "© Österreichisches Adressregister, Stichtagsdaten vom 2026-10-05",
   "entries": 137477,
   "shards": [
     "0",

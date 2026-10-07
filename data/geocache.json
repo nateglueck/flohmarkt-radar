@@ -71,6 +71,12 @@
   "street",
   "photon"
  ],
+ "9. Bez. Frankg, 1090, Wien": [
+  48.2149158,
+  16.3559547,
+  "place",
+  "photon"
+ ],
  "AM BACH 60 und HAUPTSTRASSE 115, 2244, SPANNBERG": [
   48.4638705,
   16.7435611,
@@ -299,6 +305,12 @@
   "street",
   "photon"
  ],
+ "Andergasse 12, 1170, Wien": [
+  48.2276803,
+  16.2943879,
+  "street",
+  "photon"
+ ],
  "Andritzer Hauptplatz, 8045, Graz - Andritz": [
   47.1031639,
   15.4215167,
@@ -389,6 +401,12 @@
   "street",
   "photon"
  ],
+ "Artstettner Straße 7, 3660, Klein - Pöchlarn": [
+  48.2189578,
+  15.215101,
+  "street",
+  "photon"
+ ],
  "Asperner Heldenplatz 9, 1220, Wien": [
   48.2180372,
   16.4829863,
@@ -399,6 +417,12 @@
   48.5694599,
   16.0840888,
   "street",
+  "photon"
+ ],
+ "Attemsgasse 38 / 3 / 1C, 1220, Wien": [
+  48.2506981,
+  16.4344001,
+  "place",
   "photon"
  ],
  "Atzbacher Str. 20, 4690, Oberndorf": [
@@ -515,6 +539,12 @@
   "street",
   "photon"
  ],
+ "Bahngasse 26, 2700, Wiener Neustadt": [
+  47.8110452,
+  16.2408975,
+  "street",
+  "photon"
+ ],
  "Bahngasse 46, 2700, Wiener Neustadt": [
   47.811628,
   16.2365949,
@@ -542,6 +572,12 @@
  "Bahnhofstraße 29, 8301, Lassnitzhöhe": [
   47.0787619,
   15.5884044,
+  "street",
+  "photon"
+ ],
+ "Bahnhofstraße 42, 6300 Wörgl, 6300, Wörgl": [
+  47.4894047,
+  12.0612685,
   "street",
   "photon"
  ],
@@ -585,6 +621,12 @@
   48.1971654,
   16.3911918,
   "place",
+  "photon"
+ ],
+ "Barnabitengasse 14 , vis a vis Gerngross, 1060, Wien": [
+  48.1989135,
+  16.3534923,
+  "street",
   "photon"
  ],
  "Bauergasse 8, 2172, Schrattenberg": [
@@ -653,6 +695,12 @@
   "unresolved",
   "none"
  ],
+ "Bergstraße 45, 2193, Erdberg": [
+  48.6272422,
+  16.6413762,
+  "street",
+  "photon"
+ ],
  "Berufsschule Hallein, Weisslhofweg 7, 5400, Hallein": [
   47.6889614,
   13.0933549,
@@ -674,6 +722,18 @@
  "Bildgasse. 18 Tor1, 6850, Dornbirn": [
   47.4130145,
   9.7320194,
+  "street",
+  "photon"
+ ],
+ "Bildgasse. 18, 6850, Dornbirn": [
+  47.412694,
+  9.7311434,
+  "street",
+  "photon"
+ ],
+ "Birnengasse 5, 3384, Groß Sierning": [
+  48.1929489,
+  15.4548274,
   "street",
   "photon"
  ],
@@ -833,6 +893,12 @@
   "street",
   "photon"
  ],
+ "Bundesstraße, 6923, Lauterach": [
+  47.4614178,
+  9.7283403,
+  "place",
+  "photon"
+ ],
  "Burg Sommeregg, Schloßau 7, 9871, Seeboden": [
   46.834281,
   13.5229887,
@@ -950,6 +1016,12 @@
  "Donauwörther Straße 21, 2380, Perchtoldsdorf": [
   48.1197341,
   16.2694362,
+  "street",
+  "photon"
+ ],
+ "Dorf 19, 6210, Wiesing": [
+  47.4043328,
+  11.7978839,
   "street",
   "photon"
  ],
@@ -1253,6 +1325,18 @@
   "street",
   "photon"
  ],
+ "Feldgasse 19, 2434, Götzendorf an der Leitha": [
+  48.0169827,
+  16.585672,
+  "street",
+  "photon"
+ ],
+ "Fenkern 16b, 6841, Mäder": [
+  47.3477335,
+  9.6280074,
+  "street",
+  "photon"
+ ],
  "Festsaal am Marktplatz, 5620, Schwarzach / Pg": [
   null,
   null,
@@ -1361,6 +1445,12 @@
   "street",
   "photon"
  ],
+ "Friedhofgasse, 3491, Straß im Straßertal": [
+  48.4675452,
+  15.7319846,
+  "place",
+  "photon"
+ ],
  "Friedhofstraße 2, 2351, Wiener Neudorf": [
   48.0867625,
   16.3257998,
@@ -1430,6 +1520,12 @@
  "Garsella 82, 6723, Blons": [
   47.2251328,
   9.8656442,
+  "street",
+  "photon"
+ ],
+ "Garten, 1230, Wien": [
+  48.1449227,
+  16.3457135,
   "street",
   "photon"
  ],
@@ -1511,9 +1607,21 @@
   "street",
   "photon"
  ],
+ "Gerberstraße 4, 6900, Bregenz": [
+  47.5020678,
+  9.7435873,
+  "street",
+  "photon"
+ ],
  "Gerichtsweg 10, 2540, Bad - Vöslau": [
   47.9606939,
   16.2148668,
+  "street",
+  "photon"
+ ],
+ "Gerotten 59, 3910, Zwettl": [
+  48.6343494,
+  15.1759661,
   "street",
   "photon"
  ],
@@ -1781,6 +1889,12 @@
   "street",
   "photon"
  ],
+ "Hanau 1, 3232, Bischofstetten": [
+  48.1185181,
+  15.4565169,
+  "street",
+  "photon"
+ ],
  "Hanggasse 48a, 6850, Dornbirn": [
   47.4029192,
   9.7333016,
@@ -1967,6 +2081,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 50, 6706, Bürs": [
+  47.1517401,
+  9.8004478,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 81, 4890, Frankenmarkt": [
   47.9852365,
   13.4185821,
@@ -2015,6 +2135,12 @@
   "place",
   "photon"
  ],
+ "Haus Gisingen, Neuer Kirchweg 1, 6800, Felkirch - Gisingen": [
+  47.257494,
+  9.5966229,
+  "street",
+  "photon"
+ ],
  "Haydngasse 11, 8010, Graz": [
   47.0694407,
   15.4483516,
@@ -2061,6 +2187,12 @@
   48.108603,
   16.3950962,
   "street",
+  "photon"
+ ],
+ "Herbststr. 84, Klausg. 16, Kreitnerg. 19, 1160, Wien": [
+  48.2075567,
+  16.3192193,
+  "place",
   "photon"
  ],
  "Hernalser Hauptstraße 53, 1170, Wien": [
@@ -2489,9 +2621,21 @@
   "place",
   "photon"
  ],
+ "Jormannsdorfer Straße 26, \"Die Oase\", 7431, Jormannsdorf, Bad Tatzmannsdorf": [
+  47.341817,
+  16.2262686,
+  "street",
+  "photon"
+ ],
  "Josef - Orits - Straße 9, 8130, Frohnleiten": [
   47.2692116,
   15.3265382,
+  "street",
+  "photon"
+ ],
+ "Josef - Seitz - Straße 37, 2242, Prottes": [
+  48.3939874,
+  16.7400736,
   "street",
   "photon"
  ],
@@ -2885,6 +3029,12 @@
   "street",
   "photon"
  ],
+ "Kleßheimer Allee 93, 5020, Salzburg": [
+  47.8116625,
+  13.0051812,
+  "street",
+  "photon"
+ ],
  "Kleßheimer Allee 93, 5020, Salzburg, Taxham": [
   47.8116625,
   13.0051812,
@@ -2900,6 +3050,12 @@
  "Koloman - Wallisch - Platz, 8600, Bruck / Mur": [
   47.4094752,
   15.2691415,
+  "street",
+  "photon"
+ ],
+ "Kolpinghaus Kitzbühel, 6370, Kitzbühel": [
+  47.4490494,
+  12.3903846,
   "street",
   "photon"
  ],
@@ -2933,6 +3089,12 @@
   "street",
   "photon"
  ],
+ "Kranzgasse 10, 1150, Wien": [
+  48.1891221,
+  16.3338227,
+  "street",
+  "photon"
+ ],
  "Kremser Straße 3, 3484, Grafenwörth": [
   48.4093113,
   15.7721688,
@@ -2954,6 +3116,12 @@
  "Kreuzstraße 34 & 32, 2112 Hetzmannsdorf, 2112, Korneuburg, Harmannsdorf": [
   48.4405186,
   16.4037003,
+  "street",
+  "photon"
+ ],
+ "Kroisbach 29, 8321, St. Margarethen an der Raab": [
+  47.039002,
+  15.7358877,
   "street",
   "photon"
  ],
@@ -3129,6 +3297,12 @@
   48.6479107,
   15.8191852,
   "street",
+  "photon"
+ ],
+ "Leitersdorf 6, 8330, Leitersdorf im Raabtal": [
+  46.9416022,
+  15.932265,
+  "place",
   "photon"
  ],
  "Leitersdorf i. R. 6 beim Gasthaus Papst, 8330, Feldbach": [
@@ -3382,6 +3556,12 @@
   15.433696,
   "place",
   "photon"
+ ],
+ "Mariazellerstraße 72, 3100, St. Pölten": [
+  48.1924914,
+  15.619066,
+  "street",
+  "nominatim"
  ],
  "Mariengasse 39 / 9, 1170, Wien": [
   48.2190917,
@@ -3971,6 +4151,12 @@
   "street",
   "photon"
  ],
+ "Oskar Jascha Gasse, 1130, Wien": [
+  48.1610074,
+  16.2591584,
+  "place",
+  "photon"
+ ],
  "Ossarner Hauptstraße 31, 3130, Ossarn": [
   48.2761253,
   15.7172205,
@@ -4150,6 +4336,12 @@
   16.0967529,
   "place",
   "photon"
+ ],
+ "Pfarre Mariahilf Flohmarktkeller, 6900, Bregenz": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Pfarrgasse 1, 4082, Aschach an der Donau": [
   48.3663309,
@@ -4463,6 +4655,12 @@
   "street",
   "photon"
  ],
+ "Raiffeisenstr. 56, Gemeindeamt, 6713, Ludesch": [
+  47.192867,
+  9.783362,
+  "street",
+  "photon"
+ ],
  "Ramperstorffergasse 5, 1050, Wien": [
   48.1844777,
   16.3605572,
@@ -4547,6 +4745,12 @@
   "street",
   "photon"
  ],
+ "Reischachstr. 3, 1010, Wien": [
+  48.2107812,
+  16.3837927,
+  "street",
+  "photon"
+ ],
  "Reitmoos 21, 6914, Hohenweiler": [
   47.5737011,
   9.7674358,
@@ -4569,6 +4773,12 @@
   46.9977583,
   15.9301536,
   "street",
+  "photon"
+ ],
+ "Riesbachstraße, 5412, Puch Urstein": [
+  47.7241057,
+  13.0938085,
+  "place",
   "photon"
  ],
  "Rif, 5400, Hallein - Rif": [
@@ -4604,6 +4814,12 @@
  "Rosenburg am Kamp 43, 3573, Rosenburg - Mold": [
   48.6289298,
   15.6386224,
+  "street",
+  "photon"
+ ],
+ "Rosenhalle St. Stefan im Rosental, 8083, St. Stefan im Rosental": [
+  46.9058985,
+  15.7147748,
   "street",
   "photon"
  ],
@@ -4649,6 +4865,12 @@
   "street",
   "photon"
  ],
+ "Rupertusplatz, 1170, Wien": [
+  48.2290008,
+  16.2981845,
+  "place",
+  "photon"
+ ],
  "Ruster Straße 82 - 104, 7000, Eisenstadt": [
   47.8352114,
   16.5277505,
@@ -4685,9 +4907,21 @@
   "street",
   "photon"
  ],
+ "Salonschiff Fräulein Florentine, 4040, Linz Urfahr": [
+  48.3113961,
+  14.2882239,
+  "street",
+  "photon"
+ ],
  "Salvatorianerplatz 1, 1100, Wien": [
   48.1657605,
   16.3705839,
+  "street",
+  "photon"
+ ],
+ "Salzburger Straße 223, 4600, Wels": [
+  48.1446967,
+  13.9753233,
   "street",
   "photon"
  ],
@@ -4769,6 +5003,12 @@
   "place",
   "photon"
  ],
+ "Schiffmannstr. 122, 3100, Stattersdorf (St. Pölten)": [
+  48.1857308,
+  15.6373275,
+  "place",
+  "photon"
+ ],
  "Schloss Halbturn, 7131, Halbturn": [
   47.8738892,
   16.9731703,
@@ -4790,6 +5030,12 @@
  "Schloß Rosenau 6, 3924, Zwettl": [
   48.6015337,
   15.0653238,
+  "street",
+  "photon"
+ ],
+ "Schlösselgasse 8, 1080, Wien": [
+  48.2126376,
+  16.3534474,
   "street",
   "photon"
  ],
@@ -4934,6 +5180,12 @@
  "Schöcklstraße 12, 8061, St. Radegund bei Graz": [
   47.1835727,
   15.4885332,
+  "street",
+  "photon"
+ ],
+ "Schöllergasse 20, 2630, Ternitz": [
+  47.7146524,
+  16.0385292,
   "street",
   "photon"
  ],
@@ -5334,6 +5586,12 @@
   "photon"
  ],
  "Stephansplatz 3, 1010, Wien": [
+  48.2084923,
+  16.3731269,
+  "street",
+  "photon"
+ ],
+ "Stephansplazz 3 Curhaus, 1010, Wien": [
   48.2084923,
   16.3731269,
   "street",
@@ -5861,9 +6119,21 @@
   "street",
   "photon"
  ],
+ "Waldheim 1d, 6830, Rankweil": [
+  47.2730395,
+  9.6515483,
+  "street",
+  "photon"
+ ],
  "Waldmannsgasse 1, 2542, Kottingbrunn": [
   47.9438946,
   16.2222925,
+  "street",
+  "photon"
+ ],
+ "Waldorfstraße 11, 5023, Salzburg": [
+  47.8293397,
+  13.0801322,
   "street",
   "photon"
  ],
@@ -5939,6 +6209,12 @@
   "street",
   "photon"
  ],
+ "Werningstraße17, 2650, Payerbach": [
+  47.696056,
+  15.8632084,
+  "street",
+  "photon"
+ ],
  "Werschenschlag, 3531, Werschenschlag": [
   48.5610491,
   15.3109487,
@@ -6008,6 +6284,12 @@
  "Wienersdorferstraße 19, 2514, Traiskirchen": [
   47.9989239,
   16.307034,
+  "street",
+  "photon"
+ ],
+ "Wienerstr. 29, 2620, Neunkirchen": [
+  47.7265398,
+  16.0811137,
   "street",
   "photon"
  ],
@@ -6152,6 +6434,12 @@
  "Zieglergasse 46, 1070, Wien": [
   48.2024902,
   16.3451633,
+  "street",
+  "photon"
+ ],
+ "Zippersfeld 3, 6844, Altach": [
+  47.3590313,
+  9.6569581,
   "street",
   "photon"
  ],

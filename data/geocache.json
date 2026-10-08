@@ -527,6 +527,12 @@
   "street",
   "photon"
  ],
+ "Badenerstraße 32 Volksheim, 2544, Leobersdorf": [
+  47.933829,
+  16.2189802,
+  "street",
+  "photon"
+ ],
  "Badsiedlung 12, 2263, Dürnkrut": [
   48.4719058,
   16.8424053,
@@ -849,6 +855,12 @@
   48.1906691,
   16.348382,
   "place",
+  "photon"
+ ],
+ "Brückenstraße 13, 5110, Oberndorf bei Salzburg": [
+  47.9395713,
+  12.9402075,
+  "street",
   "photon"
  ],
  "Brünner Straße / Föhrenhain, 2201, Gerasdorf": [
@@ -4469,6 +4481,12 @@
   "street",
   "photon"
  ],
+ "Pfarrweg 9, 5061 Elsbethen, 5061, Elsbethen": [
+  47.7590153,
+  13.0849743,
+  "street",
+  "photon"
+ ],
  "Pfarrzentrum St. Severin, Ernst - Mach - Straße 39, 5023 Salzburg, 5023, Salzburg": [
   47.8229358,
   13.0687935,
@@ -4718,6 +4736,12 @@
  "Ravelinstraße 5A, 1110, Wien": [
   48.1728777,
   16.424174,
+  "street",
+  "photon"
+ ],
+ "Rechte Bachgasse 7, 3443, Elsbach": [
+  48.2496964,
+  16.0464897,
   "street",
   "photon"
  ],
@@ -5319,6 +5343,12 @@
   48.22065,
   15.218187,
   "place",
+  "photon"
+ ],
+ "Spengergasse 24 im Erdgeschoß, 1050, Wien": [
+  48.1864526,
+  16.3558256,
+  "street",
   "photon"
  ],
  "Spengergasse 24, 1050, Wien": [

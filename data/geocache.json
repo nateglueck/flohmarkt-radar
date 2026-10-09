@@ -185,6 +185,12 @@
   "street",
   "photon"
  ],
+ "Alfred Schedewy Gasse 6, 2524, Teesdorf": [
+  47.9494984,
+  16.2791383,
+  "street",
+  "photon"
+ ],
  "Alleenweg 4, 4932, Kirchheim im Innkreis": [
   48.2096294,
   13.3562532,
@@ -680,6 +686,12 @@
  "Belruptstraße 21, Austriahaus, 6900, Bregenz": [
   47.5038237,
   9.7505059,
+  "street",
+  "photon"
+ ],
+ "Belvederegasse 35, 1040, Wien": [
+  48.1903469,
+  16.3731984,
   "street",
   "photon"
  ],
@@ -1235,6 +1247,12 @@
   "place",
   "photon"
  ],
+ "Endresstraße 113, 1230, Wien": [
+  48.1500889,
+  16.2698092,
+  "street",
+  "photon"
+ ],
  "Engerthstraße 150 / 8 Hobbyraum, 1020, Wien": [
   48.2306506,
   16.3954253,
@@ -1451,6 +1469,12 @@
   "place",
   "photon"
  ],
+ "Freie Waldorfschule, Baumbachstraße 11, 4020, Linz": [
+  48.3006679,
+  14.2846512,
+  "street",
+  "photon"
+ ],
  "Freizeitzentrum Ehrenhausen, 8461, Ehrenhausen": [
   46.7200075,
   15.5907039,
@@ -1581,6 +1605,12 @@
   48.5269532,
   16.5941463,
   "place",
+  "photon"
+ ],
+ "Gemeindeamt Markersdorf - Haindorf, Feuerwehrgasse 2, 3388 Markersdorf, 3388, Markersdorf": [
+  48.1922479,
+  15.5009813,
+  "street",
   "photon"
  ],
  "Gemeindeamt, Feuerwehrgasse 2, 3388 Markersdorf, 3388, Markersdorf": [
@@ -2165,6 +2195,12 @@
   "unresolved",
   "none"
  ],
+ "Heidegasse 24, 2602, Blumau - Neurisshof": [
+  47.9209114,
+  16.2998694,
+  "street",
+  "photon"
+ ],
  "Heiligenstädter Straße 155, 1190, Wien": [
   48.2542913,
   16.3644954,
@@ -2430,6 +2466,12 @@
   "photon"
  ],
  "Hüttelbergstraße 1A, 1140, Wien": [
+  48.2029559,
+  16.2569941,
+  "street",
+  "photon"
+ ],
+ "Hüttelbergstraße 1a , 1140 Wien, 1140, Wien": [
   48.2029559,
   16.2569941,
   "street",
@@ -2717,6 +2759,12 @@
   "street",
   "photon"
  ],
+ "Kaiser - Franz - Josef - Straße 17, 6890, Lustenau": [
+  47.4229074,
+  9.6594648,
+  "street",
+  "photon"
+ ],
  "Kaiser - Josef - Platz 10, 8010, Graz": [
   47.0689957,
   15.4456981,
@@ -2745,6 +2793,12 @@
   48.0855922,
   16.2833526,
   "place",
+  "photon"
+ ],
+ "Kammgarnzentrum, Hanuschgasse 1, Top 11, 2540, Bad Vöslau": [
+  47.9698256,
+  16.2195332,
+  "street",
   "photon"
  ],
  "Kapfenstein, 8353, Kapfenstein": [
@@ -2990,6 +3044,12 @@
  "Kirchenweg 4, 4551, Ried im Traunkreis": [
   48.024643,
   14.0745094,
+  "street",
+  "photon"
+ ],
+ "Kirchfeldstraße 1a, 6844, Altach": [
+  47.3529581,
+  9.6549424,
   "street",
   "photon"
  ],
@@ -3368,6 +3428,12 @@
  "Lerchenweg 1, 3730, Eggenburg": [
   48.6481442,
   15.8182022,
+  "street",
+  "photon"
+ ],
+ "Lessinggasse 16, 2232, Deutsch Wagram": [
+  48.3085951,
+  16.5667275,
   "street",
   "photon"
  ],
@@ -4361,6 +4427,12 @@
   "street",
   "photon"
  ],
+ "Pfarrgasse 22, 2522, Oberwaltersdorf": [
+  47.9757939,
+  16.3198509,
+  "street",
+  "photon"
+ ],
  "Pfarrheim Achau, Hauptsgtraße 46, 2481, Achau": [
   48.0802985,
   16.3853923,
@@ -4733,9 +4805,21 @@
   "street",
   "photon"
  ],
+ "Rauchenwarth 56, 2320, Rauchenwarth": [
+  48.0836173,
+  16.5285535,
+  "street",
+  "photon"
+ ],
  "Ravelinstraße 5A, 1110, Wien": [
   48.1728777,
   16.424174,
+  "street",
+  "photon"
+ ],
+ "Reaktorstraße 3, 2440, Reisenberg": [
+  47.9951853,
+  16.5240093,
   "street",
   "photon"
  ],
@@ -4898,6 +4982,12 @@
  "Ruster Straße 82 - 104, 7000, Eisenstadt": [
   47.8352114,
   16.5277505,
+  "street",
+  "photon"
+ ],
+ "SCS - Straße, 2334 Vösendorf Ikea, 2334, Vösendorf SCS": [
+  48.1117482,
+  16.3151603,
   "street",
   "photon"
  ],
@@ -5249,6 +5339,12 @@
   "street",
   "photon"
  ],
+ "Schörgenhubstraße 39, 4030, Linz": [
+  48.2522481,
+  14.3009047,
+  "place",
+  "photon"
+ ],
  "Schülerweg 90, 9020, Klagenfurt": [
   46.6324384,
   14.3972131,
@@ -5288,6 +5384,12 @@
  "Seuttergasse 6, 1130, Wien": [
   48.1936013,
   16.2639975,
+  "street",
+  "photon"
+ ],
+ "Siebenbrunnenfeldg 24, 1050, Wien": [
+  48.1818347,
+  16.3526541,
   "street",
   "photon"
  ],
@@ -5495,6 +5597,12 @@
   "place",
   "photon"
  ],
+ "St. Georgener Hauptstr. 117, 3151, St. Georgen am Steinfeld": [
+  48.1317307,
+  15.6129388,
+  "street",
+  "photon"
+ ],
  "St. Pöltner Straße 11, 3512, Mautern / Donau": [
   48.3935203,
   15.5786003,
@@ -5624,6 +5732,12 @@
  "Stephansplazz 3 Curhaus, 1010, Wien": [
   48.2084923,
   16.3731269,
+  "street",
+  "photon"
+ ],
+ "Steyrling 138, 4571, Steyrling": [
+  47.8048694,
+  14.1316883,
   "street",
   "photon"
  ],
@@ -5795,6 +5909,12 @@
   "street",
   "photon"
  ],
+ "Trabocherstraße 12, 8793, Trofaiach, Trofaiach": [
+  47.4197561,
+  15.0089669,
+  "street",
+  "photon"
+ ],
  "Trabrennblatz Rosenau, 4600, Wels": [
   48.1486348,
   14.0075182,
@@ -5870,6 +5990,12 @@
  "Umfahrung, 8950, Stainach": [
   47.5292171,
   14.1071317,
+  "street",
+  "photon"
+ ],
+ "Ungargasse 43, 1030, Wien": [
+  48.199919,
+  16.3878029,
   "street",
   "photon"
  ],
@@ -6458,6 +6584,12 @@
  "Zeltenschlagstraße 2, INTERSPAR, 8700, Leoben": [
   47.3789994,
   15.0886908,
+  "street",
+  "photon"
+ ],
+ "Zemling Manhartsbergstraße 9, 3473, Hohenwarth": [
+  48.5292286,
+  15.7830858,
   "street",
   "photon"
  ],

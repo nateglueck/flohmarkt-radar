@@ -1715,6 +1715,12 @@
   "street",
   "photon"
  ],
+ "Geymüllergasse 1, 1180, Wien": [
+  48.2426413,
+  16.3055555,
+  "street",
+  "photon"
+ ],
  "Geymüllerstraße 6 / Geymüllerhalle hinter Thermenhalle, 2540, Bad Vöslau": [
   47.9715969,
   16.2201585,
@@ -2891,6 +2897,18 @@
   "street",
   "photon"
  ],
+ "Kirchdorfer Straße 2, 4540, Bad Hall": [
+  48.0350938,
+  14.2031058,
+  "street",
+  "photon"
+ ],
+ "Kirchengasse 1, 8734, Großlobming": [
+  47.1844858,
+  14.8084169,
+  "street",
+  "photon"
+ ],
  "Kirchengasse 26, 8990, Bad Aussee": [
   47.6115443,
   13.7884468,
@@ -3032,6 +3050,12 @@
  "Kirchenstraße 6 Rehhofsiedlung, 5400, Hallein": [
   47.7102987,
   13.0732587,
+  "street",
+  "photon"
+ ],
+ "Kirchenstraße 7, 5411, Oberalm": [
+  47.703643,
+  13.1001381,
   "street",
   "photon"
  ],
@@ -3248,6 +3272,12 @@
  "Kurpark Bad Aussee, 8990, Badaussee": [
   47.6098227,
   13.7844941,
+  "street",
+  "photon"
+ ],
+ "Kärntner Ring 4, 1010, Wien Innere Stadt": [
+  48.2017732,
+  16.3703792,
   "street",
   "photon"
  ],
@@ -3633,6 +3663,12 @@
   47.072838,
   15.433696,
   "place",
+  "photon"
+ ],
+ "Mariazeller Straße 12, 3150, Göblasbruck": [
+  48.0826553,
+  15.5941728,
+  "street",
   "photon"
  ],
  "Mariazellerstraße 72, 3100, St. Pölten": [
@@ -4700,6 +4736,12 @@
  "Pürbach 28, 3944, Schrems": [
   48.7637534,
   15.0879363,
+  "street",
+  "photon"
+ ],
+ "Pürrergasse 1, 2801, Katzelsdorf": [
+  47.7816014,
+  16.2705849,
   "street",
   "photon"
  ],
@@ -6023,6 +6065,12 @@
   "street",
   "photon"
  ],
+ "Untere Donaustraße 37, 1020, Wien": [
+  48.2139682,
+  16.3877514,
+  "street",
+  "photon"
+ ],
  "Untere Gänsbachgasse 9, 6370, Kitzbühel": [
   47.4484214,
   12.3905007,
@@ -6602,6 +6650,12 @@
  "Zippersfeld 3, 6844, Altach": [
   47.3590313,
   9.6569581,
+  "street",
+  "photon"
+ ],
+ "Zum Sand 6a, 6844, Altach": [
+  47.3617083,
+  9.6546215,
   "street",
   "photon"
  ],

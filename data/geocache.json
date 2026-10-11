@@ -197,6 +197,12 @@
   "street",
   "photon"
  ],
+ "Altbachweg 3, 3464 Hausleiten, 3464, Hausleiten": [
+  48.3849532,
+  16.1102799,
+  "street",
+  "photon"
+ ],
  "Alte Landesstraße 1, 5165, Berndorf bei Salzburg": [
   47.9961201,
   13.0626705,
@@ -1895,6 +1901,12 @@
   "street",
   "photon"
  ],
+ "Haidlisse 4, 2230, Gänserndorf": [
+  48.3339034,
+  16.7149517,
+  "street",
+  "photon"
+ ],
  "Haidäcker Park 2 - 3, INTERSPAR, 7000, Eisenstadt": [
   47.8267495,
   16.523904,
@@ -1940,6 +1952,12 @@
  "Hanau 1, 3232, Bischofstetten": [
   48.1185181,
   15.4565169,
+  "street",
+  "photon"
+ ],
+ "Handelsweg 10, 2542, Kottingbrunn": [
+  47.9481448,
+  16.2207316,
   "street",
   "photon"
  ],
@@ -2518,6 +2536,12 @@
   14.2510472,
   "street",
   "photon"
+ ],
+ "Im Feuerwehrhaus Lehrstr. 10, 4870, Vöcklamarkt": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Im Ganzen Dorf, 2211, Pillichsdorf": [
   null,
@@ -3635,6 +3659,12 @@
   "place",
   "photon"
  ],
+ "Manglburg 4, 4710, Grieskirchen": [
+  48.234227,
+  13.829005,
+  "place",
+  "photon"
+ ],
  "Marchtenkerstr. 65, 4611, Buchkirchen": [
   48.2025728,
   14.0802814,
@@ -3827,6 +3857,12 @@
   "street",
   "photon"
  ],
+ "Maurer Lange Gasse72, 1230, Wien": [
+  48.1483561,
+  16.2770261,
+  "place",
+  "photon"
+ ],
  "Maustrenk, 2225, Maustrenk": [
   48.5729103,
   16.7006887,
@@ -3854,6 +3890,12 @@
  "Meiselstraße 1, 1150, Wien": [
   48.197206,
   16.3229583,
+  "street",
+  "photon"
+ ],
+ "Meisten 20, 6866, Andelsbuch": [
+  47.421467,
+  9.8918721,
   "street",
   "photon"
  ],
@@ -4970,6 +5012,12 @@
  "Rosenhalle St. Stefan im Rosental, 8083, St. Stefan im Rosental": [
   46.9058985,
   15.7147748,
+  "street",
+  "photon"
+ ],
+ "Rosenweg 7, 3441, Judenau": [
+  48.2872647,
+  16.0112831,
   "street",
   "photon"
  ],

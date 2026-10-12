@@ -89,6 +89,12 @@
   "place",
   "photon"
  ],
+ "ASKÖ Halle Maxglan Eichetstraße 29 - 31, 5020, Salzburg": [
+  47.7916412,
+  13.0140795,
+  "street",
+  "photon"
+ ],
  "ATV - Sportplatz Trautenfelserstraße 2 8952 Irdning, 8952, Irdning - Donnersbachtal": [
   47.5053908,
   14.1024951,
@@ -2123,6 +2129,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 26 Hintaus, 2020, Aspersdorf, Hollabrunn": [
+  48.5867872,
+  16.0965771,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 27, 2603, Felixorf": [
   47.882355,
   16.2431061,
@@ -4064,6 +4076,12 @@
  "Morzgerstraße 27, 5020, Salzburg": [
   47.8115207,
   13.0434146,
+  "street",
+  "photon"
+ ],
+ "Multistorage, Scherenbrandtnerhofstr. 11, 5020, Salzburg": [
+  47.8239174,
+  13.0586665,
   "street",
   "photon"
  ],

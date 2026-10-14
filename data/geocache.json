@@ -311,6 +311,12 @@
   "street",
   "photon"
  ],
+ "Am Weinberg 1, Sporthalle MS Ardagger, 3321, Ardagger Stift": [
+  48.1676692,
+  14.8398218,
+  "street",
+  "photon"
+ ],
  "An der Leiten 12, OBI, 6134, Vomp": [
   47.3520038,
   11.697749,
@@ -1937,6 +1943,12 @@
   "street",
   "nominatim"
  ],
+ "Halbrittergasse, 4, 1230, 1230 Wien": [
+  48.1348141,
+  16.2658384,
+  "street",
+  "photon"
+ ],
  "Halleiner Landesstraße 7, 5411, Oberalm": [
   47.6920586,
   13.1000226,
@@ -2024,6 +2036,12 @@
  "Hauptplatz 12 - 14 Tiefgarage, 3430, Tulln": [
   48.3303846,
   16.0508323,
+  "street",
+  "photon"
+ ],
+ "Hauptplatz 15, Hebammenpraxis im Zentrum, 2483, Ebreichsdorf": [
+  47.9627637,
+  16.4007816,
   "street",
   "photon"
  ],
@@ -2477,6 +2495,12 @@
   "unresolved",
   "none"
  ],
+ "Http: / /, 1120, Wien": [
+  48.1745297,
+  16.3339652,
+  "street",
+  "photon"
+ ],
  "Hubertusgasse 40, 2136, Laa / Thaya": [
   48.7203947,
   16.3958316,
@@ -2696,6 +2720,12 @@
  "Johann Nepomuk Berger Platz 6, 1160, Wien": [
   48.2122122,
   16.3260936,
+  "street",
+  "photon"
+ ],
+ "Johann Schweiger Gasse 18, 2120, Wolkersdorf": [
+  48.3784953,
+  16.5147641,
   "street",
   "photon"
  ],
@@ -2999,6 +3029,12 @@
   "street",
   "photon"
  ],
+ "Kirchenplatz 3, 2512, Tribuswinkel": [
+  48.0062504,
+  16.271812,
+  "street",
+  "photon"
+ ],
  "Kirchenplatz 3, 4070 Eferding, 4070, Eferding": [
   48.3119267,
   14.0215034,
@@ -3170,6 +3206,12 @@
  "Kleßheimer Allee 93, 5020, Salzburg, Taxham": [
   47.8116625,
   13.0051812,
+  "street",
+  "photon"
+ ],
+ "Klosterstraße 1, Veranstaltungs Saal / Bildungszentrum, 4553, Schlierbach": [
+  47.9365569,
+  14.1272457,
   "street",
   "photon"
  ],
@@ -3705,6 +3747,12 @@
   47.072838,
   15.433696,
   "place",
+  "photon"
+ ],
+ "Mariazeller Str. 254, Möbelix, 3100, St. Pölten": [
+  48.1618914,
+  15.6143824,
+  "street",
   "photon"
  ],
  "Mariazeller Straße 12, 3150, Göblasbruck": [
@@ -4247,6 +4295,12 @@
   "street",
   "photon"
  ],
+ "Niederweiding 8, 4722, Peuerbach": [
+  48.3252851,
+  13.7808894,
+  "street",
+  "photon"
+ ],
  "Nitscha, 8200, Gleisdorf": [
   47.1280256,
   15.7492181,
@@ -4631,6 +4685,12 @@
   "street",
   "photon"
  ],
+ "Pfarrsaal Markstraße, 4870, Vöcklamarkt": [
+  48.0029025,
+  13.4851152,
+  "street",
+  "photon"
+ ],
  "Pfarrsaal, Münsterstraße, 4813, Altmünster": [
   47.9011956,
   13.7649001,
@@ -4809,6 +4869,12 @@
   48.2382236,
   16.4813702,
   "street",
+  "photon"
+ ],
+ "Quellenplatz 1, 7202, Bad Sauerbrunn": [
+  47.7764701,
+  16.3281344,
+  "place",
   "photon"
  ],
  "Quellenstraße 149, 1100, Wien": [
@@ -5343,6 +5409,12 @@
   47.5219597,
   16.1916184,
   "street",
+  "photon"
+ ],
+ "Schulgasse, 1180, Wien": [
+  48.2253451,
+  16.3397026,
+  "place",
   "photon"
  ],
  "Schulstraße 100, 4203 Altenberg bei Linz, 4203, Altenberg bei Linz": [
@@ -6389,6 +6461,12 @@
   "street",
   "photon"
  ],
+ "Waldgasse 8 und Waldgasse 5, 2273, Hohenau an der March": [
+  48.6004358,
+  16.9088421,
+  "street",
+  "photon"
+ ],
  "Waldheim 1d, 6830, Rankweil": [
   47.2730395,
   9.6515483,
@@ -6446,6 +6524,12 @@
  "Weiglstraße 9, 3140, Pottenbrunn": [
   48.2377608,
   15.6917967,
+  "street",
+  "photon"
+ ],
+ "Weihburggasse 24, 1010, Wien": [
+  48.2053943,
+  16.3754532,
   "street",
   "photon"
  ],
@@ -6662,6 +6746,12 @@
  "Wolfstraße 18, 2514, Traiskirchen": [
   48.0289049,
   16.3088025,
+  "street",
+  "photon"
+ ],
+ "Wolkersbergenstraße 170, 1130, Wien": [
+  48.1768118,
+  16.2733645,
   "street",
   "photon"
  ],

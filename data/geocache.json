@@ -155,6 +155,12 @@
   "place",
   "photon"
  ],
+ "Alberstr 15, 8010, Graz St. Leonhard": [
+  47.0705313,
+  15.4505487,
+  "street",
+  "photon"
+ ],
  "Albertgasse 39, 1080, Wien": [
   48.2122441,
   16.3438849,
@@ -1025,6 +1031,12 @@
   "street",
   "photon"
  ],
+ "Deutsch Tschantschendorf 26, 7544, Tobaj / Deutsch Tschantschendorf": [
+  47.1072212,
+  16.2864619,
+  "street",
+  "photon"
+ ],
  "Diakoniestraße 2, 4312, Ried in der Riedmark": [
   48.2708983,
   14.5262233,
@@ -1113,6 +1125,12 @@
   48.2254907,
   16.3146997,
   "street",
+  "photon"
+ ],
+ "Dr. - Sylvester - Straße 27, 5020, Salzburg": [
+  47.7740446,
+  13.0523733,
+  "place",
   "photon"
  ],
  "Dr. Karl - Renner - Straße 1, 3943, Schrems": [
@@ -1593,6 +1611,12 @@
   47.0721246,
   15.3950138,
   "street",
+  "photon"
+ ],
+ "Gaubystraße 53, 8591, Maria Lankowitz": [
+  47.0616361,
+  14.978229,
+  "place",
   "photon"
  ],
  "Gaußplatz 9 - 10, vor Radio ORANGE 94. 0, 1200, Wien": [
@@ -2144,6 +2168,12 @@
  "Hauptstraße 19, 4432, Ernsthofen": [
   48.1266565,
   14.4827619,
+  "street",
+  "photon"
+ ],
+ "Hauptstraße 20, 3720, Ravelsbach": [
+  48.5509388,
+  15.8478772,
   "street",
   "photon"
  ],
@@ -3209,6 +3239,12 @@
   "street",
   "photon"
  ],
+ "Klosterplatz 1, 4650, Lambach": [
+  48.0907708,
+  13.8774451,
+  "street",
+  "photon"
+ ],
  "Klosterstraße 1, Veranstaltungs Saal / Bildungszentrum, 4553, Schlierbach": [
   47.9365569,
   14.1272457,
@@ -3326,6 +3362,12 @@
  "Kulturhaus Reith bei Kitzbühel, Kitzbühlerstr. 2, 6370, Reith bei Kitzbühel": [
   47.4774363,
   12.3450343,
+  "street",
+  "photon"
+ ],
+ "Kulturhaus Reith, Kitzbüheler Straße, 6370, Reith bei Kitzbühel": [
+  47.4772938,
+  12.3448463,
   "street",
   "photon"
  ],
@@ -3489,6 +3531,12 @@
   46.944278,
   15.9421435,
   "street",
+  "photon"
+ ],
+ "Leithakoloniestraße, 2700, Wiener Neustadt": [
+  47.8015553,
+  16.2705469,
+  "place",
   "photon"
  ],
  "Lemböckgasse 68, 1230, Wien": [
@@ -4373,6 +4421,12 @@
   "street",
   "photon"
  ],
+ "Ortsstraße 163, 2331, Vösendorf": [
+  48.1225017,
+  16.3373741,
+  "street",
+  "photon"
+ ],
  "Ortweingasse 2 - 8, 3107 St. Pölten - Viehofen, 3107, St. Pölten": [
   48.2270877,
   15.639646,
@@ -4439,6 +4493,12 @@
   "street",
   "photon"
  ],
+ "Pachern - Hauptstraße 97, 8075, Hart bei Graz": [
+  47.045778,
+  15.5202469,
+  "street",
+  "photon"
+ ],
  "Pachern-Hauptstraße 97, Foyer der Kulturhalle, 8075, Hart bei Graz": [
   47.0456315,
   15.5203619,
@@ -4484,6 +4544,12 @@
  "Parkgasse 1, 2273, Hohenau": [
   48.6058687,
   16.9095936,
+  "street",
+  "photon"
+ ],
+ "Parkplatz Baywa, Klarenbrunnstr. 7, 6700, Bludenz": [
+  47.1515897,
+  9.8186357,
   "street",
   "photon"
  ],
@@ -4563,6 +4629,12 @@
   48.5876738,
   16.0967529,
   "place",
+  "photon"
+ ],
+ "Pfarre Bad Erlach, Hauptstraße 11, 2822, Bad Erlach": [
+  47.7274002,
+  16.2161306,
+  "street",
   "photon"
  ],
  "Pfarre Mariahilf Flohmarktkeller, 6900, Bregenz": [
@@ -5075,6 +5147,12 @@
   "street",
   "photon"
  ],
+ "Roseggerstraße 30, 2521, Trumau": [
+  47.9997828,
+  16.3450682,
+  "street",
+  "photon"
+ ],
  "Rosenackerstraße 9,Stiege 35 Tür 10, 1160, Wien": [
   48.2242035,
   16.3028309,
@@ -5534,6 +5612,12 @@
  "Seegasse 11, 1090, Wien": [
   48.2234649,
   16.3636929,
+  "street",
+  "photon"
+ ],
+ "Seepromenade Mondsee, 5310, Mondsee": [
+  47.8510795,
+  13.3507087,
   "street",
   "photon"
  ],
@@ -6197,6 +6281,12 @@
   "street",
   "photon"
  ],
+ "Unter der Leithen 2, 3341, Ybbsitz": [
+  47.9466328,
+  14.8945849,
+  "street",
+  "photon"
+ ],
  "Untere Bachgasse 9, 2340, Mödling": [
   48.0854518,
   16.2993383,
@@ -6422,6 +6512,12 @@
  "Wachaustr. 45, 3385, Prinzersdorf": [
   48.2056136,
   15.508865,
+  "street",
+  "photon"
+ ],
+ "Wagramerstr 246, 1220, Wien": [
+  48.2256716,
+  16.5076039,
   "street",
   "photon"
  ],

@@ -191,6 +191,12 @@
   "street",
   "photon"
  ],
+ "Alfred Bäck 9 Top 5, 5020, Salzburg": [
+  47.7872465,
+  13.0197709,
+  "street",
+  "photon"
+ ],
  "Alfred Fröhlich - Straße 3, 2201, Seyring": [
   48.3386105,
   16.4635233,
@@ -551,6 +557,12 @@
   "street",
   "photon"
  ],
+ "Bachzeile 22, 7222 Rohrbach, 7222, Rohrbach bei Mattersburg": [
+  47.708878,
+  16.4271056,
+  "street",
+  "photon"
+ ],
  "Badener Str. 18, 2700, Wiener Neustadt": [
   47.835183,
   16.2412214,
@@ -596,6 +608,12 @@
  "Bahnhofstr. 20, 4400, Steyr": [
   48.0396543,
   14.4235272,
+  "street",
+  "photon"
+ ],
+ "Bahnhofstr. 21, 4050, Traun": [
+  48.2209753,
+  14.2420961,
   "street",
   "photon"
  ],
@@ -977,6 +995,12 @@
   "street",
   "photon"
  ],
+ "Carl - von - Linde - Gasse 3, 2492, Eggendorf": [
+  47.8494983,
+  16.3092027,
+  "place",
+  "photon"
+ ],
  "Casino Säle, Leopold - Werndl - Straße 10, 4400, Steyr": [
   48.0358028,
   14.4136401,
@@ -1307,6 +1331,12 @@
   "street",
   "photon"
  ],
+ "Ernstbrunnerstr. 107, 2032, Enzersdorf I,T.": [
+  48.5861722,
+  16.2424999,
+  "street",
+  "photon"
+ ],
  "Erzabt Franz Bachler - Platz 1, 5082, Grödig": [
   47.748145,
   12.9967484,
@@ -1463,6 +1493,12 @@
   "street",
   "photon"
  ],
+ "Flurgasse 12, 2514, Traiskirchen / Wienersdorf": [
+  48.0049046,
+  16.2866827,
+  "street",
+  "photon"
+ ],
  "Flurweg 6, 4482, Ennsdorf": [
   48.2175776,
   14.4953456,
@@ -1578,6 +1614,12 @@
   "photon"
  ],
  "Föhrenstraße 55, 7410, Loipersdorf - Kitzladen": [
+  47.3447004,
+  16.0701802,
+  "street",
+  "photon"
+ ],
+ "Föhrenstraße 55, 7410, Loipersdorf / Kitzladen": [
   47.3447004,
   16.0701802,
   "street",
@@ -2045,6 +2087,12 @@
   "street",
   "photon"
  ],
+ "Hasensprung 5, 6714, Nüziders": [
+  47.164648,
+  9.8108923,
+  "street",
+  "photon"
+ ],
  "Hasnerplatz, 8010, Graz": [
   47.0832771,
   15.4344928,
@@ -2153,6 +2201,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 11, 2215, Raggendorf": [
+  48.3936475,
+  16.6593865,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 13, 7321, Lackendorf": [
   47.5907761,
   16.5051671,
@@ -2225,6 +2279,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 9, 1140, Wien, Pfarre Mariabrunn": [
+  48.2074482,
+  16.2286869,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 90, 8793, Trofaiach": [
   47.4280286,
   15.0089335,
@@ -2264,6 +2324,12 @@
  "Haus Gisingen, Neuer Kirchweg 1, 6800, Felkirch - Gisingen": [
   47.257494,
   9.5966229,
+  "street",
+  "photon"
+ ],
+ "Haydgasse 15 / 5, 1020, Wien": [
+  48.2181067,
+  16.3803319,
   "street",
   "photon"
  ],
@@ -2374,6 +2440,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Himbeerstraße 3, 3032, Eichgraben": [
+  48.1600251,
+  15.9676058,
+  "street",
+  "photon"
  ],
  "Hinterbergstraße 4, 3033, Altlengbach": [
   48.1700605,
@@ -4043,6 +4115,12 @@
   "street",
   "photon"
  ],
+ "Messehalle 2, 4240, Freistadt": [
+  48.5053765,
+  14.5022587,
+  "street",
+  "photon"
+ ],
  "Messeplatz 1 Messehalle 19 Rotaxhalle, 4600, Wels": [
   48.1518071,
   14.0187612,
@@ -4137,6 +4215,12 @@
   47.4769008,
   9.733512,
   "street",
+  "photon"
+ ],
+ "Montfortplatz, 6923, Lauterach": [
+  47.476544,
+  9.7329279,
+  "place",
   "photon"
  ],
  "Moorgasse 4, 3434, Tulbing": [
@@ -4514,6 +4598,12 @@
  "Pannaschgasse 6, 1050, Wien": [
   48.1885457,
   16.3548168,
+  "street",
+  "photon"
+ ],
+ "Panoramastr. 14, 5201, Seekirchen am Wallersee": [
+  47.8952742,
+  13.1395121,
   "street",
   "photon"
  ],
@@ -5327,6 +5417,12 @@
   "street",
   "photon"
  ],
+ "Sankt Corona am Schöpfl 126, 2572, Altenmarkt an der Triesting": [
+  48.0674534,
+  15.9274305,
+  "street",
+  "photon"
+ ],
  "Santnergasse 51a, 5020, Salzburg": [
   47.7793234,
   13.0426651,
@@ -5516,6 +5612,12 @@
  "Schulstraße 2 , Mehrzwecksaal der Schule, 4263, Windhaag bei Freistadt": [
   48.5857127,
   14.5601597,
+  "street",
+  "photon"
+ ],
+ "Schulstraße 27, 7423, Pinkafeld": [
+  47.3683042,
+  16.1283459,
   "street",
   "photon"
  ],
@@ -6813,6 +6915,12 @@
   48.283225,
   14.5932428,
   "place",
+  "photon"
+ ],
+ "Windmühlgasse 26, EGA Frauen im Zentrum, 1060, Wien": [
+  48.1986287,
+  16.3557862,
+  "street",
   "photon"
  ],
  "Winzerstraße 23, 2070, Obernalb bei Retz": [

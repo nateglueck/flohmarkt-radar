@@ -251,6 +251,18 @@
   "street",
   "photon"
  ],
+ "Altenreuteweg 17, 6800, Feldkirch Nofels": [
+  47.2570422,
+  9.5730029,
+  "street",
+  "photon"
+ ],
+ "Am Anger 3, 6850, Dornbirn": [
+  47.4102015,
+  9.7170181,
+  "street",
+  "photon"
+ ],
  "Am Brunnenfeld 11 / 2, 3250, Wieselburg": [
   48.1298331,
   15.1504377,
@@ -803,6 +815,12 @@
   "place",
   "photon"
  ],
+ "Blumau 10, 3762, Ludweis / Aigen": [
+  48.7587564,
+  15.452181,
+  "street",
+  "photon"
+ ],
  "Blumental 1, 4281, Mönchdorf": [
   48.3604364,
   14.7933293,
@@ -1190,6 +1208,12 @@
  "Eberschwang 26, 4906 Eberschwang, 4906, Eberschwang": [
   48.1542968,
   13.5614972,
+  "street",
+  "photon"
+ ],
+ "Ebersdorf 12, 3652, Leiben": [
+  48.2257633,
+  15.2583144,
   "street",
   "photon"
  ],
@@ -1679,6 +1703,12 @@
   "street",
   "photon"
  ],
+ "Gehäusestraße 21, 8940, Liezen": [
+  47.560265,
+  14.2539444,
+  "street",
+  "photon"
+ ],
  "Geißmayerstr. 6, 5020, Salzburg": [
   47.7994748,
   13.0687219,
@@ -1707,6 +1737,12 @@
   48.2230914,
   16.4520744,
   "street",
+  "photon"
+ ],
+ "Gemeindeplatz 4 - Ehemaliges SPAR Gebäude, 4632, Pichl bei Wels": [
+  48.1857833,
+  13.9005895,
+  "place",
   "photon"
  ],
  "Gemeindesaal, Waldmannsgasse 1, 2542, Kottingbrunn": [
@@ -2417,6 +2453,12 @@
   "place",
   "photon"
  ],
+ "Herzog Robert von Parma Saal, Steinfeldstraße 110, 2625, Schwarzau am Steinfeld": [
+  47.7319918,
+  16.1688936,
+  "street",
+  "photon"
+ ],
  "Herzogenburger Straße 69, 3100, St. Pölten": [
   48.2166715,
   15.6367572,
@@ -2826,6 +2868,12 @@
   "photon"
  ],
  "Johann Schweiger Gasse 18, 2120, Wolkersdorf": [
+  48.3784953,
+  16.5147641,
+  "street",
+  "photon"
+ ],
+ "Johann Schweigergasse 18, 2120, Wolkersdorf": [
   48.3784953,
   16.5147641,
   "street",
@@ -5201,6 +5249,12 @@
   "street",
   "photon"
  ],
+ "Rerobichlstraße 11, 6372, Oberndorf in Tirol": [
+  47.5005095,
+  12.3828372,
+  "street",
+  "photon"
+ ],
  "Rheinstraße 7a, 6845, Hohenems": [
   47.3638424,
   9.6742884,
@@ -5222,6 +5276,12 @@
  "Rif, 5400, Hallein - Rif": [
   47.7199291,
   13.068916,
+  "street",
+  "photon"
+ ],
+ "Ringstraße 39, 3872, Aalfang": [
+  48.833472,
+  15.0613299,
   "street",
   "photon"
  ],
@@ -6466,6 +6526,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Valeriestraße 10, 2500, Baden": [
+  48.0078677,
+  16.2393974,
+  "street",
+  "photon"
  ],
  "Veranstalltungssaal, Redlham 2, 4846, Redlham": [
   48.0254611,

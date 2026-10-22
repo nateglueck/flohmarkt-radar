@@ -23,6 +23,12 @@
   "street",
   "photon"
  ],
+ "1230 Wien Endresstraße 57 A, 1230, Wien": [
+  48.1473149,
+  16.2826262,
+  "street",
+  "photon"
+ ],
  "18 Halbgasse, 1070, Wien": [
   48.2046001,
   16.3416645,
@@ -62,6 +68,12 @@
  "5 D. A. Kowatschitsch - Gasse, 2340, Mödling": [
   48.0862645,
   16.2802343,
+  "street",
+  "photon"
+ ],
+ "6., Bürgerspitalgasse 4 - 6, 1060, Wien": [
+  48.1923645,
+  16.342936,
   "street",
   "photon"
  ],
@@ -713,6 +725,12 @@
   "street",
   "photon"
  ],
+ "Baumgartner Höhe 1, 1140, Wien": [
+  48.2084377,
+  16.2797857,
+  "street",
+  "photon"
+ ],
  "Bei Metro Klagenfurt, 9020, Klagenfurt": [
   46.6373006,
   14.3708726,
@@ -1079,6 +1097,12 @@
   "street",
   "photon"
  ],
+ "Deutsch Tschantschendorf 93, 7544, Deutsch Tschantschendorf": [
+  47.1315009,
+  16.3074735,
+  "street",
+  "photon"
+ ],
  "Diakoniestraße 2, 4312, Ried in der Riedmark": [
   48.2708983,
   14.5262233,
@@ -1142,6 +1166,12 @@
  "Dorfstraße 14, Gemeindeamt 1. Stock, 4600, Schleißheim": [
   48.1610575,
   14.0740862,
+  "street",
+  "photon"
+ ],
+ "Dorfstraße 20, 3131, Inzersdorf": [
+  48.3184459,
+  15.6774936,
   "street",
   "photon"
  ],
@@ -1221,6 +1251,12 @@
   47.9381487,
   14.7766884,
   "place",
+  "photon"
+ ],
+ "Edelhofgasse 15, 1180, Wien": [
+  48.2284619,
+  16.3450287,
+  "street",
   "photon"
  ],
  "Edelstauden 37, 8081, Pirching a. T.": [
@@ -1733,6 +1769,12 @@
   "street",
   "photon"
  ],
+ "Gemeindeamt, Hauptstraße 29, 2531, Gaaden": [
+  48.0557275,
+  16.206843,
+  "street",
+  "photon"
+ ],
  "Gemeindeaugasse 5, 1220, Wien": [
   48.2230914,
   16.4520744,
@@ -1745,6 +1787,12 @@
   "place",
   "photon"
  ],
+ "Gemeindesaal Hauptstraße 29, 2531 Gaaden, 2531, Gaaden": [
+  48.0557396,
+  16.2072016,
+  "street",
+  "photon"
+ ],
  "Gemeindesaal, Waldmannsgasse 1, 2542, Kottingbrunn": [
   47.9438284,
   16.2228309,
@@ -1754,6 +1802,12 @@
  "Gemeindezentrum Ludesch, 6713, Ludesch": [
   47.180298,
   9.7712351,
+  "street",
+  "photon"
+ ],
+ "Gemeindezentrum, Salzstraße 10, 2102, Hagenbrunn": [
+  48.3338243,
+  16.4081669,
   "street",
   "photon"
  ],
@@ -1827,6 +1881,12 @@
   48.2471239,
   16.4631308,
   "street",
+  "photon"
+ ],
+ "Gewerbestr. 5, am überdachten Transgourmet, 5071, Wals / Siezenheim": [
+  47.8093934,
+  12.9955325,
+  "place",
   "photon"
  ],
  "Gewerbeweg 3, 2230, Gänserndorf": [
@@ -2093,6 +2153,12 @@
   "street",
   "photon"
  ],
+ "Hanna Arendtplatz 2, 1220, Wien": [
+  48.2241228,
+  16.5018554,
+  "street",
+  "photon"
+ ],
  "Hans - Czettel - Straße 2, 3950, Gmünd": [
   48.757385,
   14.9948628,
@@ -2192,6 +2258,12 @@
  "Hauptplatz Fürstenfeld, 8280, Fürstenfeld": [
   47.0503509,
   16.0765094,
+  "street",
+  "photon"
+ ],
+ "Hauptplatz Nummer 4, 8750, Judenburg": [
+  47.1692659,
+  14.6607217,
   "street",
   "photon"
  ],
@@ -2396,6 +2468,12 @@
  "Heiligenstädterstraße 152, 1190, Wien": [
   48.1446302,
   16.451341,
+  "street",
+  "photon"
+ ],
+ "Heimgartenstraße gegenüber Erich Schmid Straße, 8600, Bruck Mur": [
+  47.4137145,
+  15.2614854,
   "street",
   "photon"
  ],
@@ -2717,6 +2795,12 @@
   "street",
   "photon"
  ],
+ "Im Dorf 1, Gh. Wirt im Dorf, 4591, Molln": [
+  47.8840919,
+  14.259318,
+  "street",
+  "photon"
+ ],
  "Im Feuerwehrhaus Lehrstr. 10, 4870, Vöcklamarkt": [
   null,
   null,
@@ -2746,6 +2830,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "In Steinen 10, 6850, DORNBIRN": [
+  47.3898638,
+  9.7315493,
+  "street",
+  "photon"
  ],
  "In Steinen 10, 6850, Dornbirn": [
   47.3898638,
@@ -3449,6 +3539,12 @@
   "street",
   "photon"
  ],
+ "Kreuzstraße 34, 2112 Hetzmannsdorf, 2112, Korneuburg, Harmannsdorf": [
+  48.4370688,
+  16.4050722,
+  "street",
+  "photon"
+ ],
  "Kroisbach 29, 8321, St. Margarethen an der Raab": [
   47.039002,
   15.7358877,
@@ -3488,6 +3584,12 @@
  "Kulturhaus Reith, Kitzbüheler Straße, 6370, Reith bei Kitzbühel": [
   47.4772938,
   12.3448463,
+  "street",
+  "photon"
+ ],
+ "Kultursaal, Hauptstraße 9, 2751, Steinabrückl": [
+  47.8677491,
+  16.2038621,
   "street",
   "photon"
  ],
@@ -3911,6 +4013,12 @@
   "street",
   "photon"
  ],
+ "Maria Lanzendorferstraße 1, 2333, Leopoldsdorf bei Wien": [
+  48.1040951,
+  16.3990672,
+  "street",
+  "photon"
+ ],
  "Mariahilferplatz - Graz, 8020, Graz": [
   47.072838,
   15.433696,
@@ -4325,6 +4433,12 @@
   "street",
   "photon"
  ],
+ "Museumsplatz 1, 4662, Steyrermühl (Laakirchen)": [
+  47.9913955,
+  13.7967458,
+  "street",
+  "photon"
+ ],
  "Musikschulsaal, Greifensteinerstraße 22, 3423, St. Andrä Wördern": [
   48.3224798,
   16.2103406,
@@ -4385,6 +4499,12 @@
   "street",
   "photon"
  ],
+ "Nachbarschafszentrum 6, 1060, Wien": [
+  48.1923645,
+  16.342936,
+  "street",
+  "photon"
+ ],
  "Nellingstraße 18, 3333, Böhlerwerk": [
   47.9838786,
   14.7489809,
@@ -4394,6 +4514,12 @@
  "Neubaugasse 78, 1070, Wien": [
   48.2050048,
   16.3492356,
+  "street",
+  "photon"
+ ],
+ "Neubruck 2, 3270, Scheibbs": [
+  47.9782355,
+  15.1772653,
   "street",
   "photon"
  ],
@@ -5501,6 +5627,12 @@
   "street",
   "photon"
  ],
+ "Schegargasse 14A / 10, 1190, Wien": [
+  48.2347882,
+  16.3515581,
+  "street",
+  "photon"
+ ],
  "Schemerlhöhe 84, 8076, Vasoldsberg": [
   47.0563467,
   15.6033802,
@@ -5633,6 +5765,12 @@
   "street",
   "photon"
  ],
+ "Schulgasse 4, 4802, Ebensee": [
+  47.8073795,
+  13.7737738,
+  "street",
+  "photon"
+ ],
  "Schulgasse 6, 3033, Altlengbach": [
   48.1526778,
   15.9298211,
@@ -5708,6 +5846,12 @@
  "Schweglerstraße 39, 1150, Wien": [
   48.2000388,
   16.3267024,
+  "street",
+  "photon"
+ ],
+ "Schäffergasse 22, 1040, Wien": [
+  48.1936,
+  16.3631946,
   "street",
   "photon"
  ],
@@ -6317,6 +6461,12 @@
   "street",
   "photon"
  ],
+ "Theißplatz 1, 2344, Maria Enzersdorf": [
+  48.0951843,
+  16.3056219,
+  "street",
+  "photon"
+ ],
  "Thenneberg. 89, 2571, Altenmarkt an der Triesting": [
   48.0237537,
   15.9527699,
@@ -6647,6 +6797,12 @@
   "street",
   "photon"
  ],
+ "Vor Bezirkssporthalle, 4550, Kremsmünster": [
+  48.0498668,
+  14.1284075,
+  "street",
+  "photon"
+ ],
  "Vorgartenstraße 145 - 157 Stiege 1, EG, 1020, Wien": [
   48.2266778,
   16.3997947,
@@ -6839,6 +6995,12 @@
   "place",
   "photon"
  ],
+ "Wichnerstraße 16, Lustenau, Österreich, 6890, Lustenau": [
+  47.4356778,
+  9.6483487,
+  "street",
+  "photon"
+ ],
  "Wiedner Hauptstr. 97, 1050, Wien": [
   48.1855642,
   16.3634914,
@@ -6938,6 +7100,12 @@
  "Wieselburger Straße 4, 3240, Mank": [
   48.1135705,
   15.3387434,
+  "street",
+  "photon"
+ ],
+ "Wiesengasse 1, 6830, Rankweil": [
+  47.2796864,
+  9.6362803,
   "street",
   "photon"
  ],

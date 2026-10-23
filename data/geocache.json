@@ -203,6 +203,12 @@
   "street",
   "photon"
  ],
+ "Alfred - Bäck - Straße 9, 5020, Salzburg": [
+  47.7872465,
+  13.0197709,
+  "street",
+  "photon"
+ ],
  "Alfred Bäck 9 Top 5, 5020, Salzburg": [
   47.7872465,
   13.0197709,
@@ -2855,6 +2861,12 @@
   "street",
   "photon"
  ],
+ "Industriestraße 1, 2620, Ramplach, Wartmannstetten": [
+  47.7024402,
+  16.0885907,
+  "street",
+  "photon"
+ ],
  "Industriestraße 1, 3200, Obergrafendorf": [
   48.1438126,
   15.5450837,
@@ -3923,6 +3935,12 @@
   "street",
   "photon"
  ],
+ "Ljuba - Welitsch - Promenade 10 / Stiege 2, 1030, Wien": [
+  48.188489,
+  16.3933812,
+  "street",
+  "photon"
+ ],
  "Lofer 310 beim Tourismus Verband, 5090, Lofer": [
   47.5867352,
   12.6960535,
@@ -4367,6 +4385,12 @@
   "street",
   "photon"
  ],
+ "Mondweg 5 / 1 / 1, 1140, Wien": [
+  48.2052554,
+  16.2514261,
+  "street",
+  "photon"
+ ],
  "Montfortplatz 16, 6923, Lauterach": [
   47.4769008,
   9.733512,
@@ -4598,6 +4622,12 @@
  "Niederfeldweg 9f, 6230, Brixlegg": [
   47.4359419,
   11.8826419,
+  "street",
+  "photon"
+ ],
+ "Niederfladnitz 57, 2081, Niederfladnitz": [
+  48.7961608,
+  15.8951048,
   "street",
   "photon"
  ],
@@ -6389,6 +6419,12 @@
   "street",
   "photon"
  ],
+ "Sägemühle 2, 2851, Krumbach": [
+  47.5032465,
+  16.2042453,
+  "street",
+  "photon"
+ ],
  "Sägemühle 2, 2851, Krumbach NÖ": [
   47.5032465,
   16.2042453,
@@ -6719,6 +6755,12 @@
   "place",
   "photon"
  ],
+ "Vhs Floridsdorf, Angerer Str. 14, 1210, Wien": [
+  48.2584623,
+  16.4017785,
+  "street",
+  "photon"
+ ],
  "Vivenotgasse 29, 1120, Wien": [
   48.1785408,
   16.33139,
@@ -7014,6 +7056,12 @@
   "photon"
  ],
  "Wiedner Hauptstraße 69 … @Hubsi, 1040, Wien / Vienna": [
+  48.1894329,
+  16.3659227,
+  "street",
+  "photon"
+ ],
+ "Wiedner Hauptstraße 69 … @hubsi, 1040, Wien / Vienna": [
   48.1894329,
   16.3659227,
   "street",

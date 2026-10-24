@@ -455,6 +455,12 @@
   "street",
   "photon"
  ],
+ "Arndtstraße 56 / Gassenlokal, 1120, Wien": [
+  48.1834703,
+  16.3363562,
+  "street",
+  "photon"
+ ],
  "Arndtstraße 56/Gassenlokal, 1120, Wien": [
   48.1834703,
   16.3363562,
@@ -3668,6 +3674,12 @@
  "Lagerhausstr. 10, 4522, Sierning": [
   48.0409543,
   14.309966,
+  "street",
+  "photon"
+ ],
+ "Lainzer Straße 127, 1130 Wien, 1130, Wien": [
+  48.1779889,
+  16.2841944,
   "street",
   "photon"
  ],

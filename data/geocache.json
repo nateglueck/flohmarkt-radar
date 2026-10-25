@@ -533,6 +533,12 @@
   "street",
   "photon"
  ],
+ "Augasse 7, 7343, Neutal": [
+  47.5389224,
+  16.4540684,
+  "street",
+  "photon"
+ ],
  "August Greiml Weg 9, 1230, Wien": [
   48.1552052,
   16.266465,
@@ -2213,6 +2219,12 @@
   "place",
   "photon"
  ],
+ "Hatlerstraße 7, 6850, Dornbirn": [
+  47.4042189,
+  9.7398088,
+  "street",
+  "photon"
+ ],
  "Hauptplatz 1, 9853, Gmünd in Kärnten": [
   46.9070829,
   13.5367009,
@@ -2576,6 +2588,12 @@
  "Himbeerstraße 3, 3032, Eichgraben": [
   48.1600251,
   15.9676058,
+  "street",
+  "photon"
+ ],
+ "Hinter der Au Str. 27, 7423, Pinkafeld": [
+  47.37388,
+  16.1168174,
   "street",
   "photon"
  ],
@@ -3155,6 +3173,12 @@
   "street",
   "photon"
  ],
+ "Karl Michael Ziehrer - Gasse 4, 3100, St. Pölten": [
+  48.2063256,
+  15.6002058,
+  "street",
+  "photon"
+ ],
  "Katzenberg 1, 4982, Kirchdorf am Inn": [
   48.2967459,
   13.2991741,
@@ -3671,6 +3695,12 @@
   "street",
   "photon"
  ],
+ "Laaer Bergstraße 222, 1100, Wien": [
+  48.1525815,
+  16.3963524,
+  "street",
+  "photon"
+ ],
  "Lagerhausstr. 10, 4522, Sierning": [
   48.0409543,
   14.309966,
@@ -3860,6 +3890,12 @@
  "Liechtensteinstraße 37A, 1090, Wien": [
   48.2207273,
   16.3591856,
+  "street",
+  "photon"
+ ],
+ "Liechtensteinstraße 5, 2525, Schönau an der Triesting": [
+  47.9342122,
+  16.2551603,
   "street",
   "photon"
  ],
@@ -4529,6 +4565,12 @@
   "street",
   "photon"
  ],
+ "Münzgrabenstraße 61, 8010, Graz": [
+  47.0613086,
+  15.4522989,
+  "street",
+  "photon"
+ ],
  "Naarnerstraße 79, 4320, Perg": [
   48.2445735,
   14.6767904,
@@ -4550,6 +4592,12 @@
  "Neubaugasse 78, 1070, Wien": [
   48.2050048,
   16.3492356,
+  "street",
+  "photon"
+ ],
+ "Neubauzeile 82 - 84 Eg / 1, 4030, Linz": [
+  48.2440999,
+  14.2804096,
   "street",
   "photon"
  ],

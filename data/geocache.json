@@ -173,6 +173,12 @@
   "street",
   "photon"
  ],
+ "Albertgasse 35, 1080, Wien": [
+  48.2116314,
+  16.3437301,
+  "street",
+  "photon"
+ ],
  "Albertgasse 39, 1080, Wien": [
   48.2122441,
   16.3438849,
@@ -268,6 +274,12 @@
   9.6661262,
   "street",
   "photon"
+ ],
+ "Alte Volksschule, 2301, Probstdorf": [
+  null,
+  null,
+  "unresolved",
+  "none"
  ],
  "Altenreuteweg 17, 6800, Feldkirch Nofels": [
   47.2570422,
@@ -381,6 +393,12 @@
   47.1031639,
   15.4215167,
   "place",
+  "photon"
+ ],
+ "Angerer Straße 14, 1210, Wien": [
+  48.2586277,
+  16.4018496,
+  "street",
   "photon"
  ],
  "Angerweg 2, 4812, Pinsdorf": [
@@ -872,6 +890,12 @@
  "Bodensdorf 9, 3250, Wieselburg": [
   48.1177232,
   15.119978,
+  "street",
+  "photon"
+ ],
+ "Bogengasse 1a, 3730, Eggenburg": [
+  48.6418073,
+  15.8152851,
   "street",
   "photon"
  ],
@@ -1568,6 +1592,12 @@
  "Florianiplatz 1, 4407, Dietach": [
   48.0894575,
   14.4184472,
+  "street",
+  "photon"
+ ],
+ "Flughafenstraße 3, 4063, Hörsching": [
+  48.2394483,
+  14.1874638,
   "street",
   "photon"
  ],
@@ -2357,6 +2387,12 @@
   "street",
   "photon"
  ],
+ "Hauptstraße 15, 2221, Groß - Schweinbarth": [
+  48.4128347,
+  16.6349665,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 19, 4432, Ernsthofen": [
   48.1266565,
   14.4827619,
@@ -2747,6 +2783,12 @@
   "street",
   "photon"
  ],
+ "Hotel Stadtoase Kolping, Gesellenhausstraße 1 - 7, 4020, Linz": [
+  48.297828,
+  14.2894057,
+  "street",
+  "photon"
+ ],
  "Http: / / Www. Nachbarschaftszentren. At / Standorte / Nbz8, 1080, Wien": [
   null,
   null,
@@ -2860,6 +2902,12 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Im Ziegelstadl 520 / 3 Kellergasse, 3743, Röschitz": [
+  48.6676574,
+  15.8937229,
+  "place",
+  "photon"
  ],
  "In Allen Grazer Bezirken, 8020, Graz": [
   null,
@@ -5003,6 +5051,12 @@
   "unresolved",
   "none"
  ],
+ "Pfarre St. Paul - PAHO, Jura - Soyfer - Gasse 5, 1100 Wien, 1100, Wien": [
+  48.1466375,
+  16.3917437,
+  "street",
+  "photon"
+ ],
  "Pfarrgasse 1, 4082, Aschach an der Donau": [
   48.3663309,
   14.0247576,
@@ -5519,6 +5573,18 @@
   "street",
   "photon"
  ],
+ "Rochusstraße 21, 2130, Mistelbach": [
+  48.6046359,
+  16.5406862,
+  "street",
+  "photon"
+ ],
+ "Rochusstraße 21, Siebenhirten, 2130, Mistelbach": [
+  48.6046359,
+  16.5406862,
+  "street",
+  "photon"
+ ],
  "Roseggerstraße 30, 2521, Trumau": [
   47.9997828,
   16.3450682,
@@ -5594,6 +5660,12 @@
  "Rudlberg 17, 4890, Frankenmarkt": [
   47.9819,
   13.3893757,
+  "street",
+  "photon"
+ ],
+ "Rudolfstraße 23, 4040, Linz": [
+  48.3100486,
+  14.2796608,
   "street",
   "photon"
  ],
@@ -7088,6 +7160,12 @@
  "Werndlstraße 12, 4020, Linz": [
   48.2720395,
   14.2912507,
+  "street",
+  "photon"
+ ],
+ "Werner - Fend - Weg 2, 6840, Götzis": [
+  47.3274028,
+  9.6337216,
   "street",
   "photon"
  ],

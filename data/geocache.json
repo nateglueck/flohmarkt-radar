@@ -965,6 +965,12 @@
   "place",
   "photon"
  ],
+ "Brucknerstraße, Messehalle 19, 4910, Ried im Innkreis": [
+  48.2108288,
+  13.4817479,
+  "street",
+  "photon"
+ ],
  "Brunner Gasse 15, 2380, Perchtoldsdorf": [
   48.1167428,
   16.2684798,
@@ -3197,6 +3203,12 @@
   "place",
   "photon"
  ],
+ "Kaltwasserweg 30, 6103, Reith bei Seefeld (Innsbruck - Land, Tirol)": [
+  47.3076156,
+  11.2009657,
+  "street",
+  "photon"
+ ],
  "Kammgarnzentrum, Hanuschgasse 1, Top 11, 2540, Bad Vöslau": [
   47.9698256,
   16.2195332,
@@ -4745,6 +4757,12 @@
   "street",
   "photon"
  ],
+ "Niederschrems 45, 3943, Schrems": [
+  48.7834035,
+  15.0572343,
+  "street",
+  "photon"
+ ],
  "Niederweiding 8, 4722, Peuerbach": [
   48.3252851,
   13.7808894,
@@ -5537,6 +5555,12 @@
   "street",
   "photon"
  ],
+ "Rickard Linströmgasse 23 Alte Per Albin Hansson Siedlung, 1100, Wien": [
+  48.1484833,
+  16.3800953,
+  "street",
+  "photon"
+ ],
  "Riegersburg 204, 8333, Riegersburg": [
   46.9977583,
   15.9301536,
@@ -6038,6 +6062,12 @@
  "Schönbornerstraße 158, 2013, Göllersdorf": [
   48.4908258,
   16.1262133,
+  "street",
+  "photon"
+ ],
+ "Schönbrunner Schlossstraße 17, 1130 Wien, 1130, Wien": [
+  48.1866892,
+  16.3121089,
   "street",
   "photon"
  ],
@@ -7040,6 +7070,12 @@
  "Wagramerstraße 246, 1220, Wien": [
   48.2256716,
   16.5076039,
+  "street",
+  "photon"
+ ],
+ "Wagrein 53, 4070, Hinzenbach": [
+  48.3065178,
+  14.0128439,
   "street",
   "photon"
  ],

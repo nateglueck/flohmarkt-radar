@@ -1079,6 +1079,12 @@
   "street",
   "photon"
  ],
+ "Café C. i. Payergasse 14, 1160 Wien, 1160, Wien": [
+  48.2137571,
+  16.3363311,
+  "street",
+  "photon"
+ ],
  "Campus Horn, Canisiusgasse 1, 3580, Horn": [
   48.6724952,
   15.6544188,
@@ -2363,6 +2369,12 @@
   "place",
   "photon"
  ],
+ "Hauptstraße - gegenüber Billa, 2651, Reichenau an der Rax": [
+  47.6956159,
+  15.8453909,
+  "street",
+  "photon"
+ ],
  "Hauptstraße 1, 2301, Wittau, Groß - Enzersdorf": [
   48.181799,
   16.5934442,
@@ -3098,6 +3110,12 @@
  "Josef - Seitz - Straße 37, 2242, Prottes": [
   48.3939874,
   16.7400736,
+  "street",
+  "photon"
+ ],
+ "Josef Kutscha - Gasse 8 / 2, 1230, Wien, Liesing": [
+  48.1337538,
+  16.2802451,
   "street",
   "photon"
  ],
@@ -3920,6 +3938,12 @@
  "Lerchenfelderstraße 81, 1070, Wien": [
   48.1878123,
   16.3647278,
+  "street",
+  "photon"
+ ],
+ "Lerchenfeldstraße 31, 6890, Lustenau": [
+  47.4363814,
+  9.6505007,
   "street",
   "photon"
  ],
@@ -5483,6 +5507,12 @@
   "street",
   "photon"
  ],
+ "Raum im Raum, Kirchberggasse 11, 1070 Wien, 1070, Wien, Neubau": [
+  48.2035389,
+  16.3550666,
+  "street",
+  "photon"
+ ],
  "Ravelinstraße 5A, 1110, Wien": [
   48.1728777,
   16.424174,
@@ -6182,6 +6212,12 @@
  "Siemensstraße 1, 6063, Rum bei Innsbruck": [
   47.2740923,
   11.4542389,
+  "street",
+  "photon"
+ ],
+ "Siemensstraße 69, 1210, Wien": [
+  48.2719976,
+  16.4190137,
   "street",
   "photon"
  ],
@@ -7221,6 +7257,12 @@
   48.5610491,
   15.3109487,
   "place",
+  "photon"
+ ],
+ "Westbahnstraße 17, 1070, Wien": [
+  48.2015548,
+  16.3447159,
+  "street",
   "photon"
  ],
  "Wichnerstraße 16, Lustenau, Österreich, 6890, Lustenau": [

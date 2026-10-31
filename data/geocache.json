@@ -533,6 +533,12 @@
   "street",
   "photon"
  ],
+ "Auf der Schmelz 15, 2823, Pitten": [
+  47.7178631,
+  16.1856667,
+  "street",
+  "photon"
+ ],
  "Auf der Schmelz 4, 1150, Wien": [
   48.2024213,
   16.3189093,
@@ -614,6 +620,12 @@
  "BLAUER SALON, Ramperstorffergasse 63, 1050, Wien": [
   48.1904005,
   16.3548482,
+  "street",
+  "photon"
+ ],
+ "Bach 127, 6941, Langenegg": [
+  47.468545,
+  9.896945,
   "street",
   "photon"
  ],
@@ -959,6 +971,12 @@
   "street",
   "photon"
  ],
+ "Brucknerstr. 13, 4800, Attnang - Puchheim": [
+  48.0120535,
+  13.7230315,
+  "street",
+  "photon"
+ ],
  "Brucknerstraße 36, 4910, Ried im Innkreis": [
   48.2124552,
   13.4822318,
@@ -1295,6 +1313,12 @@
   "street",
   "photon"
  ],
+ "Dückegasse 7 / Stiege 1 / Top 100C, 1220, Wien": [
+  48.2503332,
+  16.4286041,
+  "street",
+  "photon"
+ ],
  "Eberschwang 26, 4906 Eberschwang, 4906, Eberschwang": [
   48.1542968,
   13.5614972,
@@ -1406,6 +1430,12 @@
  "Ekz Traisenpark, Dr. Adolf - Schärf - Str. 5, 3100, St. Pölten": [
   48.2225479,
   15.6388851,
+  "street",
+  "photon"
+ ],
+ "Elidagasse 15, 1220, Wien": [
+  48.2360442,
+  16.4350558,
   "street",
   "photon"
  ],
@@ -1778,6 +1808,12 @@
  "Gasthof Rudolf, Eggenberger Allee 91, 8020, Graz": [
   47.0721246,
   15.3950138,
+  "street",
+  "photon"
+ ],
+ "Gatterburggasse 2a, 1190, Wien": [
+  48.2389422,
+  16.3500428,
   "street",
   "photon"
  ],
@@ -3266,6 +3302,12 @@
  "Katzenberg 1, 4982, Kirchdorf am Inn": [
   48.2967459,
   13.2991741,
+  "street",
+  "photon"
+ ],
+ "Kehlerstraße 37a und 38a, 6900, Bregenz": [
+  47.4894682,
+  9.71674,
   "street",
   "photon"
  ],
@@ -6230,6 +6272,12 @@
  "Sikorastraße 20a, Pfarrzentrum St. Josef Neualm, 5400, Hallein - Neualm": [
   47.6942262,
   13.0896187,
+  "street",
+  "photon"
+ ],
+ "Simmeringer Hauptstraße 343, 1110, Wien": [
+  48.1546871,
+  16.4432716,
   "street",
   "photon"
  ],

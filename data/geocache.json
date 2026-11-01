@@ -1841,6 +1841,12 @@
   "street",
   "photon"
  ],
+ "Gegenüber Billa, 2651, Reichenau an der Rax": [
+  47.6975452,
+  15.838266,
+  "place",
+  "photon"
+ ],
  "Gehäusestraße 21, 8940, Liezen": [
   47.560265,
   14.2539444,
@@ -2306,6 +2312,12 @@
  "Hatlerstraße 7, 6850, Dornbirn": [
   47.4042189,
   9.7398088,
+  "street",
+  "photon"
+ ],
+ "Hauptplatz 1 Restaurant Amtshaus, 2492, Eggendorf": [
+  47.8572,
+  16.3202243,
   "street",
   "photon"
  ],

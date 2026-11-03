@@ -395,6 +395,12 @@
   "place",
   "photon"
  ],
+ "Andritzer Reichsstraße 172, 8046, Graz": [
+  47.1094988,
+  15.4023333,
+  "street",
+  "photon"
+ ],
  "Angerer Straße 14, 1210, Wien": [
   48.2586277,
   16.4018496,
@@ -695,6 +701,12 @@
   "street",
   "photon"
  ],
+ "Bahnhofstraße 12, 6858, Schwarzach / Vorarlberg": [
+  47.4448094,
+  9.7606487,
+  "street",
+  "photon"
+ ],
  "Bahnhofstraße 29, 8301, Lassnitzhöhe": [
   47.0787619,
   15.5884044,
@@ -764,6 +776,12 @@
  "Bauernmarkthalle, Volksfestplatz, 4910, Ried im Innkreis": [
   48.2097407,
   13.4776113,
+  "street",
+  "photon"
+ ],
+ "Bauernstraße 40, 4600, Wels": [
+  48.1478331,
+  14.0111638,
   "street",
   "photon"
  ],
@@ -936,6 +954,12 @@
   "photon"
  ],
  "Brauhausstrasse 23, 2320, Rannersdorf": [
+  48.130844,
+  16.4676625,
+  "street",
+  "photon"
+ ],
+ "Brauhausstraße 23, 2320, Rannersdorf": [
   48.130844,
   16.4676625,
   "street",
@@ -1169,6 +1193,12 @@
   "street",
   "photon"
  ],
+ "Deutsch Haslauerstr. 2, 2472, Prellenkirchen": [
+  48.0734035,
+  16.9511922,
+  "street",
+  "photon"
+ ],
  "Deutsch Tschantschendorf 26, 7544, Tobaj / Deutsch Tschantschendorf": [
   47.1072212,
   16.2864619,
@@ -1388,6 +1418,12 @@
  "Einkaufszentrum Alter Bahnhof Bahnhofstraße 12, 4540, Bad Hall": [
   48.0373788,
   14.2095406,
+  "street",
+  "photon"
+ ],
+ "Einsiedlergasse 9 - 11, 1050, Wien": [
+  48.1838042,
+  16.3504992,
   "street",
   "photon"
  ],
@@ -1664,6 +1700,12 @@
  "Forellenweg 3, 2483, Ebreichsdorf": [
   47.9733471,
   16.4098078,
+  "street",
+  "photon"
+ ],
+ "Francis, PLAZA 2. OG Julius Tandler Platz 3, 1090, Wien": [
+  48.2267414,
+  16.3610583,
   "street",
   "photon"
  ],
@@ -2033,6 +2075,12 @@
   "street",
   "photon"
  ],
+ "Goldschlagstraße 99, 1150, Wien": [
+  48.1939585,
+  16.317849,
+  "street",
+  "photon"
+ ],
  "Goldsteindlstraße 18, 2823, Brunn bei Pitten": [
   47.7260366,
   16.188812,
@@ -2198,6 +2246,12 @@
  "Hainfelder Str. 38a, 2560, Berndorf": [
   47.949803,
   16.105696,
+  "street",
+  "photon"
+ ],
+ "Hainfelder Straße 6, 3160, Traisen": [
+  48.0401454,
+  15.6125056,
   "street",
   "photon"
  ],
@@ -2576,6 +2630,12 @@
  "Haydngasse 11, 8010, Graz": [
   47.0694407,
   15.4483516,
+  "street",
+  "photon"
+ ],
+ "Haymongasse 6a, 6020, Innsbruck": [
+  47.2542098,
+  11.3972926,
   "street",
   "photon"
  ],
@@ -3827,6 +3887,12 @@
   "street",
   "photon"
  ],
+ "Königstettner Straße 6, 3424, Zeiselmauer": [
+  48.3257891,
+  16.173646,
+  "street",
+  "photon"
+ ],
  "Köppling 15, 8561, Söding - St. Johann": [
   47.0105263,
   15.2419118,
@@ -4253,6 +4319,12 @@
   "street",
   "photon"
  ],
+ "Mariazellergasse 15, 2344, Maria Enzersdorf": [
+  48.099634,
+  16.2816932,
+  "street",
+  "photon"
+ ],
  "Mariazellerstraße 72, 3100, St. Pölten": [
   48.1924914,
   15.619066,
@@ -4268,6 +4340,12 @@
  "Mariengasse hinter Gemeinde, Parkplätze Vorhanden, 2560, Berndorf": [
   47.9336111,
   16.1567381,
+  "street",
+  "photon"
+ ],
+ "Markt 50, 3365, Allhartsberg": [
+  48.0266337,
+  14.7928239,
   "street",
   "photon"
  ],
@@ -5255,6 +5333,12 @@
   "street",
   "photon"
  ],
+ "Pfarrplatz 18, 4020, Linz": [
+  48.3061694,
+  14.2881071,
+  "street",
+  "photon"
+ ],
  "Pfarrplatz 2, 4616, Weißkirchen": [
   48.1636739,
   14.1279401,
@@ -5276,6 +5360,18 @@
  "Pfarrsaal Markstraße, 4870, Vöcklamarkt": [
   48.0029025,
   13.4851152,
+  "street",
+  "photon"
+ ],
+ "Pfarrsaal der Pfarre Neu - Guntramsdorf, 2353, Guntramsdorf": [
+  48.0635577,
+  16.319633,
+  "street",
+  "photon"
+ ],
+ "Pfarrsaal der Pfarre Neu - Guntramsdorf, Dr. Karl Renner Str. 19, 2353, Neu - Guntramsdorf": [
+  48.0635577,
+  16.319633,
   "street",
   "photon"
  ],
@@ -5969,6 +6065,12 @@
   "street",
   "photon"
  ],
+ "Schloßstraße 1, 2801, Katzelsdorf": [
+  47.7790402,
+  16.271631,
+  "street",
+  "photon"
+ ],
  "Schlösselgasse 8, 1080, Wien": [
   48.2126376,
   16.3534474,
@@ -6575,6 +6677,12 @@
   "street",
   "photon"
  ],
+ "Steiglandweg 3, 4060, Leonding": [
+  48.2784691,
+  14.2526525,
+  "street",
+  "photon"
+ ],
  "Steinfeldstraße 3B, 3300, Winklarn": [
   48.1002094,
   14.852478,
@@ -6602,6 +6710,12 @@
  "Stephansplazz 3 Curhaus, 1010, Wien": [
   48.2084923,
   16.3731269,
+  "street",
+  "photon"
+ ],
+ "Steyrergasse 113, 8010, Graz": [
+  47.0599865,
+  15.4415335,
   "street",
   "photon"
  ],
@@ -7535,6 +7649,12 @@
   "street",
   "photon"
  ],
+ "Wunderburgstraße 24, Top 12, 4810, Gmunden": [
+  47.9226965,
+  13.8011844,
+  "street",
+  "photon"
+ ],
  "Wundererstraße 14, 3100, St. Pölten": [
   48.2016912,
   15.6053419,
@@ -7604,6 +7724,12 @@
  "Zwölfaxing, Himbergerstraße 1, 2322, Gemeinde Zwölfaxing": [
   48.1132471,
   16.4653657,
+  "street",
+  "photon"
+ ],
+ "Ägydisiedlung 7, 3073, Stössing": [
+  48.1217828,
+  15.8164738,
   "street",
   "photon"
  ],

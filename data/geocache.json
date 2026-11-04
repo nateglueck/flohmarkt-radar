@@ -1847,6 +1847,12 @@
   "street",
   "photon"
  ],
+ "Gasthaus Golden Hirschen, 4240, Freistadt": [
+  48.5127279,
+  14.5054498,
+  "street",
+  "photon"
+ ],
  "Gasthof Rudolf, Eggenberger Allee 91, 8020, Graz": [
   47.0721246,
   15.3950138,
@@ -2799,6 +2805,12 @@
   47.6460814,
   15.8258677,
   "place",
+  "photon"
+ ],
+ "Hochstraße, Pfarrhof, 2680, Semmering": [
+  47.6347904,
+  15.8292148,
+  "street",
   "photon"
  ],
  "Hof 1, 4690, Schwanenstadt": [
@@ -5939,6 +5951,12 @@
   "street",
   "photon"
  ],
+ "Salzbergerstraße 223, SCW WELS WEST, 4600, WELS": [
+  48.1446967,
+  13.9753233,
+  "street",
+  "photon"
+ ],
  "Salzburger Straße 223, 4600, Wels": [
   48.1446967,
   13.9753233,
@@ -7133,6 +7151,12 @@
   "street",
   "photon"
  ],
+ "Veranstaltungszentrum, Salzburgerstraße 29b, 5280, Braunau": [
+  48.2530075,
+  13.0356939,
+  "street",
+  "photon"
+ ],
  "Verein Pitanga, Fischerhäuslweg 2, 6020, Innsbruck": [
   47.263956,
   11.3603783,
@@ -7502,6 +7526,12 @@
  "Wiener Straße 46, 3550, Langenlois": [
   48.4747567,
   15.6955565,
+  "street",
+  "photon"
+ ],
+ "Wiener Straße 66a, 2193, Hobersdorf / Wilfersdorf": [
+  48.5815732,
+  16.6455365,
   "street",
   "photon"
  ],

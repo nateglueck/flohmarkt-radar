@@ -683,6 +683,12 @@
   "street",
   "photon"
  ],
+ "Bahnhofstr. 16, 8401, Kalsdorf bei Graz": [
+  46.9646915,
+  15.4756126,
+  "street",
+  "photon"
+ ],
  "Bahnhofstr. 20, 4400, Steyr": [
   48.0396543,
   14.4235272,
@@ -1112,6 +1118,12 @@
  "Bücherei Neues Landgut - Laxenburgerstraße 4 / 1A, 1100, Wien": [
   48.1819692,
   16.3731529,
+  "street",
+  "photon"
+ ],
+ "Bürgergasse 3, 6800, Feldkirch": [
+  47.2483238,
+  9.6125474,
   "street",
   "photon"
  ],
@@ -3407,6 +3419,12 @@
   "street",
   "photon"
  ],
+ "Keltengasse 11, 2472, Prellenkirchen": [
+  48.071236,
+  16.9588186,
+  "street",
+  "photon"
+ ],
  "Kempelengasse 16 / 1, 1100, Wien": [
   48.1736512,
   16.3930538,
@@ -3704,6 +3722,12 @@
  "Kleßheimer Allee 93, 5020, Salzburg, Taxham": [
   47.8116625,
   13.0051812,
+  "street",
+  "photon"
+ ],
+ "Klopstockgasse 34 / 1, 1170, Wien": [
+  48.2182479,
+  16.3235604,
   "street",
   "photon"
  ],
@@ -4631,6 +4655,12 @@
   "street",
   "photon"
  ],
+ "Mitten in Straning, 3722, Straning - Grafenberg": [
+  48.6118406,
+  15.8724223,
+  "street",
+  "photon"
+ ],
  "Mitterfeldstraße 15, 4050, Traun": [
   48.2260465,
   14.2326883,
@@ -5336,6 +5366,12 @@
  "Pfarrplatz 1, 2372, Gießhübl": [
   48.0970038,
   16.2369886,
+  "street",
+  "photon"
+ ],
+ "Pfarrplatz 1, 4224, Wartberg ob der Aist": [
+  48.3503671,
+  14.5093184,
   "street",
   "photon"
  ],
@@ -6431,6 +6467,12 @@
   "street",
   "photon"
  ],
+ "Sonnenhangstraße 57, 9071, Köttmannsdorf": [
+  46.5636013,
+  14.2361232,
+  "street",
+  "photon"
+ ],
  "Sonnenstraße 22, 3660, Klein - Pöchlarn": [
   48.22065,
   15.218187,
@@ -6872,6 +6914,12 @@
  "Taborstraße 18, 1020, Wien": [
   48.2155011,
   16.3804992,
+  "street",
+  "photon"
+ ],
+ "Tahaypark 37, 2136, Laa an der Thaya": [
+  48.7232828,
+  16.4030299,
   "street",
   "photon"
  ],
@@ -7469,6 +7517,12 @@
   "street",
   "photon"
  ],
+ "Westbahnstraße 24, 4300, St. Valentin": [
+  48.1775729,
+  14.5236125,
+  "street",
+  "photon"
+ ],
  "Wichnerstraße 16, Lustenau, Österreich, 6890, Lustenau": [
   47.4356778,
   9.6483487,
@@ -7508,6 +7562,12 @@
  "Wiener Neustädter Straße 5, 2486, Pottendorf": [
   47.9085477,
   16.3865054,
+  "street",
+  "photon"
+ ],
+ "Wiener Straße 13, 3100, St Pölten": [
+  48.2047162,
+  15.6251448,
   "street",
   "photon"
  ],

@@ -1613,6 +1613,12 @@
   "place",
   "photon"
  ],
+ "Fairmotel Seminarraum, 6850, Dornbirn": [
+  47.3931465,
+  9.7294777,
+  "street",
+  "photon"
+ ],
  "Falkstraße 15, 2540, Bad Vöslau": [
   47.9706728,
   16.2164927,
@@ -1665,6 +1671,12 @@
   48.0850098,
   16.2837319,
   "place",
+  "photon"
+ ],
+ "Fliedergasse 14, 3384, Groß Sierning": [
+  48.1922823,
+  15.4600133,
+  "street",
   "photon"
  ],
  "Florianigasse 1, 3131, Inzersdorf - Getzersdorf": [
@@ -2168,6 +2180,12 @@
  "Gspöttgraben 5, 1190, Wien": [
   48.2615879,
   16.3133691,
+  "street",
+  "photon"
+ ],
+ "Gumpendorfer Str. 119, 1060, Wien": [
+  48.1906585,
+  16.345633,
   "street",
   "photon"
  ],
@@ -3098,6 +3116,12 @@
  "Industriestraße 1, 3200, Obergrafendorf": [
   48.1438126,
   15.5450837,
+  "street",
+  "photon"
+ ],
+ "Industriestraße 2 / Tor 6, 3680, Persenbeug": [
+  48.1890647,
+  15.0967672,
   "street",
   "photon"
  ],
@@ -5993,6 +6017,12 @@
   "street",
   "photon"
  ],
+ "Salzberghalle, Zatloukalstraße 1, 5400, Hallein": [
+  47.6789194,
+  13.0950088,
+  "street",
+  "photon"
+ ],
  "Salzburger Straße 223, 4600, Wels": [
   48.1446967,
   13.9753233,
@@ -7712,6 +7742,12 @@
  "Wirerstraße 2 - 4, 1100, Wien": [
   48.1438278,
   16.3908922,
+  "street",
+  "photon"
+ ],
+ "Wirtschaftspark , Spinnerei 12, 6845, Hohenems": [
+  47.3552471,
+  9.6686857,
   "street",
   "photon"
  ],

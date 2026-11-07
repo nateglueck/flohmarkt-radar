@@ -1745,6 +1745,12 @@
   "street",
   "photon"
  ],
+ "Franz Weiss Platz 7, 2345, Brunn am Gebirge": [
+  48.1069232,
+  16.283561,
+  "place",
+  "photon"
+ ],
  "Franz Weiss Platz 7, beim BRUNO, 2345, Brunn am Gebirge": [
   48.1069232,
   16.283561,
@@ -3815,6 +3821,12 @@
   "street",
   "photon"
  ],
+ "Korneuburgerstr. 26, 2103, Langenzersdorf": [
+  48.3113958,
+  16.3560126,
+  "street",
+  "nominatim"
+ ],
  "Kranzgasse 10, 1150, Wien": [
   48.1891221,
   16.3338227,
@@ -5492,6 +5504,12 @@
  "Pichelmayergasse 2, 1100, Wien": [
   48.1554071,
   16.3773597,
+  "street",
+  "photon"
+ ],
+ "Pilgramgasse 20, durch den Innenhof, 1050, Wien": [
+  48.1925069,
+  16.3558715,
   "street",
   "photon"
  ],
@@ -7328,6 +7346,12 @@
  "Volkshochschule Per Albin Hansson Siedlung Ost, 1100, Wien": [
   48.1524442,
   16.3840641,
+  "street",
+  "photon"
+ ],
+ "Volksschule Elsbethen, Pfarrweg 9, Turnhalle, 5061, Elsbethen": [
+  47.7589583,
+  13.0846738,
   "street",
   "photon"
  ],

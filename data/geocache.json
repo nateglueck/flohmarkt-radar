@@ -797,6 +797,12 @@
   "street",
   "photon"
  ],
+ "Baumbachstraße 11, 4020, Linz": [
+  48.3006415,
+  14.2844689,
+  "street",
+  "photon"
+ ],
  "Baumgartner Höhe 1, 1140, Wien": [
   48.2084377,
   16.2797857,
@@ -1535,6 +1541,12 @@
   "street",
   "photon"
  ],
+ "Ernst - Raiffgasse 10, 2524, Teesdorf": [
+  47.9487122,
+  16.2803206,
+  "street",
+  "photon"
+ ],
  "Ernstbrunnerstr. 107, 2032, Enzersdorf I,T.": [
   48.5861722,
   16.2424999,
@@ -1874,6 +1886,12 @@
  "Garten, 1230, Wien": [
   48.1449227,
   16.3457135,
+  "street",
+  "photon"
+ ],
+ "Gartengasse 32, 2201, Kapellerfeld": [
+  48.3134048,
+  16.4955197,
   "street",
   "photon"
  ],
@@ -2606,6 +2624,12 @@
  "Hauptstraße 50, 6706, Bürs": [
   47.1517401,
   9.8004478,
+  "street",
+  "photon"
+ ],
+ "Hauptstraße 7, 3451, Plankenberg": [
+  48.2657922,
+  15.9468118,
   "street",
   "photon"
  ],
@@ -4049,6 +4073,12 @@
   "street",
   "photon"
  ],
+ "Lauriacumstraße 4, 4470, Enns": [
+  48.2160233,
+  14.4685904,
+  "place",
+  "photon"
+ ],
  "Lauriacumstraße, 4470, Enns": [
   48.2160197,
   14.4687007,
@@ -4124,6 +4154,12 @@
  "Leonfeldner Straße 289, 4040, Linz": [
   48.3493583,
   14.2918855,
+  "street",
+  "photon"
+ ],
+ "Leonhardplatz 14, 8010, Graz": [
+  47.0785915,
+  15.4651035,
   "street",
   "photon"
  ],
@@ -4970,6 +5006,12 @@
  "Neukloster, 2700, Wiener Neustadt": [
   47.8122816,
   16.2468769,
+  "street",
+  "photon"
+ ],
+ "Neulinggasse 10 / Ecke Ziehrerplatz, 1030, Wien": [
+  48.1992465,
+  16.3917868,
   "street",
   "photon"
  ],

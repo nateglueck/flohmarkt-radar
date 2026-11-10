@@ -11,6 +11,12 @@
   "street",
   "photon"
  ],
+ "1020, Taborstraße 18, 1020, Wien, Leopoldstadt": [
+  null,
+  null,
+  "unresolved",
+  "none"
+ ],
  "1120 Arndtstraße 56 / Gassenlokal, 1120, Wien": [
   48.1834703,
   16.3363562,
@@ -632,6 +638,12 @@
  "Bach 127, 6941, Langenegg": [
   47.468545,
   9.896945,
+  "street",
+  "photon"
+ ],
+ "Bachweg 5, 2070, Mitterretzbach": [
+  48.7816492,
+  15.9755373,
   "street",
   "photon"
  ],
@@ -1389,6 +1401,12 @@
   47.9381487,
   14.7766884,
   "place",
+  "photon"
+ ],
+ "Ecke Ottakringerstr. / Veronikag, 1170, Wien": [
+  48.214994,
+  16.3386791,
+  "street",
   "photon"
  ],
  "Edelhofgasse 15, 1180, Wien": [
@@ -2213,6 +2231,12 @@
   "street",
   "photon"
  ],
+ "Guglgasse 8, 1110, Wien": [
+  48.1852739,
+  16.4192438,
+  "street",
+  "photon"
+ ],
  "Gumpendorfer Str. 119, 1060, Wien": [
   48.1906585,
   16.345633,
@@ -2867,6 +2891,12 @@
   "street",
   "photon"
  ],
+ "Hochfeld 17, 4310, Mauthausen": [
+  48.2448466,
+  14.5193233,
+  "street",
+  "photon"
+ ],
  "Hochstraße, 2680, Semmering": [
   47.6460814,
   15.8258677,
@@ -3224,6 +3254,18 @@
  "Jagdschlossgasse 2, 1130, Wien": [
   48.1772284,
   16.2817701,
+  "street",
+  "photon"
+ ],
+ "Jaidhof 22, 3542, Jaidhof": [
+  48.535285,
+  15.4822303,
+  "street",
+  "photon"
+ ],
+ "Jakob - Hannibal - Straße 14, 6845, Hohenems": [
+  47.3647934,
+  9.6868025,
   "street",
   "photon"
  ],
@@ -4310,6 +4352,12 @@
  "Lissagasse 4, 4020, Linz": [
   48.2876385,
   14.30143,
+  "street",
+  "photon"
+ ],
+ "Littengasse 4, 6850, Dornbirn - Oberdorf": [
+  47.4074283,
+  9.7510548,
   "street",
   "photon"
  ],
@@ -6263,6 +6311,12 @@
   "place",
   "photon"
  ],
+ "Schrutkagasse 33, 1130, Wien": [
+  48.1838406,
+  16.2766586,
+  "street",
+  "photon"
+ ],
  "Schubertallee 1, 7202, Bad Sauerbrunn": [
   47.7753233,
   16.3269871,
@@ -6573,6 +6627,12 @@
   48.22065,
   15.218187,
   "place",
+  "photon"
+ ],
+ "Sonnenweg 9, 5301, Eugendorf": [
+  47.8640734,
+  13.1246728,
+  "street",
   "photon"
  ],
  "Spengergasse 24 im Erdgeschoß, 1050, Wien": [
@@ -7460,6 +7520,12 @@
  "Wagramerstraße 246, 1220, Wien": [
   48.2256716,
   16.5076039,
+  "street",
+  "photon"
+ ],
+ "Wagramhalle, 3470, Kirchberg am Wagram": [
+  48.4356034,
+  15.9012144,
   "street",
   "photon"
  ],

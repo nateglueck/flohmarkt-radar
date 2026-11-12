@@ -791,6 +791,12 @@
   "street",
   "photon"
  ],
+ "Bauergasse, 2172, Schrattenberg": [
+  48.7280713,
+  16.7182444,
+  "place",
+  "photon"
+ ],
  "Bauernmarkthalle, Volksfestplatz, 4910, Ried im Innkreis": [
   48.2097407,
   13.4776113,
@@ -1052,6 +1058,12 @@
  "Brunntalstr. 12, 4662, Steyrermuehl": [
   47.9919529,
   13.8077761,
+  "street",
+  "photon"
+ ],
+ "Bruno Seitz - Wohnpark 34, 2524, Teesdorf": [
+  47.9499932,
+  16.2855073,
   "street",
   "photon"
  ],
@@ -1401,6 +1413,12 @@
   47.9381487,
   14.7766884,
   "place",
+  "photon"
+ ],
+ "Ecke Margaretenstraße 85, 1050, Wien": [
+  48.1906577,
+  16.357554,
+  "street",
   "photon"
  ],
  "Ecke Ottakringerstr. / Veronikag, 1170, Wien": [
@@ -2357,6 +2375,12 @@
   "street",
   "nominatim"
  ],
+ "Halbgasse 18, 1070, Wien": [
+  48.2046001,
+  16.3416645,
+  "street",
+  "photon"
+ ],
  "Halbrittergasse, 4, 1230, 1230 Wien": [
   48.1348141,
   16.2658384,
@@ -3041,6 +3065,12 @@
   "street",
   "photon"
  ],
+ "Hubsi & Frau Klotz, Rechte Wienzeile 103, 1050, Wien": [
+  48.1914522,
+  16.3543714,
+  "street",
+  "photon"
+ ],
  "Humboldtplatz 10 / 2, 1100, Wien": [
   48.1794976,
   16.3788667,
@@ -3107,6 +3137,12 @@
   "street",
   "photon"
  ],
+ "Im Atrium Hohenau a. D. March, 2273, Hohenau": [
+  48.6064895,
+  16.9020685,
+  "place",
+  "photon"
+ ],
  "Im Dorf 1, Gh. Wirt im Dorf, 4591, Molln": [
   47.8840919,
   14.259318,
@@ -3158,6 +3194,12 @@
  "In Steinen 10, 6850, Dornbirn": [
   47.3898638,
   9.7315493,
+  "street",
+  "photon"
+ ],
+ "In der Braike 8b, 6900, Bregenz": [
+  47.5006847,
+  9.7291137,
   "street",
   "photon"
  ],
@@ -3503,6 +3545,12 @@
   "street",
   "photon"
  ],
+ "Kasper - Hagen Straße, Cafe Misu, 6900, Bregenz": [
+  47.5029604,
+  9.7448017,
+  "place",
+  "photon"
+ ],
  "Katzenberg 1, 4982, Kirchdorf am Inn": [
   48.2967459,
   13.2991741,
@@ -3542,6 +3590,12 @@
  "Khleslplatz 7, 1120, Wien": [
   48.162465,
   16.3213991,
+  "street",
+  "photon"
+ ],
+ "Kienzlweg 10, 4030, Linz": [
+  48.2607671,
+  14.3074819,
   "street",
   "photon"
  ],
@@ -3884,6 +3938,12 @@
  "Koppelweg 2, 4060, Leonding": [
   48.2893436,
   14.2640916,
+  "street",
+  "photon"
+ ],
+ "Koppstraße 100, 1160, Wien": [
+  48.2092756,
+  16.31715,
   "street",
   "photon"
  ],
@@ -4331,6 +4391,12 @@
   "street",
   "photon"
  ],
+ "Linzerstraße 2, 4493, Wolfern": [
+  48.0824828,
+  14.3773278,
+  "street",
+  "photon"
+ ],
  "Linzerstraße 2, 4800, Attnang - Puchheim": [
   48.0097402,
   13.7222584,
@@ -4388,6 +4454,12 @@
  "Ludowikaweg 1, Haus St. Louise, 3034, Maria Anzbach": [
   48.1873476,
   15.9420464,
+  "street",
+  "photon"
+ ],
+ "Ludwig - Bruckner - Straße 1 3494 Theiß, 3494, Theiß": [
+  48.393725,
+  15.7082384,
   "street",
   "photon"
  ],
@@ -5330,6 +5402,12 @@
  "Parkplatz vor der Bezirkssporthalle Neben Spar und Hofer, 4550, Kremsmünster": [
   48.0523014,
   14.133257,
+  "street",
+  "photon"
+ ],
+ "Parkring 12, 1010, Wien": [
+  48.2054655,
+  16.3781489,
   "street",
   "photon"
  ],
@@ -6587,6 +6665,12 @@
   "street",
   "photon"
  ],
+ "Siggerwiesen 32, 5101, Bergheim": [
+  47.8606399,
+  13.0097529,
+  "street",
+  "photon"
+ ],
  "Sigmund - Haffner - Gasse 5, 5020, Salzburg": [
   47.7996404,
   13.0444863,
@@ -6602,6 +6686,12 @@
  "Simmeringer Hauptstraße 343, 1110, Wien": [
   48.1546871,
   16.4432716,
+  "street",
+  "photon"
+ ],
+ "Simmeringer Hauptstraße. 34 - 40 / Stiege 14, 1110, Wien": [
+  48.1811105,
+  16.4085893,
   "street",
   "photon"
  ],
@@ -7631,6 +7721,12 @@
   "street",
   "photon"
  ],
+ "Weinberggasse 17, 1190, Wien": [
+  48.2430773,
+  16.3383763,
+  "street",
+  "photon"
+ ],
  "Weisses Kreuz 1, 2851 Krumbach, 2851, Krumbach": [
   47.5415761,
   16.1558175,
@@ -7958,6 +8054,12 @@
  "Zemling Manhartsbergstraße 9, 3473, Hohenwarth": [
   48.5292286,
   15.7830858,
+  "street",
+  "photon"
+ ],
+ "Zeughausgasse 1, 6020, Innsbruck": [
+  47.2707578,
+  11.4071156,
   "street",
   "photon"
  ],

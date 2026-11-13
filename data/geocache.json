@@ -1265,6 +1265,12 @@
   "street",
   "photon"
  ],
+ "Die Konerei, Herzogenburger Str. 69, 3107, St. Pölten": [
+  48.217049,
+  15.637198,
+  "street",
+  "photon"
+ ],
  "Diendorfer Weg 16, 3493, Hadersdorf am Kamp": [
   48.4484631,
   15.726187,
@@ -2735,6 +2741,12 @@
   "place",
   "photon"
  ],
+ "Hauptstraße3, 2225, Loidesthal": [
+  48.4967037,
+  16.7487643,
+  "place",
+  "photon"
+ ],
  "Haus Gisingen, Neuer Kirchweg 1, 6800, Felkirch - Gisingen": [
   47.257494,
   9.5966229,
@@ -3350,6 +3362,12 @@
  "Johann Schweigergasse 18, 2120, Wolkersdorf": [
   48.3784953,
   16.5147641,
+  "street",
+  "photon"
+ ],
+ "Johann Strauss Gasse 29, 1040, Wien": [
+  48.1877824,
+  16.3682487,
   "street",
   "photon"
  ],
@@ -4503,6 +4521,12 @@
   48.234227,
   13.829005,
   "place",
+  "photon"
+ ],
+ "Marchfeldstraße 61, 2304, Mannsdorf an der Donau": [
+  48.1521042,
+  16.66751,
+  "street",
   "photon"
  ],
  "Marchtenkerstr. 65, 4611, Buchkirchen": [
@@ -7275,6 +7299,12 @@
   48.2718132,
   14.4485413,
   "place",
+  "photon"
+ ],
+ "Töbeleweg 8, Töbelehallle Götzis, 6840, Götzis": [
+  47.3318563,
+  9.6465002,
+  "street",
   "photon"
  ],
  "Töllergasse 11, 1210, Wien": [

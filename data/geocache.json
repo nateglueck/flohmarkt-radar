@@ -227,6 +227,12 @@
   "street",
   "photon"
  ],
+ "Alfred Bäck Str 9, 5020, Salzburg": [
+  47.7872465,
+  13.0197709,
+  "street",
+  "photon"
+ ],
  "Alfred Fröhlich - Straße 3, 2201, Seyring": [
   48.3386105,
   16.4635233,
@@ -4979,6 +4985,12 @@
   "street",
   "photon"
  ],
+ "Mozartstraße 2A, 2500, Baden": [
+  48.0107333,
+  16.2229532,
+  "place",
+  "photon"
+ ],
  "Multistorage, Scherenbrandtnerhofstr. 11, 5020, Salzburg": [
   47.8239174,
   13.0586665,
@@ -5249,6 +5261,12 @@
   "place",
   "photon"
  ],
+ "Odoakergasse 7, 1160, Wien": [
+  48.2153405,
+  16.3082666,
+  "street",
+  "photon"
+ ],
  "Oelweingasse 2, 1150, Wien": [
   48.1894357,
   16.329983,
@@ -5337,6 +5355,12 @@
   47.7389223,
   13.0450743,
   "street",
+  "photon"
+ ],
+ "Otto Wagner Areal, Baumgartner Höhe 1, Direktionsgebäude C, Stiege3, 1 Stock, 1140, Wien": [
+  48.2098132,
+  16.2812956,
+  "place",
   "photon"
  ],
  "P. Engelbertstraße 1, Pfarrsaal, Sattledt, 4642, Sattledt": [
@@ -6716,6 +6740,12 @@
  "Simmeringer Hauptstraße. 34 - 40 / Stiege 14, 1110, Wien": [
   48.1811105,
   16.4085893,
+  "street",
+  "photon"
+ ],
+ "Simone - Veil - Gasse 7, 1210, Wien": [
+  48.2478572,
+  16.4246669,
   "street",
   "photon"
  ],

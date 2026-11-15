@@ -239,6 +239,12 @@
   "street",
   "photon"
  ],
+ "Alfred Fröhlich Str 3, 2201, Seyring": [
+  48.3386105,
+  16.4635233,
+  "street",
+  "photon"
+ ],
  "Alfred Schedewy Gasse 6, 2524, Teesdorf": [
   47.9494984,
   16.2791383,
@@ -1223,6 +1229,12 @@
   "street",
   "photon"
  ],
+ "Conrad V. Hötzendorferstraße 4, 8570, Voitsberg": [
+  47.0505573,
+  15.1466747,
+  "street",
+  "photon"
+ ],
  "Cytastraße, 6176, Völs": [
   47.257453,
   11.3236528,
@@ -1677,6 +1689,12 @@
   48.2085868,
   13.48839,
   "place",
+  "photon"
+ ],
+ "Fahrafeld 39, 3071, Kasten bei Böheimkirchen": [
+  48.142679,
+  15.750025,
+  "street",
   "photon"
  ],
  "Fairmotel Seminarraum, 6850, Dornbirn": [
@@ -3413,6 +3431,12 @@
   "street",
   "photon"
  ],
+ "Josef Kremslehner Gasse 4 - 6, 3021, Pressbaum": [
+  48.1847082,
+  16.0857665,
+  "street",
+  "photon"
+ ],
  "Josef Kutscha - Gasse 8 / 2, 1230, Wien, Liesing": [
   48.1337538,
   16.2802451,
@@ -3458,6 +3482,18 @@
  "Julius - Meinl - Gasse 3 - 7, 1160, Wien": [
   48.2201007,
   16.310137,
+  "street",
+  "photon"
+ ],
+ "Jägergrund 6, 2304 Orth an der Donau, 2304, Orth an der Donau": [
+  48.1448822,
+  16.6981387,
+  "street",
+  "photon"
+ ],
+ "Jägergrund 8 Daneben, 2304, Orth an der Donau": [
+  48.1448544,
+  16.6978016,
   "street",
   "photon"
  ],
@@ -5466,6 +5502,12 @@
   "photon"
  ],
  "Paulustorgasse 13a, 8010, GRAZ": [
+  47.0751886,
+  15.4400134,
+  "street",
+  "photon"
+ ],
+ "Paulustorgasse 13a, 8010, Graz": [
   47.0751886,
   15.4400134,
   "street",

@@ -893,6 +893,12 @@
   "unresolved",
   "none"
  ],
+ "Bergstraße 43, 2193, Erdberg": [
+  48.6271866,
+  16.6416588,
+  "street",
+  "photon"
+ ],
  "Bergstraße 45, 2193, Erdberg": [
   48.6272422,
   16.6413762,
@@ -2273,6 +2279,12 @@
   "street",
   "photon"
  ],
+ "Grubtalsiedlung II / 5, 3150, Wilhelmsburg": [
+  48.0993485,
+  15.5934705,
+  "street",
+  "photon"
+ ],
  "Gspöttgraben 5, 1190, Wien": [
   48.2615879,
   16.3133691,
@@ -2316,6 +2328,12 @@
   "photon"
  ],
  "Gänserndorfer Straße 20, 2282 Markgrafneusiedl, 2282, Markgrafneusiedl": [
+  48.2836746,
+  16.6555977,
+  "street",
+  "photon"
+ ],
+ "Gänserndorfer Straße 20, 2282, Markgrafneusiedl": [
   48.2836746,
   16.6555977,
   "street",
@@ -3164,6 +3182,12 @@
  "Ignaz - Glaser - Straße 59, 5111, Bürmoos": [
   47.983581,
   12.919364,
+  "street",
+  "photon"
+ ],
+ "Ikeaplatz 4, 4053, Ansfelden": [
+  48.1949036,
+  14.2470762,
   "street",
   "photon"
  ],
@@ -6405,6 +6429,12 @@
   48.1857308,
   15.6373275,
   "place",
+  "photon"
+ ],
+ "Schillerstraße 16, 3385, Prinzersdorf": [
+  48.2052827,
+  15.5229115,
+  "street",
   "photon"
  ],
  "Schloss Halbturn, 7131, Halbturn": [

@@ -95,6 +95,12 @@
   "place",
   "photon"
  ],
+ "A. Baumgartnerstr. 44 / A5 / 3Stock, 1230, Wien": [
+  48.1512306,
+  16.312205,
+  "street",
+  "photon"
+ ],
  "AM BACH 60 und HAUPTSTRASSE 115, 2244, SPANNBERG": [
   48.4638705,
   16.7435611,
@@ -2276,6 +2282,12 @@
  "Grinzinger Allee 26, 1190, Wien Döbling": [
   48.2491701,
   16.3432872,
+  "street",
+  "photon"
+ ],
+ "Großer Wörth 7, 3484, Grafenwörth": [
+  48.4058352,
+  15.7774048,
   "street",
   "photon"
  ],
@@ -4901,6 +4913,12 @@
   "street",
   "photon"
  ],
+ "Messeplatz 1, 4600, Wels": [
+  48.1515498,
+  14.0175891,
+  "street",
+  "photon"
+ ],
  "Messezentrum Salzburg, am Messezentrum 1, 5020 Salzburg, 5020, Salzburg": [
   47.8253461,
   13.0279382,
@@ -5392,6 +5410,18 @@
   null,
   "unresolved",
   "none"
+ ],
+ "Ottakringer Str. 217 CWFB Veranstaltungssaal, 1160, Wien": [
+  48.2140789,
+  16.3080851,
+  "street",
+  "photon"
+ ],
+ "Ottakringer Straße 217 / CWBF Veranstaltungssaal, 1160, Wien": [
+  48.2140789,
+  16.3080851,
+  "street",
+  "photon"
  ],
  "Ottakringerstraße 217 Ggü. 10er - Marie, 1160, Wien": [
   48.2142674,
@@ -7310,6 +7340,12 @@
  "Thalerhofstraße 85, 8141, Premstätten": [
   46.9799096,
   15.427529,
+  "street",
+  "photon"
+ ],
+ "Thalia - Straße 159 / 4 / 4, 1160, Wien": [
+  48.2110139,
+  16.3380137,
   "street",
   "photon"
  ],

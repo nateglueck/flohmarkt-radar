@@ -101,6 +101,12 @@
   "street",
   "photon"
  ],
+ "A. Baumgartnerstr. 44 / A5 3. Stock, 1230, Wien": [
+  48.1321219,
+  16.318548,
+  "street",
+  "photon"
+ ],
  "AM BACH 60 und HAUPTSTRASSE 115, 2244, SPANNBERG": [
   48.4638705,
   16.7435611,
@@ -311,6 +317,12 @@
   "street",
   "photon"
  ],
+ "Althanstraße 10, 1090, Wien": [
+  48.2284973,
+  16.360098,
+  "street",
+  "photon"
+ ],
  "Am Anger 3, 6850, Dornbirn": [
   47.4102015,
   9.7170181,
@@ -512,6 +524,12 @@
  "Arndtstraße 56/Gassenlokal, 1120, Wien": [
   48.1834703,
   16.3363562,
+  "street",
+  "photon"
+ ],
+ "Arsenal Objekt 19A, 1030, Wien": [
+  48.1840339,
+  16.3915203,
   "street",
   "photon"
  ],
@@ -758,6 +776,12 @@
  "Bahnhofstraße 62, 3363, Hausmening": [
   48.0711902,
   14.8146727,
+  "street",
+  "photon"
+ ],
+ "Bahnstraße 18, 2225, Zistersdorf": [
+  48.5450707,
+  16.7691012,
   "street",
   "photon"
  ],
@@ -1718,6 +1742,12 @@
  "Falkstraße 15, 2540, Bad Vöslau": [
   47.9706728,
   16.2164927,
+  "street",
+  "photon"
+ ],
+ "Feldgasse 165, 2392, Sulz im Wienerwald": [
+  48.0999071,
+  16.1308352,
   "street",
   "photon"
  ],
@@ -2975,6 +3005,12 @@
   "street",
   "photon"
  ],
+ "Hirschstettner Str. 91, 1220 Wien, 1220, Wien": [
+  48.2360066,
+  16.4657095,
+  "street",
+  "photon"
+ ],
  "Hochburg 20, 5122, Hochburg - Ach": [
   48.127221,
   12.877077,
@@ -3995,6 +4031,12 @@
   "street",
   "photon"
  ],
+ "Klährgasse 2, 1120 Wien, 1120, Wien": [
+  48.1822931,
+  16.3372258,
+  "street",
+  "photon"
+ ],
  "Kohlberg 130, 8342, Gnas": [
   46.9076577,
   15.7985694,
@@ -4805,6 +4847,12 @@
   "street",
   "photon"
  ],
+ "Maurer - Lange Gasse 72, 1230, Wien": [
+  48.148039,
+  16.2665806,
+  "street",
+  "photon"
+ ],
  "Maurer Hauptplatz, 1230, Wien": [
   48.1507406,
   16.2682836,
@@ -4880,6 +4928,12 @@
  "Messefoyer der Kärnter Messen, St. Ruprechterstraße, 9020, Klagenfurt am Wörthersee": [
   46.6125311,
   14.3084803,
+  "street",
+  "photon"
+ ],
+ "Messefoyer der Kärntner Messen, Messehaupteingang, St. Ruprechterstraße, 9020, Klagenfurt am Wörthersee": [
+  46.612235,
+  14.3175207,
   "street",
   "photon"
  ],
@@ -5300,6 +5354,12 @@
  "Obere Hauptstraße 19, 3495, Rohrendorf bei Krems": [
   48.4185419,
   15.6545459,
+  "street",
+  "photon"
+ ],
+ "Oberechinger Landesstraße 4, 5113, St. Georgen bei Salzburg": [
+  47.9852879,
+  12.8826894,
   "street",
   "photon"
  ],
@@ -5986,6 +6046,12 @@
   15.654519,
   "street",
   "nominatim"
+ ],
+ "Radetzkystraße 73, 6845, Hohenems": [
+  47.3734536,
+  9.6944298,
+  "street",
+  "photon"
  ],
  "Raffaelgasse 1A, 1200, Wien": [
   48.2307042,
@@ -8114,6 +8180,12 @@
  "Wilhelminenstraße 130, 1160, Wien": [
   48.218531,
   16.3016131,
+  "street",
+  "photon"
+ ],
+ "Wilhelminenstraße 53, 1160, Wien": [
+  48.2168311,
+  16.3133736,
   "street",
   "photon"
  ],

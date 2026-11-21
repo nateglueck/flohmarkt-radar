@@ -743,9 +743,21 @@
   "street",
   "photon"
  ],
+ "Bahnhofstr. 20, Gemeindesaal, 4400, Steyr": [
+  48.0396543,
+  14.4235272,
+  "street",
+  "photon"
+ ],
  "Bahnhofstr. 21, 4050, Traun": [
   48.2209753,
   14.2420961,
+  "street",
+  "photon"
+ ],
+ "Bahnhofstr.20, 4400, Steyr": [
+  48.0396543,
+  14.4235272,
   "street",
   "photon"
  ],
@@ -1151,6 +1163,12 @@
   "street",
   "photon"
  ],
+ "Buchfeldgasse 9, 1080, Wien": [
+  48.2104079,
+  16.3532564,
+  "street",
+  "photon"
+ ],
  "Bujattigasse 5, Baptistengemeinde, 1140, Wien": [
   48.2042783,
   16.2554612,
@@ -1226,6 +1244,12 @@
  "Campus Horn, Canisiusgasse 1, 3580, Horn": [
   48.6724952,
   15.6544188,
+  "street",
+  "photon"
+ ],
+ "Campus Wienerwald - Odilienweg 1, 3051, Unterdambach": [
+  48.1846876,
+  15.8806832,
   "street",
   "photon"
  ],
@@ -1496,6 +1520,12 @@
  "Edelstauden 37, 8081, Pirching a. T.": [
   46.9736286,
   15.6230913,
+  "street",
+  "photon"
+ ],
+ "Egger - Lienz - Gasse 15 / Top 1, 5020, Salzburg": [
+  47.7818786,
+  13.0711485,
   "street",
   "photon"
  ],
@@ -1787,6 +1817,12 @@
   "street",
   "photon"
  ],
+ "Fischbachgasse 54, 6850, Dornbirn": [
+  47.4264256,
+  9.7431343,
+  "street",
+  "photon"
+ ],
  "Fischteich Breitensee, 2294, Breitensee bei Marchegg": [
   48.254824,
   16.8787565,
@@ -1881,6 +1917,12 @@
   48.1069232,
   16.283561,
   "place",
+  "photon"
+ ],
+ "Franzensbrückenstraße 19, 1020, Wien": [
+  48.214258,
+  16.3917698,
+  "street",
   "photon"
  ],
  "Freibad, 2154, Unterstinkenbrunn": [
@@ -2174,6 +2216,12 @@
  "Gesäusestraße 21 - 23, 8940, Liezen": [
   47.5603277,
   14.2540651,
+  "street",
+  "photon"
+ ],
+ "Getreidemarkt 10 / 17, 1010 Wien, 1010, Wien": [
+  48.2016185,
+  16.3634968,
   "street",
   "photon"
  ],
@@ -2504,6 +2552,12 @@
  "Handelsweg 10, 2542, Kottingbrunn": [
   47.9481448,
   16.2207316,
+  "street",
+  "photon"
+ ],
+ "Hanggasse 31, 6850, Dornbirn": [
+  47.4025655,
+  9.7343172,
   "street",
   "photon"
  ],
@@ -2870,6 +2924,12 @@
  "Heiligenstädter Straße 155, 1190, Wien": [
   48.2542913,
   16.3644954,
+  "street",
+  "photon"
+ ],
+ "Heiligenstädterstraße 111, 1190, Wien": [
+  48.2401749,
+  16.3446209,
   "street",
   "photon"
  ],
@@ -3608,6 +3668,12 @@
  "Kaiser - Josef - Platz 10, 8010, Graz": [
   47.0689957,
   15.4456981,
+  "street",
+  "photon"
+ ],
+ "Kaiser Franz Josef Straße 17, 6890, Lustenau": [
+  47.4229074,
+  9.6594648,
   "street",
   "photon"
  ],
@@ -6203,10 +6269,22 @@
   "street",
   "photon"
  ],
+ "Rennweg 91, 1030 Wien, 1030, Wien": [
+  48.1905378,
+  16.3980391,
+  "street",
+  "photon"
+ ],
  "Rerobichlstraße 11, 6372, Oberndorf in Tirol": [
   47.5005095,
   12.3828372,
   "street",
+  "photon"
+ ],
+ "Reuenthalgasse 1, 1150, Wien": [
+  48.202831,
+  16.3307169,
+  "place",
   "photon"
  ],
  "Rheinstraße 7a, 6845, Hohenems": [
@@ -6218,6 +6296,12 @@
  "Rickard Linströmgasse 23 Alte Per Albin Hansson Siedlung, 1100, Wien": [
   48.1484833,
   16.3800953,
+  "street",
+  "photon"
+ ],
+ "Riedstraße 1, 6858, Schwarzach": [
+  47.444409,
+  9.7589433,
   "street",
   "photon"
  ],
@@ -6348,6 +6432,12 @@
   "photon"
  ],
  "Rudolfstraße 23, 4040, Linz": [
+  48.3100486,
+  14.2796608,
+  "street",
+  "photon"
+ ],
+ "Rudolfstraße 23, 4040, Linz / Urfahr": [
   48.3100486,
   14.2796608,
   "street",
@@ -6531,6 +6621,12 @@
   48.2052827,
   15.5229115,
   "street",
+  "photon"
+ ],
+ "Schlins Burgweg 8, 6824, Schlins Gemeinde": [
+  47.2050162,
+  9.7041894,
+  "place",
   "photon"
  ],
  "Schloss Halbturn, 7131, Halbturn": [

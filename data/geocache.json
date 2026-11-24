@@ -341,6 +341,12 @@
   "place",
   "photon"
  ],
+ "Am Garnmarkt, 6840, Götzis": [
+  47.3365967,
+  9.6468222,
+  "place",
+  "photon"
+ ],
  "Am Hof, 1010, Wien": [
   48.2111053,
   16.3676626,
@@ -1985,6 +1991,12 @@
   "street",
   "photon"
  ],
+ "Fritz - Pregl - Gasse 4, 8073 Feldkirchen bei Graz, 8073, Feldkirchen bei Graz": [
+  46.9914969,
+  15.4590501,
+  "street",
+  "photon"
+ ],
  "Fritz Hatschek Str. 30, 4844, Regau": [
   47.9989456,
   13.6681038,
@@ -2414,6 +2426,12 @@
  "Gunskirchener Str. 7, MAX CENTER, 4600, Wels": [
   48.1458253,
   13.9719523,
+  "street",
+  "photon"
+ ],
+ "Guntramsdorferstraße 7, 2340, Mödling": [
+  48.0848234,
+  16.2832379,
   "street",
   "photon"
  ],
@@ -2992,6 +3010,12 @@
   16.3863398,
   "place",
   "photon"
+ ],
+ "Herzgasse 86 - 90, 1100, Wien": [
+  48.1765695,
+  16.3671098,
+  "street",
+  "nominatim"
  ],
  "Herzgasse, 1100, Wien": [
   48.1781952,
@@ -4731,6 +4755,12 @@
   48.1914931,
   16.3582701,
   "place",
+  "photon"
+ ],
+ "Margaretenstraße 38, 1040, Wien": [
+  48.1957782,
+  16.3639055,
+  "street",
   "photon"
  ],
  "Maria - Gailer - Straße 39, 9500, Villach": [
@@ -6620,6 +6650,12 @@
  "Schillerstraße 16, 3385, Prinzersdorf": [
   48.2052827,
   15.5229115,
+  "street",
+  "photon"
+ ],
+ "Schlins Burgweg 6, 6824, Schlins": [
+  47.2048483,
+  9.7040632,
   "street",
   "photon"
  ],

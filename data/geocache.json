@@ -5729,6 +5729,12 @@
   "street",
   "photon"
  ],
+ "Payergasse 14, 1160, Wien": [
+  48.2137571,
+  16.3363311,
+  "street",
+  "photon"
+ ],
  "Peter - Mitterhofer - Straße 3, 3300, Amstetten": [
   48.108921,
   14.8799764,
@@ -7724,6 +7730,12 @@
  "Untere Hauptstraße 39, 7061, TRAUSDORF": [
   47.8143108,
   16.5608854,
+  "street",
+  "photon"
+ ],
+ "Untere Landstraße 65, 3500, Krems": [
+  48.4121398,
+  15.6046079,
   "street",
   "photon"
  ],

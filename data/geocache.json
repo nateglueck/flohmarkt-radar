@@ -785,6 +785,12 @@
   "street",
   "photon"
  ],
+ "Bahnhofstraße 40, 6890, Lustenau": [
+  47.4442295,
+  9.6607117,
+  "street",
+  "photon"
+ ],
  "Bahnhofstraße 42, 6300 Wörgl, 6300, Wörgl": [
   47.4894047,
   12.0612685,
@@ -971,6 +977,12 @@
   "street",
   "photon"
  ],
+ "Bildgasse 18, 6850, Dornbirn": [
+  47.412694,
+  9.7311434,
+  "street",
+  "photon"
+ ],
  "Bildgasse. 18 Tor1, 6850, Dornbirn": [
   47.4130145,
   9.7320194,
@@ -1067,6 +1079,12 @@
   "street",
   "photon"
  ],
+ "Breitenfurterstraße 352, 1230, Wien": [
+  48.2295743,
+  16.3655393,
+  "street",
+  "photon"
+ ],
  "Breitenfurterstraße 352A, 1230, Wien": [
   48.1485483,
   16.2986766,
@@ -1094,6 +1112,12 @@
  "Bruckerstraße 13, 7111, Parndorf": [
   47.9934946,
   16.8570276,
+  "street",
+  "photon"
+ ],
+ "Bruckmühle, Bahnhofstraße 12, 4230, Pregarten": [
+  48.3554849,
+  14.5269555,
   "street",
   "photon"
  ],
@@ -6524,6 +6548,12 @@
  "Salcherstraße 106 A - F, 3104, St. Pölten - Harland": [
   48.1574109,
   15.6388106,
+  "street",
+  "photon"
+ ],
+ "Salesianergasse 5, 1030, Wien": [
+  48.1998524,
+  16.3812788,
   "street",
   "photon"
  ],

@@ -1523,6 +1523,12 @@
   "street",
   "photon"
  ],
+ "Ecke Buchfeldgasse 9 / Schmidgasse, 1080, Wien": [
+  48.2113257,
+  16.3530666,
+  "place",
+  "photon"
+ ],
  "Ecke Franz - Josef - Kohout - Straße / Im Vogelsang 21, 3340, Waidhofen / Ybbs": [
   47.9381487,
   14.7766884,
@@ -1604,6 +1610,12 @@
  "Einsiedlergasse 9 - 11, 1050, Wien": [
   48.1838042,
   16.3504992,
+  "street",
+  "photon"
+ ],
+ "Einsiedlerplatz 17 Lagerraum, 1050, Wien": [
+  48.1857521,
+  16.3490136,
   "street",
   "photon"
  ],
